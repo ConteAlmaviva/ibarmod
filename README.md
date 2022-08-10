@@ -1,10 +1,10 @@
 This is a modified version of the excellent `ibar` addon originally written by Vicrelant, which can be found [here](https://git.ashitaxi.com/Addons/ibar).  This version essentially combines ibar with the [checker](https://git.ashitaxi.com/Addons/checker) addon created by atom0s and Lolwutt.  It adds an automatic check function so in addition to the mob level range, you get the specific level of the mob you have targeted.  The original addon looks something like this:
 
-![Original_example_shot](/screenshots/ex1.jpg)
+![Original_example_shot](/screenshots/ex1.png)
 
 The modified version looks like this:
 
-![Modified_example_shot](/screenshots/ex2.jpg)
+![Modified_example_shot](/screenshots/ex2.png)
 
 For NMs, it will only display (NM).
 
