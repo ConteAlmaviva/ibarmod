@@ -22,6 +22,6 @@ If you use Byrth's Battlemod addon (originally for Windower, shimmed to Ashita b
 
 ![Modified_battlemod](/screenshots/battlemod_comment.png)
 
-Finally, this also allows you to put the level of your current target in chat with %%level%%, similar to how \<t\> will put the name of your current target in chat.  See below:
+Finally, this also allows you to put the level of your current target in chat with %%level%%, similar to how \<t\> will put the name of your current target in chat.  This can be useful for EXP and merit parties, letting other party members know what to expect in terms of mob difficulty and EXP/LP gain.  See below:
 
 ![party_message](/screenshots/current_target_level.png)
