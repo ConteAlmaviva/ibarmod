@@ -1,4 +1,4 @@
---[[ ibar
+--[[
  *	The MIT License (MIT)
  *
  *	Copyright (c) 2014 Vicrelant
@@ -21,34 +21,10 @@
  *	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
  *	DEALINGS IN THE SOFTWARE.
 ]]--
---[[ Checker
-* Ashita - Copyright (c) 2014 - 2017 atom0s [atom0s@live.com]
-*
-* This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-* To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to
-* Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-*
-* By using Ashita, you agree to the above license and its terms.
-*
-*      Attribution - You must give appropriate credit, provide a link to the license and indicate if changes were
-*                    made. You must do so in any reasonable manner, but not in any way that suggests the licensor
-*                    endorses you or your use.
-*
-*   Non-Commercial - You may not use the material (Ashita) for commercial purposes.
-*
-*   No-Derivatives - If you remix, transform, or build upon the material (Ashita), you may not distribute the
-*                    modified material. You are, however, allowed to submit the modified works back to the original
-*                    Ashita project in attempt to have it added to the original project.
-*
-* You may not apply legal terms or technological measures that legally restrict others
-* from doing anything the license permits.
-*
-* No warranties are given.
-]]--
 
 _addon.author   = 'Vicrelant (check function added by Almavivaconte)';
 _addon.name     = 'ibar';
-_addon.version  = '3.0.3';
+_addon.version  = '3.0.2';
 
 require 'common'
 
@@ -503,6 +479,10 @@ ashita.register_event('incoming_packet', function(id, size, packet, data, blocke
 		arraySize = table.getn(mb_data);
     end
     
+    if passthrough_check then
+        return false
+    end
+    
     if (id == 0x0029) then
         currIndex = struct.unpack('H', data, 0x16 + 1);
         local p = struct.unpack('l', packet, 0x0C + 1); -- Monster Level
@@ -555,48 +535,6 @@ ashita.register_event('incoming_packet', function(id, size, packet, data, blocke
                 moblvl = moblvl .. " " .. ccond .. ")";
             else
                 moblvl = moblvl .. ")";
-            end
-        end
-        
-        if passthrough_check then
-            local conditions_full =
-            {
-                { 0xAA, '\31\200(\31\130High Evasion, High Defense\31\200)'},
-                { 0xAB, '\31\200(\31\130High Evasion\31\200)' },
-                { 0xAC, '\31\200(\31\130High Evasion, Low Defense\31\200)' },
-                { 0xAD, '\31\200(\31\130High Defense\31\200)' },
-                { 0xAE, '' },
-                { 0xAF, '\31\200(\31\130Low Defense\31\200)' },
-                { 0xB0, '\31\200(\31\130Low Evasion, High Defense\31\200)' },
-                { 0xB1, '\31\200(\31\130Low Evasion\31\200)' },
-                { 0xB2, '\31\200(\31\130Low Evasion, Low Defense\31\200)' },
-            };
-            local checktype_full = 
-            {
-                { 0x40, '\30\02too weak to be worthwhile' },
-                { 0x41, '\30\02like incredibly easy prey' },
-                { 0x42, '\30\02like easy prey' },
-                { 0x43, '\30\102like a decent challenge' },
-                { 0x44, '\30\08like an even match' },
-                { 0x45, '\30\68tough' },
-                { 0x46, '\30\76very tough' },
-                { 0x47, '\30\76incredibly tough' }
-            };
-            for k, vv in pairs(checktype_full) do
-                if (vv[1] == v) then
-                    ctype = vv[2];
-                end
-            end
-            for k, vv in pairs(conditions_full) do
-                if (vv[1] == m) then
-                    ccond = vv[2];
-                end
-            end
-            local timestamp = os.date(string.format('\31\%c[%s]\30\01 ', 200, '%H:%M:%S'));
-            if moblvl == "(NM)" then
-                print(timestamp .. string.format('\31\130%s \30\82%s\31\130 \31\200(Lv. ???) \30\05Impossible to gauge!', entity.Name, string.char(0x81, 0xA8)));
-            else
-                print(timestamp .. string.format('\31\130%s \30\82%s\31\130 \31\200(Lv. \30\82%d\31\200) \31\130Seems %s\31\130. %s', entity.Name, string.char(0x81, 0xA8), p, ctype, ccond));
             end
         end
         
