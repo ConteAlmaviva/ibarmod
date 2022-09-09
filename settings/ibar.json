@@ -9,7 +9,7 @@
         "size": 7
     },
     "layout": {
-        "npc": "$target [$position] [ID: $id / Index: $m_index]",
+        "npc": "$target $level [$position] [ID: $id / Index: $m_index]",
         "player": "$zone $name  [$level]  [$position] - $ecompass",
         "target": "$target  [$job / $level / $aggro]  Weak[$weak]"
     }

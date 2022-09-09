@@ -102,6 +102,7 @@ local default_config =
 		npc = '$target [$position] [ID: $id / Index: $m_index]'
 	}
 };
+local checked_once = false;
 local ibar_config = default_config;
 local moblvl = '';
 local lvlraw = '';
@@ -287,7 +288,7 @@ ashita.register_event('render', function()
 	
 	if (target:GetTargetEntityPointer() == nil or target:GetTargetName() == '' or target:GetTargetServerId() == 0 or
 		target:GetTargetServerId() == party:GetMemberServerId(0)) then
-		
+		checked_once = false;
 		-- player does not have a sub-job unlocked.
 		if (player:GetSubJobLevel() == 0) then
 			
@@ -377,6 +378,11 @@ ashita.register_event('render', function()
                         passthrough_check = false;
                         SendCheckPacket(target:GetTargetIndex())
                         check_blocker()
+                        if string.contains(mb_data[i].aggro, "HP") then
+                            AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 1", 1);
+                        else
+                            AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
+                        end
                     end            
                     
 					if (name ~= nil) then m_target = string.gsub(m_target,'$target',tentity.Name); end
@@ -397,6 +403,8 @@ ashita.register_event('render', function()
 							m_target = string.gsub(m_target,'$aggro',mb_data[i].aggro);
 						end
 					end
+                    
+                        
 					
                     
 					f:SetText(string.format(m_target));
@@ -415,6 +423,11 @@ ashita.register_event('render', function()
                         passthrough_check = false;
                         SendCheckPacket(target:GetTargetIndex())
                         check_blocker()
+                        if string.contains(mb_data[i].aggro, "HP") then
+                            AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 1", 1);
+                        else
+                            AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
+                        end
                     end             
                     
 					if (name ~= nil) then m_target = string.gsub(m_target,'$target',tentity.Name); end
@@ -460,10 +473,29 @@ ashita.register_event('render', function()
 			pX = string.format('%2.3f',tentity.Movement.LocalPosition.X);
 			pY = string.format('%2.3f',tentity.Movement.LocalPosition.Y);
 			pZ = string.format('%2.3f',tentity.Movement.LocalPosition.Z);
+            
+            moblvl = "";
+            
+            tindex = target:GetTargetIndex() <= 1023;
+            
+            if target:GetTargetIndex() ~= currIndex then
+                checked_once = false;
+            end
+            
+            if not checked_once and tindex then
+                passthrough_check = false;
+                SendCheckPacket(target:GetTargetIndex());
+                checked_once = true;
+                currIndex = target:GetTargetIndex();
+                AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
+            end 
 			
+            if moblvl ~= "" then mlvl = moblvl; else mlvl = nil; end
+            
 			if (name ~= nil) then m_target = string.gsub(m_target,'$target',tentity.Name); end
 			if (m_id ~= nil) then m_target = string.gsub(m_target,'$id',target:GetTargetServerId()); end
 			if (m_ix ~= nil) then m_target = string.gsub(m_target,'$m_index',target:GetTargetIndex()); end
+            if (mlvl ~= nil) then m_target = string.gsub(m_target,'$level',"[" .. moblvl .. "]"); else m_target = string.gsub(m_target,'$level',""); end
 			if (gpos ~= nil) then m_target = string.gsub(m_target,'$position', pX .. ',' .. pY .. ',' .. pZ); end
 			if (n_hp ~= nil) then m_target = string.gsub(m_target,'$hpp',tentity.HealthPercent); end
 			
@@ -471,6 +503,7 @@ ashita.register_event('render', function()
 			return;
 		else
 			f:SetText('');
+            AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
 		end
 	end
 end );
@@ -598,6 +631,7 @@ ashita.register_event('incoming_packet', function(id, size, packet, data, blocke
             else
                 print(timestamp .. string.format('\31\130%s \30\82%s\31\130 \31\200(Lv. \30\82%d\31\200) \31\130Seems %s\31\130. %s', entity.Name, string.char(0x81, 0xA8), p, ctype, ccond));
             end
+            passthrough_check = false;
         end
         
         return true;
