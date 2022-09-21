@@ -46,7 +46,7 @@
 * No warranties are given.
 ]]--
 
-_addon.author   = 'Vicrelant (check function added by Almavivaconte)';
+_addon.author   = 'Vicrelant (check function from atom0s\'s checker addon ported by Almavivaconte)';
 _addon.name     = 'ibar';
 _addon.version  = '3.0.3';
 
@@ -474,12 +474,12 @@ ashita.register_event('render', function()
 			pY = string.format('%2.3f',tentity.Movement.LocalPosition.Y);
 			pZ = string.format('%2.3f',tentity.Movement.LocalPosition.Z);
             
-            moblvl = "";
             
             tindex = target:GetTargetIndex() <= 1023;
             
             if target:GetTargetIndex() ~= currIndex then
                 checked_once = false;
+                moblvl = "";
             end
             
             if not checked_once and tindex then
@@ -490,12 +490,12 @@ ashita.register_event('render', function()
                 AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
             end 
 			
-            if moblvl ~= "" then mlvl = moblvl; else mlvl = nil; end
+            --f moblvl ~= "" then mlvl = moblvl; else mlvl = nil; end
             
 			if (name ~= nil) then m_target = string.gsub(m_target,'$target',tentity.Name); end
 			if (m_id ~= nil) then m_target = string.gsub(m_target,'$id',target:GetTargetServerId()); end
 			if (m_ix ~= nil) then m_target = string.gsub(m_target,'$m_index',target:GetTargetIndex()); end
-            if (mlvl ~= nil) then m_target = string.gsub(m_target,'$level',"[" .. moblvl .. "]"); else m_target = string.gsub(m_target,'$level',""); end
+            if (moblvl ~= "") then m_target = string.gsub(m_target,'$level',"[" .. moblvl .. "]"); else m_target = string.gsub(m_target,'$level',""); end
 			if (gpos ~= nil) then m_target = string.gsub(m_target,'$position', pX .. ',' .. pY .. ',' .. pZ); end
 			if (n_hp ~= nil) then m_target = string.gsub(m_target,'$hpp',tentity.HealthPercent); end
 			
@@ -585,9 +585,9 @@ ashita.register_event('incoming_packet', function(id, size, packet, data, blocke
             typeraw = ctype;
             moblvl = " (" .. tostring(p) .. " " .. ctype;
             if ccond ~= '' then
-                moblvl = moblvl .. " " .. ccond .. ")";
+                moblvl = moblvl .. " " .. ccond .. ") ";
             else
-                moblvl = moblvl .. ")";
+                moblvl = moblvl .. ") ";
             end
         end
         
