@@ -52,7 +52,7 @@ _addon.version  = '3.0.3';
 
 require 'common'
 
-	  mb_data = {};
+	mb_data = {};
 	arraySize = 0;
 
 	jobs = {
@@ -90,6 +90,7 @@ local default_config =
         name        = 'Arial',
         size        = 10,
         color		= '255,255,255,255',
+        dcolor      = '255,255,0,0',
         position    = { 130, 0 },
         bgcolor     = '200,0,0,0',
         bgvisible   = true,
@@ -103,6 +104,7 @@ local default_config =
 	}
 };
 local checked_once = false;
+local checked_once_alt = false;
 local ibar_config = default_config;
 local moblvl = '';
 local lvlraw = '';
@@ -123,6 +125,8 @@ local conditions =
     { 0xB1, 'LE' },
     { 0xB2, 'LE,LD' },
 };
+local player_table = {};
+
 ---------------------------------------------------------------------------------------------------
 -- Check Type Table
 ---------------------------------------------------------------------------------------------------
@@ -140,6 +144,7 @@ local checktype =
 
 local function check_unblocker()
     check_blocked = false;
+    
 end
 
 local function check_blocker()
@@ -158,6 +163,7 @@ end
 ---------------------------------------------------------------------------------------------------
 ashita.register_event('load', function()
 	ibar_config = ashita.settings.load_merged(_addon.path .. 'settings/ibar.json', ibar_config);
+    player_table = ashita.settings.load_merged(_addon.path .. 'data/player_table.lua', player_table);
 
 	local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
 	local fcolor = math.d3dcolor(a,r,g,b);
@@ -289,6 +295,7 @@ ashita.register_event('render', function()
 	if (target:GetTargetEntityPointer() == nil or target:GetTargetName() == '' or target:GetTargetServerId() == 0 or
 		target:GetTargetServerId() == party:GetMemberServerId(0)) then
 		checked_once = false;
+        checked_once_alt = false;
 		-- player does not have a sub-job unlocked.
 		if (player:GetSubJobLevel() == 0) then
 			
@@ -341,7 +348,9 @@ ashita.register_event('render', function()
 			if (ecom ~= nil) then s_target = string.gsub(s_target,'$ecompass',eResult); end
 			if (scom ~= nil) then s_target = string.gsub(s_target,'$scompass',sResult); end
 			
-
+            local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+            local fcolor = math.d3dcolor(a,r,g,b);
+            f:SetColor(fcolor);
 			f:SetText(string.format(s_target));
 			return;
 		end
@@ -360,6 +369,7 @@ ashita.register_event('render', function()
 	local weak = string.find(m_target,'$weak');
 	local m_hp = string.find(m_target,'$hpp');
     
+    
 	
 	-- attempt to obtain target information.
 	if (target:GetTargetServerId() ~= nil) then
@@ -368,6 +378,7 @@ ashita.register_event('render', function()
 				if (mb_data[i].sj == mb_data[i].mj) then
 					
 					local tentity = GetEntity(target:GetTargetIndex());
+                    
 					pX = string.format('%2.3f',tentity.Movement.LocalPosition.X);
 					pY = string.format('%2.3f',tentity.Movement.LocalPosition.Y);
 					pZ = string.format('%2.3f',tentity.Movement.LocalPosition.Z);
@@ -383,7 +394,8 @@ ashita.register_event('render', function()
                         else
                             AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
                         end
-                    end            
+                    end
+                    
                     
 					if (name ~= nil) then m_target = string.gsub(m_target,'$target',tentity.Name); end
 					if (zone ~= nil) then m_target = string.gsub(m_target,'$zone',ZoneName); end
@@ -405,7 +417,40 @@ ashita.register_event('render', function()
 					end
                     
                         
-					
+					if mb_data[i].aggro ~= "NA" then
+                        local fcolor;
+                        if mobrange ~= nil then
+                            local maxlvl = tonumber(string.sub(mobrange, -2))
+                            if lvlraw == "(NM)" and maxlvl + 15 >= player:GetMainJobLevel() then
+                                local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                fcolor = math.d3dcolor(a,r,g,b);
+                            else
+                                if typeraw == "TW" or (player:GetMainJobLevel() > 70 and maxlvl < 60) then
+                                    local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                else
+                                    local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                end
+                            end
+                        else
+                            if lvlraw == "(NM)" and maxlvl + 15 >= player:GetMainJobLevel() then
+                                local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                fcolor = math.d3dcolor(a,r,g,b);
+                            else
+                                if typeraw == "TW" or (player:GetMainJobLevel() > 70 and tonumber(lvlraw) < 60) then
+                                    local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                else
+                                    local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                end
+                            end
+                        end
+                        f:SetColor(fcolor)
+                    end
+                        
+                        
                     
 					f:SetText(string.format(m_target));
 					return;
@@ -420,6 +465,7 @@ ashita.register_event('render', function()
                     mobrange = mb_data[i].mlvl;
                     
                     if target:GetTargetIndex() ~= currIndex and not check_blocked then
+                        
                         passthrough_check = false;
                         SendCheckPacket(target:GetTargetIndex())
                         check_blocker()
@@ -428,7 +474,7 @@ ashita.register_event('render', function()
                         else
                             AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
                         end
-                    end             
+                    end                                         
                     
 					if (name ~= nil) then m_target = string.gsub(m_target,'$target',tentity.Name); end
 					if (zone ~= nil) then m_target = string.gsub(m_target,'$zone',ZoneName); end
@@ -453,6 +499,39 @@ ashita.register_event('render', function()
 							m_target = string.gsub(m_target,'$aggro',mb_data[i].aggro);
 						end
 					end
+                                           
+					if mb_data[i].aggro ~= "NA" then
+                        local fcolor;
+                        if mobrange ~= nil then
+                            local maxlvl = tonumber(string.sub(mobrange, -2))
+                            if lvlraw == "(NM)" and maxlvl + 15 >= player:GetMainJobLevel() then
+                                local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                fcolor = math.d3dcolor(a,r,g,b);
+                            else
+                                if typeraw == "TW" or (player:GetMainJobLevel() > 70 and maxlvl < 60) then
+                                    local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                else
+                                    local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                end
+                            end
+                        else
+                            if lvlraw == "(NM)" and maxlvl + 15 >= player:GetMainJobLevel() then
+                                local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                fcolor = math.d3dcolor(a,r,g,b);
+                            else
+                                if typeraw == "TW" or (player:GetMainJobLevel() > 70 and tonumber(lvlraw) < 60) then
+                                    local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                else
+                                    local a,r,g,b = ibar_config.font.dcolor:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+                                    fcolor = math.d3dcolor(a,r,g,b);
+                                end
+                            end
+                        end
+                        f:SetColor(fcolor)
+                    end
 					
 					f:SetText(string.format(m_target));
 					return;
@@ -478,17 +557,27 @@ ashita.register_event('render', function()
             tindex = target:GetTargetIndex() <= 1023;
             
             if target:GetTargetIndex() ~= currIndex then
-                checked_once = false;
+                checked_once_alt = false;
                 moblvl = "";
             end
             
-            if not checked_once and tindex then
+            if not checked_once_alt and tindex then
                 passthrough_check = false;
                 SendCheckPacket(target:GetTargetIndex());
-                checked_once = true;
+                checked_once_alt = true;
                 currIndex = target:GetTargetIndex();
                 AshitaCore:GetChatManager():QueueCommand("/ac var set Undead 0", 1);
-            end 
+            end
+            
+            if not tindex then
+                currIndex = target:GetTargetIndex();
+            end
+            
+            local claimId = AshitaCore:GetDataManager():GetEntity():GetClaimServerId(target:GetTargetIndex());
+            
+            local m_assist = nil;
+                    
+            if player_table[tostring(claimId)] ~= nil then m_assist = player_table[tostring(claimId)]; end   
 			
             --f moblvl ~= "" then mlvl = moblvl; else mlvl = nil; end
             
@@ -498,6 +587,11 @@ ashita.register_event('render', function()
             if (moblvl ~= "") then m_target = string.gsub(m_target,'$level',"[" .. moblvl .. "]"); else m_target = string.gsub(m_target,'$level',""); end
 			if (gpos ~= nil) then m_target = string.gsub(m_target,'$position', pX .. ',' .. pY .. ',' .. pZ); end
 			if (n_hp ~= nil) then m_target = string.gsub(m_target,'$hpp',tentity.HealthPercent); end
+            if (m_assist ~= nil) then m_target = m_target .. " [" .. "Claim: " .. m_assist .. "]"; end
+           
+            local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
+            local fcolor = math.d3dcolor(a,r,g,b);
+            f:SetColor(fcolor)
 			
 			f:SetText(string.format(m_target));
 			return;
@@ -585,9 +679,9 @@ ashita.register_event('incoming_packet', function(id, size, packet, data, blocke
             typeraw = ctype;
             moblvl = " (" .. tostring(p) .. " " .. ctype;
             if ccond ~= '' then
-                moblvl = moblvl .. " " .. ccond .. ") ";
+                moblvl = moblvl .. " " .. ccond .. ")";
             else
-                moblvl = moblvl .. ") ";
+                moblvl = moblvl .. ")";
             end
         end
         
@@ -635,6 +729,17 @@ ashita.register_event('incoming_packet', function(id, size, packet, data, blocke
         end
         
         return true;
+    end
+    if (id == 0x76) then
+        for x=0, 17 do
+            if player_table[tostring(AshitaCore:GetDataManager():GetParty():GetMemberServerId(x))] == nil and AshitaCore:GetDataManager():GetParty():GetMemberServerId(x) ~= 0 then
+                player_table[tostring(AshitaCore:GetDataManager():GetParty():GetMemberServerId(x))] = AshitaCore:GetDataManager():GetParty():GetMemberName(x)
+                if table_debug then 
+                    print("Adding " .. AshitaCore:GetDataManager():GetParty():GetMemberName(x) .. " (ID: " .. AshitaCore:GetDataManager():GetParty():GetMemberServerId(x) .. ") to player table.")
+                end
+                ashita.settings.save(_addon.path .. '/data/player_table.lua', player_table);
+            end
+        end
     end
     
     return false;
