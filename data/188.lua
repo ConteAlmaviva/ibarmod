@@ -7,165 +7,165 @@
 	mb_data = {}
 
 	mb_data[1] = { nm="N", id="17547352", name="Vanguard_Tinkerer", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[2] = { nm="N", id="17547577", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[3] = { nm="N", id="17547576", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[4] = { nm="N", id="17547575", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[5] = { nm="N", id="17547574", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[6] = { nm="N", id="17547573", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[7] = { nm="N", id="17547572", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[8] = { nm="N", id="17547571", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[9] = { nm="N", id="17547578", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[10] = { nm="N", id="17547570", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[11] = { nm="N", id="17547568", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[12] = { nm="N", id="17547567", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[13] = { nm="N", id="17547566", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[14] = { nm="N", id="17547565", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[15] = { nm="N", id="17547564", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[16] = { nm="N", id="17547563", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[17] = { nm="N", id="17547562", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[18] = { nm="N", id="17547569", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[19] = { nm="N", id="17547561", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[20] = { nm="N", id="17547579", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[21] = { nm="N", id="17547581", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[22] = { nm="N", id="17547597", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[23] = { nm="N", id="17547596", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[24] = { nm="N", id="17547595", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[25] = { nm="N", id="17547594", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[26] = { nm="N", id="17547593", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[27] = { nm="N", id="17547592", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[28] = { nm="N", id="17547591", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[29] = { nm="N", id="17547580", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[30] = { nm="N", id="17547590", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[31] = { nm="N", id="17547588", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[32] = { nm="N", id="17547587", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[33] = { nm="N", id="17547586", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[34] = { nm="N", id="17547585", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[35] = { nm="N", id="17547584", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[36] = { nm="N", id="17547583", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[37] = { nm="N", id="17547582", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[38] = { nm="N", id="17547589", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[39] = { nm="N", id="17547560", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[40] = { nm="N", id="17547559", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[41] = { nm="N", id="17547558", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[42] = { nm="N", id="17547536", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[43] = { nm="N", id="17547535", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[44] = { nm="N", id="17547534", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[45] = { nm="N", id="17547533", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[46] = { nm="N", id="17547532", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[47] = { nm="N", id="17547531", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[48] = { nm="N", id="17547530", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[49] = { nm="N", id="17547537", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[2] = { nm="N", id="17547577", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[3] = { nm="N", id="17547576", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[4] = { nm="N", id="17547575", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[5] = { nm="N", id="17547574", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[6] = { nm="N", id="17547573", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[7] = { nm="N", id="17547572", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[8] = { nm="N", id="17547571", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[9] = { nm="N", id="17547578", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[10] = { nm="N", id="17547570", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[11] = { nm="N", id="17547568", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[12] = { nm="N", id="17547567", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[13] = { nm="N", id="17547566", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[14] = { nm="N", id="17547565", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[15] = { nm="N", id="17547564", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[16] = { nm="N", id="17547563", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[17] = { nm="N", id="17547562", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[18] = { nm="N", id="17547569", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[19] = { nm="N", id="17547561", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[20] = { nm="N", id="17547579", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[21] = { nm="N", id="17547581", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[22] = { nm="N", id="17547597", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[23] = { nm="N", id="17547596", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[24] = { nm="N", id="17547595", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[25] = { nm="N", id="17547594", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[26] = { nm="N", id="17547593", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[27] = { nm="N", id="17547592", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[28] = { nm="N", id="17547591", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[29] = { nm="N", id="17547580", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[30] = { nm="N", id="17547590", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[31] = { nm="N", id="17547588", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[32] = { nm="N", id="17547587", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[33] = { nm="N", id="17547586", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[34] = { nm="N", id="17547585", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[35] = { nm="N", id="17547584", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[36] = { nm="N", id="17547583", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[37] = { nm="N", id="17547582", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[38] = { nm="N", id="17547589", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[39] = { nm="N", id="17547560", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[40] = { nm="N", id="17547559", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[41] = { nm="N", id="17547558", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[42] = { nm="N", id="17547536", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[43] = { nm="N", id="17547535", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[44] = { nm="N", id="17547534", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[45] = { nm="N", id="17547533", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[46] = { nm="N", id="17547532", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[47] = { nm="N", id="17547531", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[48] = { nm="N", id="17547530", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[49] = { nm="N", id="17547537", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[50] = { nm="N", id="17547478", name="Distilix_Stickytoes", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[51] = { nm="N", id="17547407", name="Kikklix_Longlegs", mj="1", sj="2", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[52] = { nm="N", id="17547400", name="Vanguard_Welldigger", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[53] = { nm="N", id="17547330", name="Vanguard_Ronin", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[54] = { nm="N", id="17547286", name="Vanguard_Necromancer", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[55] = { nm="N", id="17547295", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[55] = { nm="N", id="17547295", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[56] = { nm="N", id="17547491", name="Vanguard_Hitman", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[57] = { nm="N", id="17547490", name="Prowlox_Barrelbelly", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[58] = { nm="N", id="17547428", name="Vanguard_Pathfinder", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[59] = { nm="N", id="17547538", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[60] = { nm="N", id="17547539", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[61] = { nm="N", id="17547540", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[62] = { nm="N", id="17547557", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[63] = { nm="N", id="17547556", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[64] = { nm="N", id="17547555", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[65] = { nm="N", id="17547554", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[66] = { nm="N", id="17547553", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[67] = { nm="N", id="17547552", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[68] = { nm="N", id="17547551", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[69] = { nm="N", id="17547550", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[70] = { nm="N", id="17547549", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[71] = { nm="N", id="17547548", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[72] = { nm="N", id="17547547", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[73] = { nm="N", id="17547546", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[74] = { nm="N", id="17547545", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[75] = { nm="N", id="17547544", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[76] = { nm="N", id="17547543", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[77] = { nm="N", id="17547542", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[78] = { nm="N", id="17547541", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[79] = { nm="N", id="17547598", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[59] = { nm="N", id="17547538", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[60] = { nm="N", id="17547539", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[61] = { nm="N", id="17547540", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[62] = { nm="N", id="17547557", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[63] = { nm="N", id="17547556", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[64] = { nm="N", id="17547555", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[65] = { nm="N", id="17547554", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[66] = { nm="N", id="17547553", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[67] = { nm="N", id="17547552", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[68] = { nm="N", id="17547551", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[69] = { nm="N", id="17547550", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[70] = { nm="N", id="17547549", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[71] = { nm="N", id="17547548", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[72] = { nm="N", id="17547547", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[73] = { nm="N", id="17547546", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[74] = { nm="N", id="17547545", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[75] = { nm="N", id="17547544", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[76] = { nm="N", id="17547543", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[77] = { nm="N", id="17547542", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[78] = { nm="N", id="17547541", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[79] = { nm="N", id="17547598", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[80] = { nm="N", id="17547489", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[81] = { nm="N", id="17547599", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[82] = { nm="N", id="17547601", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[83] = { nm="N", id="17547658", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[84] = { nm="N", id="17547657", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[85] = { nm="N", id="17547656", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[86] = { nm="N", id="17547655", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[87] = { nm="N", id="17547654", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[88] = { nm="N", id="17547653", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[89] = { nm="N", id="17547652", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[90] = { nm="N", id="17547659", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[91] = { nm="N", id="17547651", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[92] = { nm="N", id="17547649", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[93] = { nm="N", id="17547648", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[94] = { nm="N", id="17547647", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[95] = { nm="N", id="17547646", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[96] = { nm="N", id="17547645", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[97] = { nm="N", id="17547644", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[98] = { nm="N", id="17547643", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[99] = { nm="N", id="17547650", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[100] = { nm="N", id="17547642", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[101] = { nm="N", id="17547660", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[102] = { nm="N", id="17547662", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[103] = { nm="N", id="17547678", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[104] = { nm="N", id="17547677", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[105] = { nm="N", id="17547676", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[106] = { nm="N", id="17547675", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[107] = { nm="N", id="17547674", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[108] = { nm="N", id="17547673", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[109] = { nm="N", id="17547672", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[110] = { nm="N", id="17547661", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[111] = { nm="N", id="17547671", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[112] = { nm="N", id="17547669", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[113] = { nm="N", id="17547668", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[114] = { nm="N", id="17547667", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[115] = { nm="N", id="17547666", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[116] = { nm="N", id="17547665", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[117] = { nm="N", id="17547664", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[118] = { nm="N", id="17547663", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[119] = { nm="N", id="17547670", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[120] = { nm="N", id="17547641", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[121] = { nm="N", id="17547640", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[122] = { nm="N", id="17547639", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[123] = { nm="N", id="17547617", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[124] = { nm="N", id="17547616", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[125] = { nm="N", id="17547615", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[126] = { nm="N", id="17547614", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[127] = { nm="N", id="17547613", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[128] = { nm="N", id="17547612", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[129] = { nm="N", id="17547611", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[130] = { nm="N", id="17547618", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[131] = { nm="N", id="17547610", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[132] = { nm="N", id="17547608", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[133] = { nm="N", id="17547607", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[134] = { nm="N", id="17547606", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[135] = { nm="N", id="17547605", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[136] = { nm="N", id="17547604", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[137] = { nm="N", id="17547603", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[138] = { nm="N", id="17547602", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[139] = { nm="N", id="17547609", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[140] = { nm="N", id="17547619", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[141] = { nm="N", id="17547620", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[142] = { nm="N", id="17547621", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[143] = { nm="N", id="17547638", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[144] = { nm="N", id="17547637", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[145] = { nm="N", id="17547636", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[146] = { nm="N", id="17547635", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[147] = { nm="N", id="17547634", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[148] = { nm="N", id="17547633", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[149] = { nm="N", id="17547632", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[150] = { nm="N", id="17547631", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[151] = { nm="N", id="17547630", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[152] = { nm="N", id="17547629", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[153] = { nm="N", id="17547628", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[154] = { nm="N", id="17547627", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[155] = { nm="N", id="17547626", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[156] = { nm="N", id="17547625", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[157] = { nm="N", id="17547624", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[158] = { nm="N", id="17547623", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[159] = { nm="N", id="17547622", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[160] = { nm="N", id="17547600", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[81] = { nm="N", id="17547599", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[82] = { nm="N", id="17547601", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[83] = { nm="N", id="17547658", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[84] = { nm="N", id="17547657", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[85] = { nm="N", id="17547656", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[86] = { nm="N", id="17547655", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[87] = { nm="N", id="17547654", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[88] = { nm="N", id="17547653", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[89] = { nm="N", id="17547652", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[90] = { nm="N", id="17547659", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[91] = { nm="N", id="17547651", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[92] = { nm="N", id="17547649", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[93] = { nm="N", id="17547648", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[94] = { nm="N", id="17547647", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[95] = { nm="N", id="17547646", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[96] = { nm="N", id="17547645", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[97] = { nm="N", id="17547644", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[98] = { nm="N", id="17547643", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[99] = { nm="N", id="17547650", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[100] = { nm="N", id="17547642", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[101] = { nm="N", id="17547660", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[102] = { nm="N", id="17547662", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[103] = { nm="N", id="17547678", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[104] = { nm="N", id="17547677", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[105] = { nm="N", id="17547676", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[106] = { nm="N", id="17547675", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[107] = { nm="N", id="17547674", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[108] = { nm="N", id="17547673", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[109] = { nm="N", id="17547672", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[110] = { nm="N", id="17547661", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[111] = { nm="N", id="17547671", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[112] = { nm="N", id="17547669", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[113] = { nm="N", id="17547668", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[114] = { nm="N", id="17547667", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[115] = { nm="N", id="17547666", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[116] = { nm="N", id="17547665", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[117] = { nm="N", id="17547664", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[118] = { nm="N", id="17547663", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[119] = { nm="N", id="17547670", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[120] = { nm="N", id="17547641", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[121] = { nm="N", id="17547640", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[122] = { nm="N", id="17547639", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[123] = { nm="N", id="17547617", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[124] = { nm="N", id="17547616", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[125] = { nm="N", id="17547615", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[126] = { nm="N", id="17547614", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[127] = { nm="N", id="17547613", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[128] = { nm="N", id="17547612", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[129] = { nm="N", id="17547611", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[130] = { nm="N", id="17547618", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[131] = { nm="N", id="17547610", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[132] = { nm="N", id="17547608", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[133] = { nm="N", id="17547607", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[134] = { nm="N", id="17547606", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[135] = { nm="N", id="17547605", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[136] = { nm="N", id="17547604", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[137] = { nm="N", id="17547603", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[138] = { nm="N", id="17547602", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[139] = { nm="N", id="17547609", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[140] = { nm="N", id="17547619", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[141] = { nm="N", id="17547620", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[142] = { nm="N", id="17547621", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[143] = { nm="N", id="17547638", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[144] = { nm="N", id="17547637", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[145] = { nm="N", id="17547636", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[146] = { nm="N", id="17547635", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[147] = { nm="N", id="17547634", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[148] = { nm="N", id="17547633", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[149] = { nm="N", id="17547632", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[150] = { nm="N", id="17547631", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[151] = { nm="N", id="17547630", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[152] = { nm="N", id="17547629", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[153] = { nm="N", id="17547628", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[154] = { nm="N", id="17547627", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[155] = { nm="N", id="17547626", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[156] = { nm="N", id="17547625", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[157] = { nm="N", id="17547624", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[158] = { nm="N", id="17547623", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[159] = { nm="N", id="17547622", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[160] = { nm="N", id="17547600", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[161] = { nm="N", id="17547320", name="Vanguard_Shaman", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[162] = { nm="N", id="17547488", name="Vanguard_s_Slime", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(H),Sc", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[163] = { nm="N", id="17547486", name="Tymexox_Ninefingers", mj="8", sj="8", mlvl="78-77", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -197,15 +197,15 @@
 	mb_data[189] = { nm="N", id="17547395", name="Lurklox_Dhalmelneck", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[190] = { nm="N", id="17547394", name="Ticktox_Beadyeyes", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[191] = { nm="N", id="17547383", name="Vanguard_Ronin", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[192] = { nm="N", id="17547393", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[193] = { nm="N", id="17547391", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[194] = { nm="N", id="17547390", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[195] = { nm="N", id="17547389", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[192] = { nm="N", id="17547393", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[193] = { nm="N", id="17547391", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[194] = { nm="N", id="17547390", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[195] = { nm="N", id="17547389", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[196] = { nm="N", id="17547388", name="Humnox_Drumbelly", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[197] = { nm="N", id="17547387", name="Buffrix_Eargone", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[198] = { nm="N", id="17547386", name="Vanguard_Maestro", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[199] = { nm="N", id="17547385", name="Vanguard_Alchemist", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[200] = { nm="N", id="17547392", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[200] = { nm="N", id="17547392", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[201] = { nm="N", id="17547363", name="Vanguard_Smithy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[202] = { nm="N", id="17547362", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[203] = { nm="N", id="17547361", name="Vanguard_Tinkerer", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -256,9 +256,9 @@
 	mb_data[248] = { nm="N", id="17547461", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[249] = { nm="N", id="17547460", name="Vanguard_Hitman", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[250] = { nm="N", id="17547459", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[251] = { nm="N", id="17547458", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[251] = { nm="N", id="17547458", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[252] = { nm="N", id="17547465", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[253] = { nm="N", id="17547457", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[253] = { nm="N", id="17547457", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[254] = { nm="N", id="17547455", name="Vanguard_s_Slime", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(H),Sc", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[255] = { nm="N", id="17547454", name="Rutrix_Hamgams", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[256] = { nm="N", id="17547453", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
@@ -266,7 +266,7 @@
 	mb_data[258] = { nm="N", id="17547451", name="Vanguard_s_Slime", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(H),Sc", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[259] = { nm="N", id="17547450", name="Vanguard_Pathfinder", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[260] = { nm="N", id="17547449", name="Vanguard_Tinkerer", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[261] = { nm="N", id="17547456", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[261] = { nm="N", id="17547456", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[262] = { nm="N", id="17547448", name="Vanguard_Maestro", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[263] = { nm="N", id="17547466", name="Vanguard_Hitman", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[264] = { nm="N", id="17547468", name="Snypestix_Eaglebeak", mj="13", sj="13", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -277,7 +277,7 @@
 	mb_data[269] = { nm="N", id="17547481", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[270] = { nm="N", id="17547480", name="Jabbrox_Grannyguise", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[271] = { nm="N", id="17547479", name="Eremix_Snottynostril", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[272] = { nm="N", id="17547467", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[272] = { nm="N", id="17547467", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[273] = { nm="N", id="17547477", name="Vanguard_Enchanter", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[274] = { nm="N", id="17547475", name="Vanguard_Alchemist", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[275] = { nm="N", id="17547474", name="Mobpix_Mucousmouth", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -290,14 +290,14 @@
 	mb_data[282] = { nm="N", id="17547447", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[283] = { nm="N", id="17547446", name="Vanguard_Ronin", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[284] = { nm="N", id="17547445", name="Vanguard_Maestro", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[285] = { nm="N", id="17547422", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[286] = { nm="N", id="17547421", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[287] = { nm="N", id="17547420", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[285] = { nm="N", id="17547422", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[286] = { nm="N", id="17547421", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[287] = { nm="N", id="17547420", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[288] = { nm="N", id="17547419", name="Vanguard_Welldigger", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[289] = { nm="N", id="17547418", name="Vanguard_Enchanter", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[290] = { nm="N", id="17547417", name="Vanguard_Shaman", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[291] = { nm="N", id="17547416", name="Vanguard_Alchemist", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[292] = { nm="N", id="17547423", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[292] = { nm="N", id="17547423", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[293] = { nm="N", id="17547415", name="Vanguard_Pitfighter", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[294] = { nm="N", id="17547413", name="Vanguard_Shaman", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[295] = { nm="N", id="17547412", name="Vanguard_Alchemist", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -334,15 +334,15 @@
 	mb_data[326] = { nm="N", id="17547292", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[327] = { nm="N", id="17547293", name="Vanguard_Hitman", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[328] = { nm="N", id="17547294", name="Cloktix_Longnail", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[329] = { nm="N", id="17547296", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[330] = { nm="N", id="17547297", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[329] = { nm="N", id="17547296", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[330] = { nm="N", id="17547297", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[331] = { nm="N", id="17547298", name="Smeltix_Thickhide", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[332] = { nm="N", id="17547299", name="Jabkix_Pigeonpecs", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[333] = { nm="N", id="17547300", name="Wasabix_Callusdigit", mj="12", sj="12", mlvl="75-77", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[334] = { nm="N", id="17547301", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[335] = { nm="N", id="17547302", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[334] = { nm="N", id="17547301", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[335] = { nm="N", id="17547302", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[336] = { nm="N", id="17547291", name="Tufflix_Loglimbs", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[337] = { nm="N", id="17547303", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[337] = { nm="N", id="17547303", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[338] = { nm="N", id="17547305", name="Vanguard_Welldigger", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[339] = { nm="N", id="17547306", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[340] = { nm="N", id="17547307", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -358,7 +358,7 @@
 	mb_data[350] = { nm="N", id="17547290", name="Vanguard_Hitman", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[351] = { nm="N", id="17547288", name="Vanguard_Ronin", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[352] = { nm="N", id="17547318", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[353] = { nm="N", id="17547265", name="Goblin_Golem", mj="3", sj="4", mlvl="85-85", behavior="0", aggro="T(H),T(S)", links="N", spawntype="128", weak="Lightning", note="" }
+	mb_data[353] = { nm="N", id="17547265", name="Goblin_Golem", mj="3", sj="4", mlvl="85-85", behavior="0", aggro="T(H),T(S)", links="N", spawntype="128", weak="Ltng.", note="" }
 	mb_data[354] = { nm="N", id="17547266", name="Vanguard_Smithy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[355] = { nm="N", id="17547267", name="Vanguard_Welldigger", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[356] = { nm="N", id="17547268", name="Vanguard_Pathfinder", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }

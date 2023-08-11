@@ -57,30 +57,30 @@
 	mb_data[49] = { nm="N", id="17055958", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[50] = { nm="N", id="17055967", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[51] = { nm="N", id="17055960", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[52] = { nm="N", id="17055990", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[52] = { nm="N", id="17055990", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[53] = { nm="N", id="17055991", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[54] = { nm="N", id="17055992", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[55] = { nm="N", id="17055993", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[56] = { nm="N", id="17055994", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[57] = { nm="N", id="17055995", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[57] = { nm="N", id="17055995", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[58] = { nm="N", id="17055996", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[59] = { nm="N", id="17055997", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[60] = { nm="N", id="17055998", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[60] = { nm="N", id="17055998", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[61] = { nm="N", id="17055999", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[62] = { nm="N", id="17055989", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[63] = { nm="N", id="17056000", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[64] = { nm="N", id="17056010", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[64] = { nm="N", id="17056010", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[65] = { nm="N", id="17056009", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[66] = { nm="N", id="17056008", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[66] = { nm="N", id="17056008", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[67] = { nm="N", id="17056001", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[68] = { nm="N", id="17056002", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[68] = { nm="N", id="17056002", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[69] = { nm="N", id="17056003", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[70] = { nm="N", id="17056004", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[71] = { nm="N", id="17056005", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[70] = { nm="N", id="17056004", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[71] = { nm="N", id="17056005", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[72] = { nm="N", id="17056006", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[73] = { nm="N", id="17056007", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[74] = { nm="N", id="17055909", name="Mold_Eater", mj="4", sj="5", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[75] = { nm="N", id="17055988", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[75] = { nm="N", id="17055988", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[76] = { nm="N", id="17055987", name="Aydeewa_Diremite", mj="8", sj="8", mlvl="70-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[77] = { nm="N", id="17055986", name="Aydeewa_Diremite", mj="8", sj="8", mlvl="70-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[78] = { nm="N", id="17055961", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
@@ -108,7 +108,7 @@
 	mb_data[100] = { nm="N", id="17055985", name="Aydeewa_Diremite", mj="8", sj="8", mlvl="70-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[101] = { nm="N", id="17055959", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[102] = { nm="N", id="17055908", name="Qiqirn_Archaeologist", mj="11", sj="11", mlvl="74-75", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[103] = { nm="N", id="17055858", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[103] = { nm="N", id="17055858", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[104] = { nm="N", id="17055906", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[105] = { nm="N", id="17055844", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[106] = { nm="N", id="17055845", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
@@ -136,34 +136,34 @@
 	mb_data[128] = { nm="N", id="17055849", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[129] = { nm="N", id="17055842", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[130] = { nm="N", id="17055840", name="Mycohopper", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[131] = { nm="N", id="17055821", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[132] = { nm="N", id="17055820", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[131] = { nm="N", id="17055821", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[132] = { nm="N", id="17055820", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[133] = { nm="N", id="17055819", name="Air_Elemental", mj="4", sj="5", mlvl="70-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
-	mb_data[134] = { nm="N", id="17055822", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[135] = { nm="N", id="17055823", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[136] = { nm="N", id="17055824", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[137] = { nm="N", id="17055825", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[134] = { nm="N", id="17055822", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[135] = { nm="N", id="17055823", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[136] = { nm="N", id="17055824", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[137] = { nm="N", id="17055825", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[138] = { nm="N", id="17055826", name="Aydeewa_Diremite", mj="8", sj="8", mlvl="70-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Water,Light", note="" }
-	mb_data[139] = { nm="N", id="17055827", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[139] = { nm="N", id="17055827", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[140] = { nm="N", id="17055828", name="Aydeewa_Diremite", mj="8", sj="8", mlvl="70-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[141] = { nm="N", id="17055841", name="Mycohopper", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[142] = { nm="N", id="17056011", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[142] = { nm="N", id="17056011", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[143] = { nm="N", id="17055830", name="Air_Elemental", mj="4", sj="5", mlvl="70-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
-	mb_data[144] = { nm="N", id="17055831", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[145] = { nm="N", id="17055832", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[144] = { nm="N", id="17055831", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[145] = { nm="N", id="17055832", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[146] = { nm="N", id="17055833", name="Aydeewa_Diremite", mj="8", sj="8", mlvl="70-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Water,Light", note="" }
-	mb_data[147] = { nm="N", id="17055834", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[147] = { nm="N", id="17055834", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[148] = { nm="N", id="17055835", name="Aydeewa_Diremite", mj="8", sj="8", mlvl="70-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[149] = { nm="N", id="17055836", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[150] = { nm="N", id="17055837", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[151] = { nm="N", id="17055838", name="Mycohopper", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[152] = { nm="N", id="17055839", name="Mycohopper", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[153] = { nm="N", id="17055829", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[153] = { nm="N", id="17055829", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[154] = { nm="N", id="17055850", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[155] = { nm="N", id="17055851", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[156] = { nm="N", id="17055852", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[157] = { nm="N", id="17055881", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[158] = { nm="N", id="17055882", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[157] = { nm="N", id="17055881", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[158] = { nm="N", id="17055882", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[159] = { nm="N", id="17055883", name="Qiqirn_Archaeologist", mj="11", sj="11", mlvl="74-75", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[160] = { nm="N", id="17055884", name="Qiqirn_Archaeologist", mj="11", sj="11", mlvl="74-75", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[161] = { nm="N", id="17055885", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
@@ -172,7 +172,7 @@
 	mb_data[164] = { nm="N", id="17055888", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[165] = { nm="N", id="17055889", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[166] = { nm="N", id="17055890", name="Qiqirn_Mosstrooper", mj="6", sj="6", mlvl="74-75", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[167] = { nm="N", id="17055880", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[167] = { nm="N", id="17055880", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[168] = { nm="N", id="17055891", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[169] = { nm="N", id="17055893", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[170] = { nm="N", id="17055894", name="Qiqirn_Archaeologist", mj="11", sj="11", mlvl="74-75", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -185,36 +185,36 @@
 	mb_data[177] = { nm="N", id="17055904", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[178] = { nm="N", id="17055905", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[179] = { nm="N", id="17055892", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[180] = { nm="N", id="17055879", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[181] = { nm="N", id="17055878", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[182] = { nm="N", id="17055877", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[180] = { nm="N", id="17055879", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[181] = { nm="N", id="17055878", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[182] = { nm="N", id="17055877", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[183] = { nm="N", id="17055853", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[184] = { nm="N", id="17055854", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[185] = { nm="N", id="17055855", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[186] = { nm="N", id="17055856", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[187] = { nm="N", id="17055857", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[186] = { nm="N", id="17055856", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[187] = { nm="N", id="17055857", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[188] = { nm="N", id="17055859", name="Air_Elemental", mj="4", sj="5", mlvl="70-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[189] = { nm="N", id="17055860", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[190] = { nm="N", id="17055861", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[191] = { nm="N", id="17055862", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[192] = { nm="N", id="17055863", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[190] = { nm="N", id="17055861", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[191] = { nm="N", id="17055862", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[192] = { nm="N", id="17055863", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[193] = { nm="N", id="17055864", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[194] = { nm="N", id="17055865", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[195] = { nm="N", id="17055866", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[194] = { nm="N", id="17055865", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[195] = { nm="N", id="17055866", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[196] = { nm="N", id="17055867", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[197] = { nm="N", id="17055868", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[198] = { nm="N", id="17055869", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[199] = { nm="N", id="17055870", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[200] = { nm="N", id="17055871", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[201] = { nm="N", id="17055872", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[202] = { nm="N", id="17055873", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[203] = { nm="N", id="17055874", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[204] = { nm="N", id="17055875", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[205] = { nm="N", id="17055876", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[198] = { nm="N", id="17055869", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[199] = { nm="N", id="17055870", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[200] = { nm="N", id="17055871", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[201] = { nm="N", id="17055872", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[202] = { nm="N", id="17055873", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[203] = { nm="N", id="17055874", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[204] = { nm="N", id="17055875", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[205] = { nm="N", id="17055876", name="Deforester", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[206] = { nm="N", id="17055907", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[207] = { nm="N", id="17056012", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[208] = { nm="N", id="17056109", name="Slime_Mold", mj="1", sj="1", mlvl="69-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Fire", note="" }
-	mb_data[209] = { nm="N", id="17056014", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[209] = { nm="N", id="17056014", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[210] = { nm="N", id="17056147", name="Qiqirn_Lieuter", mj="6", sj="6", mlvl="68-70", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[211] = { nm="N", id="17056148", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[212] = { nm="N", id="17056149", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
@@ -227,12 +227,12 @@
 	mb_data[219] = { nm="N", id="17056156", name="Crystal_Eater", mj="1", sj="1", mlvl="69-74", behavior="0", aggro="NA", links="N", spawntype="128", weak="Light", note="" }
 	mb_data[220] = { nm="N", id="17056146", name="Qiqirn_Enterpriser", mj="11", sj="11", mlvl="68-70", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[221] = { nm="N", id="17056157", name="Bluestreak_Gyugyuroon", mj="11", sj="11", mlvl="82-82", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[222] = { nm="N", id="17056159", name="Nosferatu_Bats", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[223] = { nm="N", id="17056160", name="Nosferatu_Bats", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[224] = { nm="N", id="17056161", name="Nosferatu_Bats", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[225] = { nm="N", id="17056162", name="Nosferatu_Wolf", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
-	mb_data[226] = { nm="N", id="17056163", name="Nosferatu_Wolf", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
-	mb_data[227] = { nm="N", id="17056164", name="Nosferatu_Wolf", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[222] = { nm="N", id="17056159", name="Nosferatu_Bats", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[223] = { nm="N", id="17056160", name="Nosferatu_Bats", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[224] = { nm="N", id="17056161", name="Nosferatu_Bats", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[225] = { nm="N", id="17056162", name="Nosferatu_Wolf", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
+	mb_data[226] = { nm="N", id="17056163", name="Nosferatu_Wolf", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
+	mb_data[227] = { nm="N", id="17056164", name="Nosferatu_Wolf", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[228] = { nm="N", id="17056165", name="Nosferatu_Murk", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[229] = { nm="N", id="17056166", name="Nosferatu_Murk", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[230] = { nm="N", id="17056167", name="Nosferatu_Murk", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -274,12 +274,12 @@
 	mb_data[266] = { nm="N", id="17055752", name="Puktrap", mj="1", sj="1", mlvl="67-70", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[267] = { nm="N", id="17055751", name="Treant_Sapling", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Fire,Dark", note="" }
 	mb_data[268] = { nm="N", id="17055750", name="Treant_Sapling", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Fire,Dark", note="" }
-	mb_data[269] = { nm="N", id="17055749", name="Aydeewa_Crab", mj="7", sj="7", mlvl="68-70", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[270] = { nm="N", id="17055748", name="Cave_Pugil", mj="1", sj="1", mlvl="69-69", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[269] = { nm="N", id="17055749", name="Aydeewa_Crab", mj="7", sj="7", mlvl="68-70", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[270] = { nm="N", id="17055748", name="Cave_Pugil", mj="1", sj="1", mlvl="69-69", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[271] = { nm="N", id="17055747", name="Anautogenous_Slug", mj="1", sj="1", mlvl="66-66", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[272] = { nm="N", id="17055757", name="Treant_Sapling", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Fire,Dark", note="" }
 	mb_data[273] = { nm="N", id="17055746", name="Cave_Mold", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="H,Sc", links="N", spawntype="128", weak="Fire", note="" }
-	mb_data[274] = { nm="N", id="17055818", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[274] = { nm="N", id="17055818", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[275] = { nm="N", id="17056193", name="RavishingRafflesia", mj="6", sj="6", mlvl="92-93", behavior="0", aggro="H", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[276] = { nm="N", id="17056194", name="RavishingRafflesia", mj="6", sj="6", mlvl="92-93", behavior="0", aggro="H", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[277] = { nm="N", id="17056202", name="Morta", mj="6", sj="6", mlvl="94-95", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire", note="" }
@@ -317,7 +317,7 @@
 	mb_data[309] = { nm="N", id="17055762", name="Slime_Mold", mj="1", sj="1", mlvl="69-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Fire", note="" }
 	mb_data[310] = { nm="N", id="17055761", name="Slime_Mold", mj="1", sj="1", mlvl="69-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Fire", note="" }
 	mb_data[311] = { nm="N", id="17056120", name="Treant_Sapling", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Fire,Dark", note="" }
-	mb_data[312] = { nm="N", id="17056013", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[312] = { nm="N", id="17056013", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[313] = { nm="N", id="17056119", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[314] = { nm="N", id="17056117", name="Qiqirn_Enterpriser", mj="11", sj="11", mlvl="68-70", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[315] = { nm="N", id="17056041", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
@@ -347,9 +347,9 @@
 	mb_data[339] = { nm="N", id="17056039", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[340] = { nm="N", id="17056037", name="Mycoskulker", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[341] = { nm="N", id="17056015", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[342] = { nm="N", id="17056016", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[343] = { nm="N", id="17056017", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[344] = { nm="N", id="17056018", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[342] = { nm="N", id="17056016", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[343] = { nm="N", id="17056017", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[344] = { nm="N", id="17056018", name="Cave_Tiger", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[345] = { nm="N", id="17056019", name="Great_Ameretat", mj="1", sj="1", mlvl="73-74", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[346] = { nm="N", id="17056020", name="Mycoskulker", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[347] = { nm="N", id="17056021", name="Mycoskulker", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Light", note="" }
@@ -422,7 +422,7 @@
 	mb_data[414] = { nm="N", id="17056088", name="Air_Elemental", mj="4", sj="5", mlvl="70-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[415] = { nm="N", id="17056089", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[416] = { nm="N", id="17056118", name="Qiqirn_Lieuter", mj="6", sj="6", mlvl="68-70", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[417] = { nm="N", id="17055817", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[417] = { nm="N", id="17055817", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[418] = { nm="N", id="17055783", name="Treant_Sapling", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Fire,Dark", note="" }
 	mb_data[419] = { nm="N", id="17055815", name="Puktrap", mj="1", sj="1", mlvl="67-70", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[420] = { nm="N", id="17055816", name="Puktrap", mj="1", sj="1", mlvl="67-70", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice", note="" }
@@ -442,20 +442,20 @@
 	mb_data[434] = { nm="N", id="17055798", name="Qiqirn_Lieuter", mj="6", sj="6", mlvl="68-70", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[435] = { nm="N", id="17055770", name="Qiqirn_Enterpriser", mj="11", sj="11", mlvl="68-70", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[436] = { nm="N", id="17055800", name="Qiqirn_Enterpriser", mj="11", sj="11", mlvl="68-70", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[437] = { nm="N", id="17055814", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[438] = { nm="N", id="17055813", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[439] = { nm="N", id="17055812", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[437] = { nm="N", id="17055814", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[438] = { nm="N", id="17055813", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[439] = { nm="N", id="17055812", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[440] = { nm="N", id="17055811", name="Puktrap", mj="1", sj="1", mlvl="67-70", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[441] = { nm="N", id="17055810", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[441] = { nm="N", id="17055810", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[442] = { nm="N", id="17055809", name="Puktrap", mj="1", sj="1", mlvl="67-70", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[443] = { nm="N", id="17055808", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[443] = { nm="N", id="17055808", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[444] = { nm="N", id="17055799", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[445] = { nm="N", id="17055806", name="Puktrap", mj="1", sj="1", mlvl="67-70", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice", note="" }
 	mb_data[446] = { nm="N", id="17055805", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[447] = { nm="N", id="17055804", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[448] = { nm="N", id="17055803", name="Phlebotomic_Slug", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[449] = { nm="N", id="17055802", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
-	mb_data[450] = { nm="N", id="17055807", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[450] = { nm="N", id="17055807", name="Defoliator", mj="1", sj="1", mlvl="68-73", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[451] = { nm="N", id="17055801", name="Fossorial_Flea", mj="6", sj="6", mlvl="64-68", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Fire,Ice", note="" }
 
 	return mb_data;

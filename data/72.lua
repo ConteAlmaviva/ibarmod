@@ -56,7 +56,7 @@
 	mb_data[48] = { nm="N", id="17072153", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[49] = { nm="N", id="17072142", name="Qiqirn_Goldsmith", mj="6", sj="6", mlvl="76-78", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[50] = { nm="N", id="17072149", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
-	mb_data[51] = { nm="N", id="17072129", name="Nepionic_Soulflayer", mj="4", sj="4", mlvl="60-60", behavior="0", aggro="T(H),M,JA", links="Y", spawntype="128", weak="Lightning,Light", note="" }
+	mb_data[51] = { nm="N", id="17072129", name="Nepionic_Soulflayer", mj="4", sj="4", mlvl="60-60", behavior="0", aggro="T(H),M,JA", links="Y", spawntype="128", weak="Ltng.,Light", note="" }
 	mb_data[52] = { nm="N", id="17051694", name="Lancelord_Gaheel_ja", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 
 	return mb_data;

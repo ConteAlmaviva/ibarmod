@@ -37,7 +37,7 @@
 	mb_data[29] = { nm="N", id="17289544", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[30] = { nm="N", id="17289543", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[31] = { nm="N", id="17289542", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[32] = { nm="N", id="17289541", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[32] = { nm="N", id="17289541", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[33] = { nm="N", id="17289540", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[34] = { nm="N", id="17289539", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[35] = { nm="N", id="17289538", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -72,9 +72,9 @@
 	mb_data[64] = { nm="N", id="17289455", name="Antican_Retiarius", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[65] = { nm="N", id="17289454", name="Antican_Retiarius", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[66] = { nm="N", id="17289465", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[67] = { nm="Y", id="17289453", name="Celphie", mj="2", sj="2", mlvl="47-48", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[68] = { nm="N", id="17289451", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
-	mb_data[69] = { nm="N", id="17289450", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[67] = { nm="Y", id="17289453", name="Celphie", mj="2", sj="2", mlvl="47-48", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[68] = { nm="N", id="17289451", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
+	mb_data[69] = { nm="N", id="17289450", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[70] = { nm="N", id="17289449", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[71] = { nm="N", id="17289448", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[72] = { nm="N", id="17289447", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -84,7 +84,7 @@
 	mb_data[76] = { nm="N", id="17289443", name="Antican_Retiarius", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[77] = { nm="N", id="17289442", name="Antican_Retiarius", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[78] = { nm="N", id="17289441", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[79] = { nm="N", id="17289452", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[79] = { nm="N", id="17289452", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[80] = { nm="N", id="17289494", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[81] = { nm="N", id="17289466", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[82] = { nm="N", id="17289468", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -106,18 +106,18 @@
 	mb_data[98] = { nm="N", id="17289477", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[99] = { nm="N", id="17289476", name="Antican_Retiarius", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[100] = { nm="N", id="17289475", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[101] = { nm="N", id="17289474", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
-	mb_data[102] = { nm="N", id="17289473", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[101] = { nm="N", id="17289474", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
+	mb_data[102] = { nm="N", id="17289473", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[103] = { nm="N", id="17289472", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[104] = { nm="N", id="17289471", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[105] = { nm="N", id="17289470", name="Earth_Elemental", mj="4", sj="5", mlvl="56-58", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[106] = { nm="N", id="17289469", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[107] = { nm="N", id="17289480", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[108] = { nm="N", id="17289549", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[109] = { nm="N", id="17289562", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[109] = { nm="N", id="17289562", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[110] = { nm="N", id="17289551", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[111] = { nm="N", id="17289631", name="Fire_Elemental", mj="4", sj="5", mlvl="56-58", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
-	mb_data[112] = { nm="N", id="17289630", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[112] = { nm="N", id="17289630", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[113] = { nm="N", id="17289629", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[114] = { nm="N", id="17289628", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[115] = { nm="N", id="17289627", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -128,7 +128,7 @@
 	mb_data[120] = { nm="N", id="17289622", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[121] = { nm="N", id="17289621", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[122] = { nm="N", id="17289620", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[123] = { nm="N", id="17289619", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[123] = { nm="N", id="17289619", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[124] = { nm="N", id="17289618", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[125] = { nm="N", id="17289617", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[126] = { nm="N", id="17289616", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
@@ -138,7 +138,7 @@
 	mb_data[130] = { nm="N", id="17289612", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[131] = { nm="N", id="17289611", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[132] = { nm="N", id="17289610", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[133] = { nm="N", id="17289609", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[133] = { nm="N", id="17289609", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[134] = { nm="N", id="17289632", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[135] = { nm="N", id="17289633", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[136] = { nm="N", id="17289634", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -147,7 +147,7 @@
 	mb_data[139] = { nm="N", id="17289758", name="Lhu_Mhakaracca", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[140] = { nm="N", id="17289756", name="Kilhwch", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[141] = { nm="N", id="17289657", name="Monarca_de_Altepa", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
-	mb_data[142] = { nm="N", id="17289656", name="Maharaja", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
+	mb_data[142] = { nm="N", id="17289656", name="Maharaja", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
 	mb_data[143] = { nm="N", id="17289655", name="Western_Sphinx", mj="1", sj="4", mlvl="62-62", behavior="0", aggro="S,Sc", links="N", spawntype="128", weak="Water", note="" }
 	mb_data[144] = { nm="N", id="17289654", name="Eastern_Sphinx", mj="1", sj="4", mlvl="62-62", behavior="0", aggro="S,Sc", links="N", spawntype="128", weak="Water", note="" }
 	mb_data[145] = { nm="N", id="17289653", name="Sabotender_Enamorado", mj="12", sj="12", mlvl="75-75", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Dark", note="" }
@@ -156,7 +156,7 @@
 	mb_data[148] = { nm="N", id="17289650", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[149] = { nm="N", id="17289608", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[150] = { nm="N", id="17289649", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[151] = { nm="N", id="17289647", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[151] = { nm="N", id="17289647", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[152] = { nm="N", id="17289646", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[153] = { nm="N", id="17289645", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[154] = { nm="N", id="17289644", name="Desert_Manticore", mj="1", sj="1", mlvl="53-57", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Water", note="" }
@@ -165,7 +165,7 @@
 	mb_data[157] = { nm="N", id="17289641", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[158] = { nm="N", id="17289640", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[159] = { nm="N", id="17289639", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[160] = { nm="N", id="17289637", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[160] = { nm="N", id="17289637", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[161] = { nm="N", id="17289636", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[162] = { nm="N", id="17289648", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[163] = { nm="N", id="17289607", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -173,27 +173,27 @@
 	mb_data[165] = { nm="N", id="17289605", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[166] = { nm="N", id="17289574", name="Earth_Elemental", mj="4", sj="5", mlvl="56-58", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[167] = { nm="N", id="17289573", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[168] = { nm="N", id="17289572", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[169] = { nm="N", id="17289571", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[168] = { nm="N", id="17289572", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[169] = { nm="N", id="17289571", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[170] = { nm="N", id="17289570", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[171] = { nm="N", id="17289569", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[172] = { nm="N", id="17289568", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[173] = { nm="N", id="17289567", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[174] = { nm="N", id="17289566", name="Earth_Elemental", mj="4", sj="5", mlvl="56-58", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[175] = { nm="N", id="17289565", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[176] = { nm="N", id="17289564", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[176] = { nm="N", id="17289564", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[177] = { nm="Y", id="17289575", name="King_Vinegarroon", mj="1", sj="1", mlvl="80-85", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[178] = { nm="N", id="17289563", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[179] = { nm="N", id="17289561", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[178] = { nm="N", id="17289563", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[179] = { nm="N", id="17289561", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[180] = { nm="Y", id="17289560", name="Cactuar_Cantautor", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Dark", note="" }
 	mb_data[181] = { nm="N", id="17289559", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[182] = { nm="N", id="17289558", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
-	mb_data[183] = { nm="N", id="17289638", name="Picolaton", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[183] = { nm="N", id="17289638", name="Picolaton", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[184] = { nm="N", id="17289557", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[185] = { nm="N", id="17289556", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[186] = { nm="N", id="17289555", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[187] = { nm="N", id="17289554", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[188] = { nm="N", id="17289553", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[188] = { nm="N", id="17289553", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[189] = { nm="N", id="17289552", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[190] = { nm="N", id="17289440", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[191] = { nm="N", id="17289550", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -208,10 +208,10 @@
 	mb_data[200] = { nm="N", id="17289597", name="Goblin_Bouncer", mj="1", sj="1", mlvl="51-55", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[201] = { nm="N", id="17289596", name="Goblin_Bouncer", mj="1", sj="1", mlvl="51-55", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[202] = { nm="N", id="17289595", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[203] = { nm="N", id="17289594", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[204] = { nm="N", id="17289593", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[203] = { nm="N", id="17289594", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[204] = { nm="N", id="17289593", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[205] = { nm="N", id="17289577", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[206] = { nm="N", id="17289592", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[206] = { nm="N", id="17289592", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[207] = { nm="N", id="17289590", name="Goblin_Welldigger", mj="6", sj="6", mlvl="51-55", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[208] = { nm="N", id="17289589", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[209] = { nm="N", id="17289587", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
@@ -220,13 +220,13 @@
 	mb_data[212] = { nm="N", id="17289584", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[213] = { nm="N", id="17289583", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[214] = { nm="N", id="17289582", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[215] = { nm="N", id="17289581", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[216] = { nm="N", id="17289580", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[217] = { nm="N", id="17289579", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[218] = { nm="N", id="17289591", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[215] = { nm="N", id="17289581", name="Lich", mj="4", sj="4", mlvl="49-53", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[216] = { nm="N", id="17289580", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[217] = { nm="N", id="17289579", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[218] = { nm="N", id="17289591", name="Fallen_Knight", mj="8", sj="8", mlvl="50-54", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[219] = { nm="N", id="17289439", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[220] = { nm="N", id="17289603", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[221] = { nm="N", id="17289437", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[221] = { nm="N", id="17289437", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[222] = { nm="N", id="17289295", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[223] = { nm="N", id="17289294", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[224] = { nm="N", id="17289293", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
@@ -236,7 +236,7 @@
 	mb_data[228] = { nm="N", id="17289289", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[229] = { nm="N", id="17289288", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[230] = { nm="N", id="17289287", name="Antican_Retiarius", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[231] = { nm="N", id="17289286", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[231] = { nm="N", id="17289286", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[232] = { nm="N", id="17289285", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[233] = { nm="N", id="17289296", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[234] = { nm="N", id="17289284", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
@@ -245,8 +245,8 @@
 	mb_data[237] = { nm="N", id="17289280", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[238] = { nm="N", id="17289279", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[239] = { nm="N", id="17289278", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[240] = { nm="N", id="17289277", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
-	mb_data[241] = { nm="N", id="17289276", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[240] = { nm="N", id="17289277", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
+	mb_data[241] = { nm="N", id="17289276", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[242] = { nm="N", id="17289275", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[243] = { nm="N", id="17289274", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[244] = { nm="N", id="17289273", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
@@ -284,29 +284,29 @@
 	mb_data[276] = { nm="N", id="17289270", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[277] = { nm="N", id="17289268", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[278] = { nm="N", id="17289239", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[279] = { nm="N", id="17289238", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[279] = { nm="N", id="17289238", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[280] = { nm="N", id="17289237", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[281] = { nm="N", id="17289236", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[282] = { nm="N", id="17289235", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[283] = { nm="N", id="17289234", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[284] = { nm="N", id="17289233", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
-	mb_data[285] = { nm="N", id="17289232", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[285] = { nm="N", id="17289232", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[286] = { nm="N", id="17289231", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[287] = { nm="N", id="17289230", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[288] = { nm="N", id="17289229", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[289] = { nm="N", id="17289240", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
 	mb_data[290] = { nm="N", id="17289228", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[291] = { nm="N", id="17289226", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[291] = { nm="N", id="17289226", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[292] = { nm="N", id="17289225", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[293] = { nm="N", id="17289224", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[294] = { nm="N", id="17289223", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[295] = { nm="N", id="17289222", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[296] = { nm="N", id="17289221", name="Razorjaw_Pugil", mj="1", sj="1", mlvl="56-58", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[297] = { nm="N", id="17289220", name="Bigclaw", mj="7", sj="7", mlvl="45-52", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[298] = { nm="N", id="17289219", name="Bigclaw", mj="7", sj="7", mlvl="45-52", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[299] = { nm="N", id="17289218", name="Apsaras", mj="1", sj="1", mlvl="40-42", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[300] = { nm="N", id="17289217", name="Ironshell", mj="7", sj="7", mlvl="40-42", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[301] = { nm="N", id="17289438", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[296] = { nm="N", id="17289221", name="Razorjaw_Pugil", mj="1", sj="1", mlvl="56-58", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[297] = { nm="N", id="17289220", name="Bigclaw", mj="7", sj="7", mlvl="45-52", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[298] = { nm="N", id="17289219", name="Bigclaw", mj="7", sj="7", mlvl="45-52", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[299] = { nm="N", id="17289218", name="Apsaras", mj="1", sj="1", mlvl="40-42", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[300] = { nm="N", id="17289217", name="Ironshell", mj="7", sj="7", mlvl="40-42", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[301] = { nm="N", id="17289438", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[302] = { nm="N", id="17289227", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
 	mb_data[303] = { nm="N", id="17289269", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[304] = { nm="N", id="17289241", name="Earth_Elemental", mj="4", sj="5", mlvl="56-58", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
@@ -316,8 +316,8 @@
 	mb_data[308] = { nm="N", id="17289265", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
 	mb_data[309] = { nm="N", id="17289264", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[310] = { nm="N", id="17289263", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[311] = { nm="N", id="17289262", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
-	mb_data[312] = { nm="N", id="17289261", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[311] = { nm="N", id="17289262", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
+	mb_data[312] = { nm="N", id="17289261", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[313] = { nm="N", id="17289260", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[314] = { nm="N", id="17289259", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[315] = { nm="N", id="17289258", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
@@ -326,13 +326,13 @@
 	mb_data[318] = { nm="N", id="17289256", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[319] = { nm="N", id="17289254", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[320] = { nm="N", id="17289253", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[321] = { nm="N", id="17289252", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[321] = { nm="N", id="17289252", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[322] = { nm="N", id="17289251", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[323] = { nm="N", id="17289250", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[324] = { nm="N", id="17289249", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[325] = { nm="N", id="17289248", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
 	mb_data[326] = { nm="N", id="17289247", name="Antican_Essedarius", mj="11", sj="11", mlvl="41-45", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[327] = { nm="N", id="17289246", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[327] = { nm="N", id="17289246", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[328] = { nm="N", id="17289245", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[329] = { nm="N", id="17289244", name="Desert_Spider", mj="1", sj="1", mlvl="40-44", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[330] = { nm="N", id="17289255", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
@@ -340,8 +340,8 @@
 	mb_data[332] = { nm="N", id="17289588", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[333] = { nm="N", id="17289328", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[334] = { nm="N", id="17289408", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[335] = { nm="N", id="17289407", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
-	mb_data[336] = { nm="N", id="17289406", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[335] = { nm="N", id="17289407", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
+	mb_data[336] = { nm="N", id="17289406", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[337] = { nm="N", id="17289405", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[338] = { nm="N", id="17289404", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[339] = { nm="N", id="17289403", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -364,7 +364,7 @@
 	mb_data[356] = { nm="N", id="17289386", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[357] = { nm="N", id="17289385", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[358] = { nm="N", id="17289396", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[359] = { nm="N", id="17289384", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[359] = { nm="N", id="17289384", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[360] = { nm="N", id="17289410", name="Antican_Retiarius", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[361] = { nm="N", id="17289412", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
 	mb_data[362] = { nm="N", id="17289436", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -387,13 +387,13 @@
 	mb_data[379] = { nm="N", id="17289419", name="Antican_Eques", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[380] = { nm="N", id="17289418", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[381] = { nm="N", id="17289417", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[382] = { nm="N", id="17289416", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
-	mb_data[383] = { nm="N", id="17289415", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[382] = { nm="N", id="17289416", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
+	mb_data[383] = { nm="N", id="17289415", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[384] = { nm="N", id="17289414", name="Fire_Elemental", mj="4", sj="5", mlvl="56-58", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[385] = { nm="N", id="17289413", name="Desert_Worm", mj="4", sj="5", mlvl="43-47", behavior="0", aggro="H", links="N", spawntype="2", weak="Wind,Light", note="" }
-	mb_data[386] = { nm="N", id="17289424", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[386] = { nm="N", id="17289424", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[387] = { nm="N", id="17289383", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[388] = { nm="N", id="17289425", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Lightning", note="" }
+	mb_data[388] = { nm="N", id="17289425", name="Desert_Dhalmel", mj="1", sj="1", mlvl="44-48", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind,Ltng.", note="" }
 	mb_data[389] = { nm="N", id="17289381", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[390] = { nm="N", id="17289352", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[391] = { nm="N", id="17289351", name="Antican_Hoplomachus", mj="7", sj="7", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
@@ -429,8 +429,8 @@
 	mb_data[421] = { nm="N", id="17289380", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[422] = { nm="N", id="17289377", name="Antican_Secutor", mj="1", sj="1", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[423] = { nm="N", id="17289375", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[424] = { nm="N", id="17289374", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[425] = { nm="N", id="17289373", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[424] = { nm="N", id="17289374", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[425] = { nm="N", id="17289373", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[426] = { nm="N", id="17289372", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[427] = { nm="N", id="17289371", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[428] = { nm="N", id="17289370", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
@@ -443,7 +443,7 @@
 	mb_data[435] = { nm="N", id="17289362", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[436] = { nm="N", id="17289363", name="Tulwar_Scorpion", mj="1", sj="1", mlvl="53-56", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[437] = { nm="N", id="17289359", name="Cactuar", mj="2", sj="2", mlvl="48-53", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Dark", note="" }
-	mb_data[438] = { nm="N", id="17289364", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[438] = { nm="N", id="17289364", name="Phorusrhacos", mj="1", sj="1", mlvl="57-60", behavior="0", aggro="S", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[439] = { nm="N", id="17289365", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[440] = { nm="N", id="17289366", name="Desert_Beetle", mj="7", sj="7", mlvl="47-51", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[441] = { nm="N", id="17289367", name="Antican_Lanista", mj="4", sj="4", mlvl="54-58", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }

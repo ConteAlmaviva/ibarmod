@@ -26,7 +26,7 @@
 	mb_data[18] = { nm="N", id="16867490", name="Thinker", mj="1", sj="1", mlvl="54-60", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[19] = { nm="N", id="16867491", name="Gorger", mj="8", sj="8", mlvl="54-60", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[20] = { nm="N", id="16867492", name="Craver", mj="1", sj="1", mlvl="54-60", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[21] = { nm="N", id="16867494", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[21] = { nm="N", id="16867494", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[22] = { nm="N", id="16867472", name="Wanderer", mj="1", sj="1", mlvl="49-56", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[23] = { nm="N", id="16867496", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[24] = { nm="N", id="16867497", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
@@ -87,20 +87,20 @@
 	mb_data[79] = { nm="N", id="16867555", name="Idle_Wanderer", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[80] = { nm="N", id="16867556", name="Idle_Wanderer", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[81] = { nm="N", id="16867545", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[82] = { nm="N", id="16867501", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[82] = { nm="N", id="16867501", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[83] = { nm="N", id="16867531", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[84] = { nm="N", id="16867529", name="Wanderer", mj="1", sj="1", mlvl="49-56", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[85] = { nm="N", id="16867503", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[86] = { nm="N", id="16867504", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[87] = { nm="N", id="16867505", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[88] = { nm="N", id="16867506", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[89] = { nm="N", id="16867508", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[89] = { nm="N", id="16867508", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[90] = { nm="N", id="16867509", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[91] = { nm="N", id="16867510", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[92] = { nm="N", id="16867444", name="Seether", mj="1", sj="1", mlvl="51-58", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[93] = { nm="N", id="16867512", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[94] = { nm="N", id="16867513", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[95] = { nm="N", id="16867515", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[95] = { nm="N", id="16867515", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[96] = { nm="N", id="16867530", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[97] = { nm="N", id="16867516", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[98] = { nm="N", id="16867518", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
@@ -171,7 +171,7 @@
 	mb_data[163] = { nm="N", id="16867351", name="Idle_Wanderer", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[164] = { nm="N", id="16867340", name="Wanderer", mj="1", sj="1", mlvl="49-56", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[165] = { nm="N", id="16867380", name="Craver", mj="1", sj="1", mlvl="54-60", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[166] = { nm="N", id="16867382", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[166] = { nm="N", id="16867382", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[167] = { nm="N", id="16867383", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[168] = { nm="N", id="16867415", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[169] = { nm="N", id="16867416", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
@@ -186,13 +186,13 @@
 	mb_data[178] = { nm="N", id="16867425", name="Gorger", mj="8", sj="8", mlvl="54-60", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[179] = { nm="N", id="16867414", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[180] = { nm="N", id="16867426", name="Craver", mj="1", sj="1", mlvl="54-60", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[181] = { nm="N", id="16867429", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[181] = { nm="N", id="16867429", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[182] = { nm="N", id="16867430", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[183] = { nm="N", id="16867431", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[184] = { nm="N", id="16867432", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[185] = { nm="N", id="16867557", name="Idle_Wanderer", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[186] = { nm="N", id="16867434", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[187] = { nm="N", id="16867436", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[187] = { nm="N", id="16867436", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[188] = { nm="N", id="16867437", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[189] = { nm="N", id="16867438", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[190] = { nm="N", id="16867439", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
@@ -203,7 +203,7 @@
 	mb_data[195] = { nm="N", id="16867411", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[196] = { nm="N", id="16867384", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[197] = { nm="N", id="16867385", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[198] = { nm="N", id="16867387", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[198] = { nm="N", id="16867387", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[199] = { nm="N", id="16867388", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[200] = { nm="N", id="16867389", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[201] = { nm="N", id="16867390", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
@@ -275,7 +275,7 @@
 	mb_data[267] = { nm="N", id="17183246", name="DivineSentinel", mj="1", sj="1", mlvl="57-63", behavior="0", aggro="T(H),T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[268] = { nm="N", id="17183245", name="DivineSentinel", mj="1", sj="1", mlvl="57-63", behavior="0", aggro="T(H),T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[269] = { nm="N", id="17183244", name="DivineSentinel", mj="1", sj="1", mlvl="43-48", behavior="0", aggro="T(H),T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[270] = { nm="N", id="17183243", name="DivineSentinel", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[270] = { nm="N", id="17183243", name="DivineSentinel", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[271] = { nm="N", id="17183242", name="YuuMjuusElem", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[272] = { nm="N", id="16867667", name="Idle_Wanderer", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[273] = { nm="N", id="17183241", name="YuuMjuusElem", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -329,13 +329,13 @@
 	mb_data[321] = { nm="N", id="16867580", name="Gorger", mj="8", sj="8", mlvl="54-60", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[322] = { nm="N", id="16867567", name="Idle_Wanderer", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[323] = { nm="N", id="16867593", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[324] = { nm="N", id="16867586", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[324] = { nm="N", id="16867586", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[325] = { nm="N", id="16867596", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[326] = { nm="N", id="16867610", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[327] = { nm="N", id="16867611", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[328] = { nm="N", id="16867612", name="Seether", mj="1", sj="1", mlvl="51-58", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[329] = { nm="N", id="16867613", name="Wanderer", mj="1", sj="1", mlvl="49-56", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
-	mb_data[330] = { nm="N", id="16867595", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[330] = { nm="N", id="16867595", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[331] = { nm="N", id="16867615", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[332] = { nm="N", id="16867616", name="Wanderer", mj="1", sj="1", mlvl="49-56", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[333] = { nm="N", id="16867617", name="Weeper", mj="1", sj="1", mlvl="50-57", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="???", note="" }
@@ -358,7 +358,7 @@
 	mb_data[350] = { nm="N", id="16867607", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[351] = { nm="N", id="16867606", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[352] = { nm="N", id="16867605", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[353] = { nm="N", id="16867604", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[353] = { nm="N", id="16867604", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="0", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[354] = { nm="N", id="16867600", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[355] = { nm="N", id="16867602", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[356] = { nm="N", id="16867601", name="Stray", mj="1", sj="1", mlvl="39-51", behavior="0", aggro="T(S),Sc", links="N", spawntype="128", weak="???", note="" }

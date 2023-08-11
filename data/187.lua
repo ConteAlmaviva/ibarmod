@@ -9,11 +9,11 @@
 	mb_data[1] = { nm="N", id="17543454", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[2] = { nm="N", id="17543455", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[3] = { nm="N", id="17543456", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[4] = { nm="N", id="17543461", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[4] = { nm="N", id="17543461", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[5] = { nm="N", id="17543458", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[6] = { nm="N", id="17543459", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[7] = { nm="N", id="17543460", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[8] = { nm="N", id="17543462", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[8] = { nm="N", id="17543462", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[9] = { nm="N", id="17543457", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[10] = { nm="N", id="17543453", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[11] = { nm="N", id="17543447", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -21,44 +21,44 @@
 	mb_data[13] = { nm="N", id="17543450", name="Vanguard_Prelate", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[14] = { nm="N", id="17543449", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[15] = { nm="N", id="17543448", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[16] = { nm="N", id="17543446", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[16] = { nm="N", id="17543446", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[17] = { nm="N", id="17543445", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[18] = { nm="N", id="17543444", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[19] = { nm="N", id="17543443", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[20] = { nm="N", id="17543442", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[21] = { nm="N", id="17543463", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[21] = { nm="N", id="17543463", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[22] = { nm="N", id="17543440", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[23] = { nm="N", id="17543452", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[24] = { nm="N", id="17543441", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[25] = { nm="N", id="17543502", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[26] = { nm="N", id="17543491", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[27] = { nm="N", id="17543515", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[25] = { nm="N", id="17543502", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[26] = { nm="N", id="17543491", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[27] = { nm="N", id="17543515", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[28] = { nm="N", id="17543439", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[29] = { nm="N", id="17543514", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[30] = { nm="N", id="17543513", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[31] = { nm="N", id="17543512", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[32] = { nm="N", id="17543511", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[33] = { nm="N", id="17543510", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[34] = { nm="N", id="17543509", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[35] = { nm="N", id="17543508", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[36] = { nm="N", id="17543507", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[37] = { nm="N", id="17543506", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[38] = { nm="N", id="17543490", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[39] = { nm="N", id="17543505", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[40] = { nm="N", id="17543503", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[41] = { nm="N", id="17543501", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[42] = { nm="N", id="17543500", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[43] = { nm="N", id="17543499", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[44] = { nm="N", id="17543498", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[45] = { nm="N", id="17543497", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[46] = { nm="N", id="17543496", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[47] = { nm="N", id="17543495", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[48] = { nm="N", id="17543494", name="Avatar_Icon", mj="4", sj="5", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[49] = { nm="N", id="17543493", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[50] = { nm="N", id="17543492", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[51] = { nm="N", id="17543504", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[29] = { nm="N", id="17543514", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[30] = { nm="N", id="17543513", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[31] = { nm="N", id="17543512", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[32] = { nm="N", id="17543511", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[33] = { nm="N", id="17543510", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[34] = { nm="N", id="17543509", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[35] = { nm="N", id="17543508", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[36] = { nm="N", id="17543507", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[37] = { nm="N", id="17543506", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[38] = { nm="N", id="17543490", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[39] = { nm="N", id="17543505", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[40] = { nm="N", id="17543503", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[41] = { nm="N", id="17543501", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[42] = { nm="N", id="17543500", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[43] = { nm="N", id="17543499", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[44] = { nm="N", id="17543498", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[45] = { nm="N", id="17543497", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[46] = { nm="N", id="17543496", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[47] = { nm="N", id="17543495", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[48] = { nm="N", id="17543494", name="Avatar_Icon", mj="4", sj="5", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[49] = { nm="N", id="17543493", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[50] = { nm="N", id="17543492", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[51] = { nm="N", id="17543504", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[52] = { nm="N", id="17543438", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[53] = { nm="N", id="17543410", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[53] = { nm="N", id="17543410", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[54] = { nm="N", id="17543436", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[55] = { nm="N", id="17543406", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[56] = { nm="N", id="17543405", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -73,17 +73,17 @@
 	mb_data[65] = { nm="N", id="17543396", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[66] = { nm="N", id="17543395", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[67] = { nm="N", id="17543394", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[68] = { nm="N", id="17543393", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[69] = { nm="N", id="17543392", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[68] = { nm="N", id="17543393", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[69] = { nm="N", id="17543392", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[70] = { nm="N", id="17543391", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[71] = { nm="N", id="17543390", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[72] = { nm="N", id="17543389", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[73] = { nm="N", id="17543388", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[74] = { nm="N", id="17543387", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[75] = { nm="N", id="17543386", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[75] = { nm="N", id="17543386", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[76] = { nm="N", id="17543385", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[77] = { nm="N", id="17543516", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[78] = { nm="N", id="17543407", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[77] = { nm="N", id="17543516", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[78] = { nm="N", id="17543407", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[79] = { nm="N", id="17543437", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[80] = { nm="N", id="17543408", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[81] = { nm="N", id="17543411", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -101,8 +101,8 @@
 	mb_data[93] = { nm="N", id="17543424", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[94] = { nm="N", id="17543423", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[95] = { nm="N", id="17543422", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[96] = { nm="N", id="17543420", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[97] = { nm="N", id="17543419", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[96] = { nm="N", id="17543420", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[97] = { nm="N", id="17543419", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[98] = { nm="N", id="17543418", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[99] = { nm="N", id="17543417", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[100] = { nm="N", id="17543416", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
@@ -110,115 +110,115 @@
 	mb_data[102] = { nm="N", id="17543414", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[103] = { nm="N", id="17543413", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[104] = { nm="N", id="17543412", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[105] = { nm="N", id="17543409", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[106] = { nm="N", id="17543517", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[107] = { nm="N", id="17543573", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[108] = { nm="N", id="17543519", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[109] = { nm="N", id="17543596", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[110] = { nm="N", id="17543595", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[111] = { nm="N", id="17543594", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[112] = { nm="N", id="17543593", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[113] = { nm="N", id="17543592", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[114] = { nm="N", id="17543591", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[115] = { nm="N", id="17543590", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[116] = { nm="N", id="17543589", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[117] = { nm="N", id="17543588", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[118] = { nm="N", id="17543587", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[119] = { nm="N", id="17543586", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[120] = { nm="N", id="17543585", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[121] = { nm="N", id="17543584", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[122] = { nm="N", id="17543583", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[123] = { nm="N", id="17543582", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[124] = { nm="N", id="17543581", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[125] = { nm="N", id="17543580", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[126] = { nm="N", id="17543579", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[127] = { nm="N", id="17543578", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[128] = { nm="N", id="17543577", name="Avatar_Icon", mj="4", sj="5", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[129] = { nm="N", id="17543576", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[130] = { nm="N", id="17543575", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[131] = { nm="N", id="17543574", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[132] = { nm="N", id="17543597", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[105] = { nm="N", id="17543409", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[106] = { nm="N", id="17543517", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[107] = { nm="N", id="17543573", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[108] = { nm="N", id="17543519", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[109] = { nm="N", id="17543596", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[110] = { nm="N", id="17543595", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[111] = { nm="N", id="17543594", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[112] = { nm="N", id="17543593", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[113] = { nm="N", id="17543592", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[114] = { nm="N", id="17543591", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[115] = { nm="N", id="17543590", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[116] = { nm="N", id="17543589", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[117] = { nm="N", id="17543588", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[118] = { nm="N", id="17543587", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[119] = { nm="N", id="17543586", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[120] = { nm="N", id="17543585", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[121] = { nm="N", id="17543584", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[122] = { nm="N", id="17543583", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[123] = { nm="N", id="17543582", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[124] = { nm="N", id="17543581", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[125] = { nm="N", id="17543580", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[126] = { nm="N", id="17543579", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[127] = { nm="N", id="17543578", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[128] = { nm="N", id="17543577", name="Avatar_Icon", mj="4", sj="5", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[129] = { nm="N", id="17543576", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[130] = { nm="N", id="17543575", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[131] = { nm="N", id="17543574", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[132] = { nm="N", id="17543597", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[133] = { nm="N", id="17543384", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[134] = { nm="N", id="17543598", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[135] = { nm="N", id="17543600", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[136] = { nm="N", id="17543623", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[137] = { nm="N", id="17543622", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[138] = { nm="N", id="17543621", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[139] = { nm="N", id="17543620", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[140] = { nm="N", id="17543619", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[141] = { nm="N", id="17543618", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[142] = { nm="N", id="17543617", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[143] = { nm="N", id="17543616", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[144] = { nm="N", id="17543615", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[145] = { nm="N", id="17543614", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[146] = { nm="N", id="17543613", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[147] = { nm="N", id="17543612", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[148] = { nm="N", id="17543611", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[149] = { nm="N", id="17543610", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[150] = { nm="N", id="17543609", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[151] = { nm="N", id="17543608", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[152] = { nm="N", id="17543607", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[153] = { nm="N", id="17543606", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[154] = { nm="N", id="17543605", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[155] = { nm="N", id="17543604", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[156] = { nm="N", id="17543603", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[157] = { nm="N", id="17543602", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[158] = { nm="N", id="17543601", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[159] = { nm="N", id="17543599", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[160] = { nm="N", id="17543518", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[161] = { nm="N", id="17543572", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[162] = { nm="N", id="17543570", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[163] = { nm="N", id="17543542", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[164] = { nm="N", id="17543541", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[165] = { nm="N", id="17543540", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[166] = { nm="N", id="17543539", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[167] = { nm="N", id="17543538", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[168] = { nm="N", id="17543537", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[169] = { nm="N", id="17543536", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[170] = { nm="N", id="17543535", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[171] = { nm="N", id="17543534", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[172] = { nm="N", id="17543533", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[173] = { nm="N", id="17543532", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[174] = { nm="N", id="17543531", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[175] = { nm="N", id="17543530", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[176] = { nm="N", id="17543529", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[177] = { nm="N", id="17543528", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[178] = { nm="N", id="17543527", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[179] = { nm="N", id="17543526", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[180] = { nm="N", id="17543525", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[181] = { nm="N", id="17543524", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[182] = { nm="N", id="17543523", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[183] = { nm="N", id="17543522", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[184] = { nm="N", id="17543521", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[185] = { nm="N", id="17543520", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[186] = { nm="N", id="17543543", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[187] = { nm="N", id="17543571", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[188] = { nm="N", id="17543544", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[189] = { nm="N", id="17543546", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[190] = { nm="N", id="17543569", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[191] = { nm="N", id="17543568", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[192] = { nm="N", id="17543567", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[193] = { nm="N", id="17543566", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[194] = { nm="N", id="17543565", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[195] = { nm="N", id="17543564", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[196] = { nm="N", id="17543563", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[197] = { nm="N", id="17543562", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[198] = { nm="N", id="17543561", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[199] = { nm="N", id="17543560", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[200] = { nm="N", id="17543559", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[201] = { nm="N", id="17543558", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[202] = { nm="N", id="17543557", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[203] = { nm="N", id="17543556", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[204] = { nm="N", id="17543555", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[205] = { nm="N", id="17543554", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[206] = { nm="N", id="17543553", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[207] = { nm="N", id="17543552", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[208] = { nm="N", id="17543551", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[209] = { nm="N", id="17543550", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[210] = { nm="N", id="17543549", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[211] = { nm="N", id="17543548", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[212] = { nm="N", id="17543547", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[213] = { nm="N", id="17543545", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[134] = { nm="N", id="17543598", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[135] = { nm="N", id="17543600", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[136] = { nm="N", id="17543623", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[137] = { nm="N", id="17543622", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[138] = { nm="N", id="17543621", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[139] = { nm="N", id="17543620", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[140] = { nm="N", id="17543619", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[141] = { nm="N", id="17543618", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[142] = { nm="N", id="17543617", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[143] = { nm="N", id="17543616", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[144] = { nm="N", id="17543615", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[145] = { nm="N", id="17543614", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[146] = { nm="N", id="17543613", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[147] = { nm="N", id="17543612", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[148] = { nm="N", id="17543611", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[149] = { nm="N", id="17543610", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[150] = { nm="N", id="17543609", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[151] = { nm="N", id="17543608", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[152] = { nm="N", id="17543607", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[153] = { nm="N", id="17543606", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[154] = { nm="N", id="17543605", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[155] = { nm="N", id="17543604", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[156] = { nm="N", id="17543603", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[157] = { nm="N", id="17543602", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[158] = { nm="N", id="17543601", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[159] = { nm="N", id="17543599", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[160] = { nm="N", id="17543518", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[161] = { nm="N", id="17543572", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[162] = { nm="N", id="17543570", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[163] = { nm="N", id="17543542", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[164] = { nm="N", id="17543541", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[165] = { nm="N", id="17543540", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[166] = { nm="N", id="17543539", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[167] = { nm="N", id="17543538", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[168] = { nm="N", id="17543537", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[169] = { nm="N", id="17543536", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[170] = { nm="N", id="17543535", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[171] = { nm="N", id="17543534", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[172] = { nm="N", id="17543533", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[173] = { nm="N", id="17543532", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[174] = { nm="N", id="17543531", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[175] = { nm="N", id="17543530", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[176] = { nm="N", id="17543529", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[177] = { nm="N", id="17543528", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[178] = { nm="N", id="17543527", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[179] = { nm="N", id="17543526", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[180] = { nm="N", id="17543525", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[181] = { nm="N", id="17543524", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[182] = { nm="N", id="17543523", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[183] = { nm="N", id="17543522", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[184] = { nm="N", id="17543521", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[185] = { nm="N", id="17543520", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[186] = { nm="N", id="17543543", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[187] = { nm="N", id="17543571", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[188] = { nm="N", id="17543544", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[189] = { nm="N", id="17543546", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[190] = { nm="N", id="17543569", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[191] = { nm="N", id="17543568", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[192] = { nm="N", id="17543567", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[193] = { nm="N", id="17543566", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[194] = { nm="N", id="17543565", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[195] = { nm="N", id="17543564", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[196] = { nm="N", id="17543563", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[197] = { nm="N", id="17543562", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[198] = { nm="N", id="17543561", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[199] = { nm="N", id="17543560", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[200] = { nm="N", id="17543559", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[201] = { nm="N", id="17543558", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[202] = { nm="N", id="17543557", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[203] = { nm="N", id="17543556", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[204] = { nm="N", id="17543555", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[205] = { nm="N", id="17543554", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[206] = { nm="N", id="17543553", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[207] = { nm="N", id="17543552", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[208] = { nm="N", id="17543551", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[209] = { nm="N", id="17543550", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[210] = { nm="N", id="17543549", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[211] = { nm="N", id="17543548", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[212] = { nm="N", id="17543547", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[213] = { nm="N", id="17543545", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[214] = { nm="N", id="17543383", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[215] = { nm="N", id="17543327", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[216] = { nm="N", id="17543381", name="Vanguard_Visionary", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -227,11 +227,11 @@
 	mb_data[219] = { nm="N", id="17543243", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[220] = { nm="N", id="17543242", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[221] = { nm="N", id="17543241", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[222] = { nm="N", id="17543240", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[222] = { nm="N", id="17543240", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[223] = { nm="N", id="17543239", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[224] = { nm="N", id="17543238", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[225] = { nm="N", id="17543237", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[226] = { nm="N", id="17543236", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[226] = { nm="N", id="17543236", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[227] = { nm="N", id="17543235", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[228] = { nm="N", id="17543234", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[229] = { nm="N", id="17543233", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -252,8 +252,8 @@
 	mb_data[244] = { nm="N", id="17543272", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[245] = { nm="N", id="17543271", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[246] = { nm="N", id="17543270", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[247] = { nm="N", id="17543269", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[248] = { nm="N", id="17543268", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[247] = { nm="N", id="17543269", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[248] = { nm="N", id="17543268", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[249] = { nm="N", id="17543267", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[250] = { nm="N", id="17543266", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[251] = { nm="N", id="17543265", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -262,8 +262,8 @@
 	mb_data[254] = { nm="N", id="17543262", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[255] = { nm="N", id="17543261", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[256] = { nm="N", id="17543260", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[257] = { nm="N", id="17543259", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[258] = { nm="N", id="17543258", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[257] = { nm="N", id="17543259", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[258] = { nm="N", id="17543258", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[259] = { nm="N", id="17543257", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[260] = { nm="N", id="17543256", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[261] = { nm="N", id="17543255", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -280,7 +280,7 @@
 	mb_data[272] = { nm="N", id="17543190", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[273] = { nm="N", id="17543189", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[274] = { nm="N", id="17543188", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[275] = { nm="N", id="17543187", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[275] = { nm="N", id="17543187", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[276] = { nm="N", id="17543186", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[277] = { nm="N", id="17543185", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[278] = { nm="N", id="17543184", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -298,7 +298,7 @@
 	mb_data[290] = { nm="N", id="17543172", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[291] = { nm="N", id="17543171", name="Muu_Febi_the_Steadfast", mj="7", sj="12", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[292] = { nm="N", id="17543170", name="Maa_Febi_the_Steadfast", mj="7", sj="12", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[293] = { nm="N", id="17543169", name="Tzee_Xicu_Idol", mj="4", sj="4", mlvl="85-85", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[293] = { nm="N", id="17543169", name="Tzee_Xicu_Idol", mj="4", sj="4", mlvl="85-85", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[294] = { nm="N", id="17543192", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[295] = { nm="N", id="17543220", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[296] = { nm="N", id="17543193", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
@@ -317,7 +317,7 @@
 	mb_data[309] = { nm="N", id="17543207", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[310] = { nm="N", id="17543206", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[311] = { nm="N", id="17543205", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[312] = { nm="N", id="17543204", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[312] = { nm="N", id="17543204", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[313] = { nm="N", id="17543203", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[314] = { nm="N", id="17543202", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[315] = { nm="N", id="17543201", name="Vanguard_Visionary", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -330,7 +330,7 @@
 	mb_data[322] = { nm="N", id="17543382", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[323] = { nm="N", id="17543274", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[324] = { nm="N", id="17543276", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[325] = { nm="N", id="17543353", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[325] = { nm="N", id="17543353", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[326] = { nm="N", id="17543352", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[327] = { nm="N", id="17543351", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[328] = { nm="N", id="17543350", name="Vanguard_Visionary", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -341,7 +341,7 @@
 	mb_data[333] = { nm="N", id="17543345", name="Loo_Hepe_the_Eyepiercer", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[334] = { nm="N", id="17543344", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[335] = { nm="N", id="17543343", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[336] = { nm="N", id="17543342", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[336] = { nm="N", id="17543342", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[337] = { nm="N", id="17543341", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[338] = { nm="N", id="17543340", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[339] = { nm="N", id="17543339", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -350,10 +350,10 @@
 	mb_data[342] = { nm="N", id="17543336", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[343] = { nm="N", id="17543335", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[344] = { nm="N", id="17543334", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[345] = { nm="N", id="17543333", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[345] = { nm="N", id="17543333", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[346] = { nm="N", id="17543332", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[347] = { nm="N", id="17543331", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[348] = { nm="N", id="17543354", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[348] = { nm="N", id="17543354", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[349] = { nm="N", id="17543330", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[350] = { nm="N", id="17543355", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[351] = { nm="N", id="17543357", name="Wuu_Qoho_the_Razorclaw", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -365,25 +365,25 @@
 	mb_data[357] = { nm="N", id="17543375", name="Xoo_Kaza_the_Solemn", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[358] = { nm="N", id="17543374", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[359] = { nm="N", id="17543373", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[360] = { nm="N", id="17543372", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[360] = { nm="N", id="17543372", name="Avatar_Idol", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[361] = { nm="N", id="17543371", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[362] = { nm="N", id="17543370", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[363] = { nm="N", id="17543369", name="Vanguard_Visionary", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[364] = { nm="N", id="17543368", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[364] = { nm="N", id="17543368", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[365] = { nm="N", id="17543367", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[366] = { nm="N", id="17543366", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[367] = { nm="N", id="17543365", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[368] = { nm="N", id="17543364", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[369] = { nm="N", id="17543363", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[370] = { nm="N", id="17543362", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[369] = { nm="N", id="17543363", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[370] = { nm="N", id="17543362", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[371] = { nm="N", id="17543361", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[372] = { nm="N", id="17543360", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[373] = { nm="N", id="17543359", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[374] = { nm="N", id="17543358", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[375] = { nm="N", id="17543356", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[376] = { nm="N", id="17543275", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[376] = { nm="N", id="17543275", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[377] = { nm="N", id="17543329", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[378] = { nm="N", id="17543624", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[378] = { nm="N", id="17543624", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[379] = { nm="N", id="17543299", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[380] = { nm="N", id="17543298", name="Vanguard_Prelate", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[381] = { nm="N", id="17543297", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -426,16 +426,16 @@
 	mb_data[418] = { nm="N", id="17543314", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[419] = { nm="N", id="17543313", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[420] = { nm="N", id="17543312", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[421] = { nm="N", id="17543311", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[421] = { nm="N", id="17543311", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[422] = { nm="N", id="17543310", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[423] = { nm="N", id="17543309", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[424] = { nm="N", id="17543308", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[425] = { nm="N", id="17543307", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[426] = { nm="N", id="17543306", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[427] = { nm="N", id="17543305", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[426] = { nm="N", id="17543306", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[427] = { nm="N", id="17543305", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[428] = { nm="N", id="17543304", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[429] = { nm="N", id="17543302", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[430] = { nm="N", id="17543625", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[431] = { nm="N", id="17543421", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[430] = { nm="N", id="17543625", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[431] = { nm="N", id="17543421", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 
 	return mb_data;

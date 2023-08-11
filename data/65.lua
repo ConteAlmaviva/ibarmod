@@ -7,12 +7,12 @@
 	mb_data = {}
 
 	mb_data[1] = { nm="N", id="17043852", name="Archaic_Mirror", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="NA", links="N", spawntype="128", weak="???", note="" }
-	mb_data[2] = { nm="N", id="17043610", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[3] = { nm="N", id="17043611", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[4] = { nm="N", id="17043612", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[5] = { nm="N", id="17043613", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[2] = { nm="N", id="17043610", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[3] = { nm="N", id="17043611", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[4] = { nm="N", id="17043612", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[5] = { nm="N", id="17043613", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[6] = { nm="N", id="17043614", name="Air_Elemental", mj="4", sj="5", mlvl="75-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
-	mb_data[7] = { nm="N", id="17043615", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[7] = { nm="N", id="17043615", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[8] = { nm="N", id="17043616", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[9] = { nm="N", id="17043617", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[10] = { nm="N", id="17043618", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -22,7 +22,7 @@
 	mb_data[14] = { nm="N", id="17043622", name="Battle_Bugard", mj="1", sj="1", mlvl="78-79", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[15] = { nm="N", id="17043623", name="Battle_Bugard", mj="1", sj="1", mlvl="78-79", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[16] = { nm="N", id="17043624", name="Battle_Bugard", mj="1", sj="1", mlvl="78-79", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[17] = { nm="N", id="17043625", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[17] = { nm="N", id="17043625", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[18] = { nm="N", id="17043626", name="Dragonscaled_Bugaal_Ja", mj="9", sj="9", mlvl="75-83", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[19] = { nm="N", id="17043627", name="Tyrannobugard", mj="1", sj="1", mlvl="60-66", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice", note="" }
 	mb_data[20] = { nm="N", id="17043628", name="Tyrannobugard", mj="1", sj="1", mlvl="60-66", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice", note="" }
@@ -32,9 +32,9 @@
 	mb_data[24] = { nm="N", id="17043632", name="Mamool_Ja_Zenist", mj="13", sj="13", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[25] = { nm="N", id="17043633", name="Mamool_Ja_Savant", mj="3", sj="3", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[26] = { nm="N", id="17043634", name="Mamool_Ja_Sophist", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[27] = { nm="N", id="17043609", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[28] = { nm="N", id="17043608", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[29] = { nm="N", id="17043607", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[27] = { nm="N", id="17043609", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[28] = { nm="N", id="17043608", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[29] = { nm="N", id="17043607", name="Poroggo", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[30] = { nm="N", id="17043606", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[31] = { nm="N", id="17043580", name="Mamool_Ja_Bounder", mj="6", sj="6", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[32] = { nm="N", id="17043581", name="Mamool_Ja_Spearman", mj="14", sj="14", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -50,32 +50,32 @@
 	mb_data[42] = { nm="N", id="17043591", name="Mamool_Ja_Savant", mj="3", sj="3", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[43] = { nm="N", id="17043635", name="Mamool_Ja_Zenist", mj="13", sj="13", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[44] = { nm="N", id="17043592", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[45] = { nm="N", id="17043594", name="Mamool_Ja_Frogman", mj="10", sj="10", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[46] = { nm="N", id="17043595", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[47] = { nm="N", id="17043596", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[48] = { nm="N", id="17043597", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[49] = { nm="N", id="17043598", name="Mamool_Ja_Diver", mj="2", sj="2", mlvl="75-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[50] = { nm="N", id="17043599", name="Mamool_Ja_Diver", mj="2", sj="2", mlvl="75-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[51] = { nm="N", id="17043600", name="Mamool_Ja_Frogman", mj="10", sj="10", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[52] = { nm="N", id="17043601", name="Mamool_Ja_Diver", mj="2", sj="2", mlvl="75-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[53] = { nm="N", id="17043602", name="Mamool_Ja_Frogman", mj="10", sj="10", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Lightning", note="" }
+	mb_data[45] = { nm="N", id="17043594", name="Mamool_Ja_Frogman", mj="10", sj="10", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[46] = { nm="N", id="17043595", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[47] = { nm="N", id="17043596", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[48] = { nm="N", id="17043597", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[49] = { nm="N", id="17043598", name="Mamool_Ja_Diver", mj="2", sj="2", mlvl="75-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[50] = { nm="N", id="17043599", name="Mamool_Ja_Diver", mj="2", sj="2", mlvl="75-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[51] = { nm="N", id="17043600", name="Mamool_Ja_Frogman", mj="10", sj="10", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[52] = { nm="N", id="17043601", name="Mamool_Ja_Diver", mj="2", sj="2", mlvl="75-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[53] = { nm="N", id="17043602", name="Mamool_Ja_Frogman", mj="10", sj="10", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ltng.", note="" }
 	mb_data[54] = { nm="N", id="17043603", name="Mamool_Ja_Strapper", mj="9", sj="9", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[55] = { nm="N", id="17043604", name="Mamool_Ja_s_Lizard", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[56] = { nm="N", id="17043605", name="Mamool_Ja_Spearman", mj="14", sj="14", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[57] = { nm="N", id="17043593", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[57] = { nm="N", id="17043593", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[58] = { nm="N", id="17043636", name="Mamool_Ja_Sophist", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[59] = { nm="N", id="17043637", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[60] = { nm="N", id="17043638", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[61] = { nm="N", id="17043669", name="Hundredfaced_Hapool_Ja", mj="13", sj="13", mlvl="75-90", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[62] = { nm="N", id="17043670", name="Battle_Bugard", mj="1", sj="1", mlvl="78-79", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[63] = { nm="N", id="17043671", name="Battle_Bugard", mj="1", sj="1", mlvl="78-79", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[64] = { nm="N", id="17043672", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[65] = { nm="N", id="17043673", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[66] = { nm="N", id="17043674", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[67] = { nm="N", id="17043675", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[68] = { nm="N", id="17043676", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[69] = { nm="N", id="17043677", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[70] = { nm="N", id="17043678", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
+	mb_data[64] = { nm="N", id="17043672", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[65] = { nm="N", id="17043673", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[66] = { nm="N", id="17043674", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[67] = { nm="N", id="17043675", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[68] = { nm="N", id="17043676", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[69] = { nm="N", id="17043677", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[70] = { nm="N", id="17043678", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
 	mb_data[71] = { nm="N", id="17043679", name="Mamool_Ja_Spearman", mj="14", sj="14", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[72] = { nm="N", id="17043680", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[73] = { nm="N", id="17043668", name="Hundredfaced_Hapool_Ja", mj="13", sj="13", mlvl="75-90", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="Ice", note="" }
@@ -91,7 +91,7 @@
 	mb_data[83] = { nm="N", id="17043691", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[84] = { nm="N", id="17043692", name="Mamool_Ja_Bounder", mj="6", sj="6", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[85] = { nm="N", id="17043693", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[86] = { nm="N", id="17043694", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[86] = { nm="N", id="17043694", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[87] = { nm="N", id="17043682", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[88] = { nm="N", id="17043579", name="Mamool_Ja_Sophist", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[89] = { nm="N", id="17043667", name="Hundredfaced_Hapool_Ja", mj="13", sj="13", mlvl="75-90", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="Ice", note="" }
@@ -111,26 +111,26 @@
 	mb_data[103] = { nm="N", id="17043666", name="Hundredfaced_Hapool_Ja", mj="13", sj="13", mlvl="75-90", behavior="0", aggro="T(H),T(S),Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[104] = { nm="N", id="17043651", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[105] = { nm="N", id="17043653", name="Air_Elemental", mj="4", sj="5", mlvl="75-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
-	mb_data[106] = { nm="N", id="17043654", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[107] = { nm="N", id="17043655", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[108] = { nm="N", id="17043656", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[109] = { nm="N", id="17043657", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[106] = { nm="N", id="17043654", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[107] = { nm="N", id="17043655", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[108] = { nm="N", id="17043656", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[109] = { nm="N", id="17043657", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[110] = { nm="N", id="17043658", name="Brei", mj="1", sj="1", mlvl="77-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[111] = { nm="N", id="17043659", name="Brei", mj="1", sj="1", mlvl="77-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[112] = { nm="N", id="17043660", name="Brei", mj="1", sj="1", mlvl="77-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[113] = { nm="N", id="17043661", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[114] = { nm="N", id="17043662", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[113] = { nm="N", id="17043661", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[114] = { nm="N", id="17043662", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[115] = { nm="N", id="17043663", name="Battle_Bugard", mj="1", sj="1", mlvl="78-79", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[116] = { nm="N", id="17043664", name="Battle_Bugard", mj="1", sj="1", mlvl="78-79", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[117] = { nm="N", id="17043652", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[118] = { nm="N", id="17043578", name="Mamool_Ja_Savant", mj="3", sj="3", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[119] = { nm="N", id="17043577", name="Mamool_Ja_Zenist", mj="13", sj="13", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[120] = { nm="N", id="17043576", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[121] = { nm="N", id="17043500", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[122] = { nm="N", id="17043501", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[123] = { nm="N", id="17043502", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[124] = { nm="N", id="17043503", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[125] = { nm="N", id="17043504", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
+	mb_data[121] = { nm="N", id="17043500", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[122] = { nm="N", id="17043501", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[123] = { nm="N", id="17043502", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[124] = { nm="N", id="17043503", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[125] = { nm="N", id="17043504", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
 	mb_data[126] = { nm="N", id="17043505", name="Mamool_Ja_Spearman", mj="14", sj="14", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[127] = { nm="N", id="17043506", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[128] = { nm="N", id="17043507", name="Mamool_Ja_Savant", mj="3", sj="3", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -138,7 +138,7 @@
 	mb_data[130] = { nm="N", id="17043509", name="Mamool_Ja_Bounder", mj="6", sj="6", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[131] = { nm="N", id="17043510", name="Mamool_Ja_Spearman", mj="14", sj="14", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[132] = { nm="N", id="17043511", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[133] = { nm="N", id="17043499", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[133] = { nm="N", id="17043499", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[134] = { nm="N", id="17043512", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[135] = { nm="N", id="17043514", name="Mamool_Ja_Sophist", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[136] = { nm="N", id="17043515", name="Mamool_Ja_Savant", mj="3", sj="3", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -154,8 +154,8 @@
 	mb_data[146] = { nm="N", id="17043525", name="Mamool_Ja_Bounder", mj="6", sj="6", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[147] = { nm="N", id="17043513", name="Mamool_Ja_Zenist", mj="13", sj="13", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[148] = { nm="N", id="17043527", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[149] = { nm="N", id="17043498", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[150] = { nm="N", id="17043496", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[149] = { nm="N", id="17043498", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[150] = { nm="N", id="17043496", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[151] = { nm="N", id="17043487", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[152] = { nm="N", id="17043486", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[153] = { nm="N", id="17043485", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
@@ -167,13 +167,13 @@
 	mb_data[159] = { nm="N", id="17043479", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[160] = { nm="N", id="17043478", name="Mamool_Ja_s_Lizard", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[161] = { nm="N", id="17043477", name="Mamool_Ja_Strapper", mj="9", sj="9", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[162] = { nm="N", id="17043476", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[163] = { nm="N", id="17043497", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[162] = { nm="N", id="17043476", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[163] = { nm="N", id="17043497", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[164] = { nm="N", id="17043475", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[165] = { nm="N", id="17043473", name="Mamool_Ja_Sophist", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[166] = { nm="N", id="17043472", name="Mamool_Ja_Savant", mj="3", sj="3", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[167] = { nm="N", id="17043471", name="Mamool_Ja_Zenist", mj="13", sj="13", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[168] = { nm="N", id="17043470", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
+	mb_data[168] = { nm="N", id="17043470", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
 	mb_data[169] = { nm="N", id="17043488", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[170] = { nm="N", id="17043489", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[171] = { nm="N", id="17043490", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
@@ -183,7 +183,7 @@
 	mb_data[175] = { nm="N", id="17043494", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[176] = { nm="N", id="17043495", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[177] = { nm="N", id="17043474", name="Mamool_Ja_Bounder", mj="6", sj="6", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[178] = { nm="N", id="17043695", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[178] = { nm="N", id="17043695", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[179] = { nm="N", id="17043528", name="Mamool_Ja_Zenist", mj="13", sj="13", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[180] = { nm="N", id="17043530", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[181] = { nm="N", id="17043550", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -192,21 +192,21 @@
 	mb_data[184] = { nm="N", id="17043553", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[185] = { nm="N", id="17043554", name="Zizzy_Zillah", mj="1", sj="1", mlvl="77-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[186] = { nm="N", id="17043555", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[187] = { nm="N", id="17043556", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[187] = { nm="N", id="17043556", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[188] = { nm="N", id="17043557", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[189] = { nm="N", id="17043558", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[190] = { nm="N", id="17043559", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[190] = { nm="N", id="17043559", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[191] = { nm="N", id="17043560", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[192] = { nm="N", id="17043561", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[193] = { nm="N", id="17043549", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[194] = { nm="N", id="17043562", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[195] = { nm="N", id="17043564", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[196] = { nm="N", id="17043565", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[197] = { nm="N", id="17043566", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[198] = { nm="N", id="17043567", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[199] = { nm="N", id="17043568", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[200] = { nm="N", id="17043569", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
-	mb_data[201] = { nm="N", id="17043570", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
+	mb_data[196] = { nm="N", id="17043565", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[197] = { nm="N", id="17043566", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[198] = { nm="N", id="17043567", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[199] = { nm="N", id="17043568", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[200] = { nm="N", id="17043569", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
+	mb_data[201] = { nm="N", id="17043570", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
 	mb_data[202] = { nm="N", id="17043571", name="Mamool_Ja_Spearman", mj="14", sj="14", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[203] = { nm="N", id="17043572", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[204] = { nm="N", id="17043573", name="Mamool_Ja_Sophist", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -214,18 +214,18 @@
 	mb_data[206] = { nm="N", id="17043575", name="Mamool_Ja_Savant", mj="3", sj="3", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[207] = { nm="N", id="17043563", name="Ziz", mj="1", sj="1", mlvl="76-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[208] = { nm="N", id="17043529", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
-	mb_data[209] = { nm="N", id="17043548", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[209] = { nm="N", id="17043548", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[210] = { nm="N", id="17043546", name="Mamool_Ja_Zenist", mj="13", sj="13", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[211] = { nm="N", id="17043531", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[211] = { nm="N", id="17043531", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[212] = { nm="N", id="17043532", name="Devout_Radol_Ja", mj="3", sj="3", mlvl="83-83", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[213] = { nm="N", id="17043533", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[214] = { nm="N", id="17043534", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[215] = { nm="N", id="17043535", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[216] = { nm="N", id="17043536", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[217] = { nm="N", id="17043537", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
-	mb_data[218] = { nm="N", id="17043538", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[218] = { nm="N", id="17043538", name="Puk", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="S,H", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[219] = { nm="N", id="17043539", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[220] = { nm="N", id="17043540", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
+	mb_data[220] = { nm="N", id="17043540", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
 	mb_data[221] = { nm="N", id="17043541", name="Mamool_Ja_Strapper", mj="9", sj="9", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[222] = { nm="N", id="17043542", name="Mamool_Ja_s_Lizard", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[223] = { nm="N", id="17043547", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -236,13 +236,13 @@
 	mb_data[228] = { nm="N", id="17043464", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[229] = { nm="N", id="17043463", name="Hunting_Raptor", mj="6", sj="6", mlvl="73-74", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[230] = { nm="N", id="17043462", name="Mamool_Ja_Mimicker", mj="16", sj="16", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[231] = { nm="N", id="17043461", name="Mamook_Crab", mj="7", sj="7", mlvl="75-76", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[231] = { nm="N", id="17043461", name="Mamook_Crab", mj="7", sj="7", mlvl="75-76", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[232] = { nm="N", id="17043460", name="Mamook_Mush", mj="1", sj="1", mlvl="78-82", behavior="0", aggro="H,Sc", links="N", spawntype="128", weak="Fire", note="" }
 	mb_data[233] = { nm="N", id="17043459", name="Mamool_Ja_Bloodsucker", mj="1", sj="1", mlvl="69-70", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[234] = { nm="N", id="17043458", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[234] = { nm="N", id="17043458", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[235] = { nm="N", id="17043544", name="Mamool_Ja_Sophist", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[236] = { nm="N", id="17043545", name="Mamool_Ja_Bounder", mj="6", sj="6", mlvl="73-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[237] = { nm="N", id="17043469", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing", note="" }
+	mb_data[237] = { nm="N", id="17043469", name="Colibri", mj="5", sj="5", mlvl="70-71", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.", note="" }
 	mb_data[238] = { nm="N", id="17043696", name="Qiqirn_Poulterer", mj="11", sj="11", mlvl="77-77", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[239] = { nm="N", id="17043526", name="Carriage_Lizard", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[240] = { nm="N", id="17043698", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
@@ -303,19 +303,19 @@
 	mb_data[295] = { nm="N", id="17043877", name="Mamool_Ja_Chamberlain", mj="3", sj="3", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[296] = { nm="N", id="17043878", name="Mamool_Ja_Palatine", mj="6", sj="6", mlvl="81-83", behavior="0", aggro="S", links="N", spawntype="128", weak="Ice", note="" }
 	mb_data[297] = { nm="N", id="17043879", name="Mamool_Ja_Palatine", mj="6", sj="6", mlvl="81-83", behavior="0", aggro="S", links="N", spawntype="128", weak="Ice", note="" }
-	mb_data[298] = { nm="N", id="17043880", name="Carpophagous_Puk", mj="1", sj="1", mlvl="77-82", behavior="0", aggro="S,H", links="N", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[299] = { nm="N", id="17043881", name="Poroggo_Casanova", mj="4", sj="4", mlvl="65-70", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[300] = { nm="N", id="17043882", name="Mikilulu", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[301] = { nm="N", id="17043883", name="Mikiruru", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[302] = { nm="N", id="17043884", name="Nikilulu", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[303] = { nm="N", id="17043885", name="Mikiluru", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[304] = { nm="N", id="17043886", name="Mikirulu", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[305] = { nm="N", id="17043887", name="Chamrosh", mj="5", sj="4", mlvl="78-80", behavior="0", aggro="NA", links="N", spawntype="128", weak="Piercing", note="" }
-	mb_data[306] = { nm="N", id="17043888", name="Iriri_Samariri", mj="4", sj="4", mlvl="80-82", behavior="0", aggro="NA", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[307] = { nm="N", id="17043889", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[308] = { nm="N", id="17043891", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[309] = { nm="N", id="17043892", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[310] = { nm="N", id="17043457", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[298] = { nm="N", id="17043880", name="Carpophagous_Puk", mj="1", sj="1", mlvl="77-82", behavior="0", aggro="S,H", links="N", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[299] = { nm="N", id="17043881", name="Poroggo_Casanova", mj="4", sj="4", mlvl="65-70", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[300] = { nm="N", id="17043882", name="Mikilulu", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[301] = { nm="N", id="17043883", name="Mikiruru", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[302] = { nm="N", id="17043884", name="Nikilulu", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[303] = { nm="N", id="17043885", name="Mikiluru", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[304] = { nm="N", id="17043886", name="Mikirulu", mj="4", sj="4", mlvl="58-63", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[305] = { nm="N", id="17043887", name="Chamrosh", mj="5", sj="4", mlvl="78-80", behavior="0", aggro="NA", links="N", spawntype="128", weak="Prc.", note="" }
+	mb_data[306] = { nm="N", id="17043888", name="Iriri_Samariri", mj="4", sj="4", mlvl="80-82", behavior="0", aggro="NA", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[307] = { nm="N", id="17043889", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[308] = { nm="N", id="17043891", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[309] = { nm="N", id="17043892", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[310] = { nm="N", id="17043457", name="Suhur_Mas", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[311] = { nm="N", id="17043697", name="Qiqirn_Goldsmith", mj="6", sj="6", mlvl="77-77", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[312] = { nm="N", id="17043872", name="Sagelord_Molaal_Ja", mj="4", sj="3", mlvl="80-83", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[313] = { nm="N", id="17043845", name="Mamool_Ja_Stabler", mj="9", sj="9", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -344,7 +344,7 @@
 	mb_data[336] = { nm="N", id="17043868", name="Mamool_Ja_Treasurer", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[337] = { nm="N", id="17043870", name="Mamool_Ja_Treasurer", mj="4", sj="4", mlvl="75-77", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[338] = { nm="N", id="17043795", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[339] = { nm="N", id="17043890", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[339] = { nm="N", id="17043890", name="Wartkin", mj="4", sj="4", mlvl="72-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[340] = { nm="N", id="17043793", name="Mamool_Ja_Infiltrator", mj="13", sj="13", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[341] = { nm="N", id="17043724", name="Spinner", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[342] = { nm="N", id="17043725", name="Mamool_Ja_Infiltrator", mj="13", sj="13", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -357,16 +357,16 @@
 	mb_data[349] = { nm="N", id="17043732", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[350] = { nm="N", id="17043723", name="Spinner", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[351] = { nm="N", id="17043733", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
-	mb_data[352] = { nm="N", id="17043735", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[352] = { nm="N", id="17043735", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[353] = { nm="N", id="17043736", name="Darting_Kachaal_Ja", mj="4", sj="4", mlvl="75-83", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[354] = { nm="N", id="17043737", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[355] = { nm="N", id="17043738", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
-	mb_data[356] = { nm="N", id="17043739", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[357] = { nm="N", id="17043740", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[356] = { nm="N", id="17043739", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[357] = { nm="N", id="17043740", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[358] = { nm="N", id="17043741", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
-	mb_data[359] = { nm="N", id="17043742", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[360] = { nm="N", id="17043743", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[361] = { nm="N", id="17043734", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[359] = { nm="N", id="17043742", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[360] = { nm="N", id="17043743", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[361] = { nm="N", id="17043734", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[362] = { nm="N", id="17043722", name="Mamool_Ja_Infiltrator", mj="13", sj="13", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[363] = { nm="N", id="17043721", name="Mamool_Ja_Mimer", mj="16", sj="16", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[364] = { nm="N", id="17043720", name="Spinner", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
@@ -392,9 +392,9 @@
 	mb_data[384] = { nm="N", id="17043718", name="Mamool_Ja_Philosopher", mj="4", sj="4", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[385] = { nm="N", id="17043719", name="Spinner", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[386] = { nm="N", id="17043744", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
-	mb_data[387] = { nm="N", id="17043745", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[387] = { nm="N", id="17043745", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[388] = { nm="N", id="17043705", name="Spinner", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[389] = { nm="N", id="17043747", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[389] = { nm="N", id="17043747", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[390] = { nm="N", id="17043771", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[391] = { nm="N", id="17043772", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[392] = { nm="N", id="17043773", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
@@ -404,26 +404,26 @@
 	mb_data[396] = { nm="N", id="17043777", name="Mamool_Ja_Stabler", mj="9", sj="9", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[397] = { nm="N", id="17043778", name="Mamool_Ja_s_Raptor", mj="6", sj="6", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[398] = { nm="N", id="17043779", name="Firedance_Magmaal_Ja", mj="1", sj="1", mlvl="80-82", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[399] = { nm="N", id="17043780", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[399] = { nm="N", id="17043780", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[400] = { nm="N", id="17043770", name="Watch_Wyvern", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
-	mb_data[401] = { nm="N", id="17043781", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[402] = { nm="N", id="17043783", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[403] = { nm="N", id="17043784", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[404] = { nm="N", id="17043785", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[405] = { nm="N", id="17043786", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[406] = { nm="N", id="17043787", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[401] = { nm="N", id="17043781", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[402] = { nm="N", id="17043783", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[403] = { nm="N", id="17043784", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[404] = { nm="N", id="17043785", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[405] = { nm="N", id="17043786", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[406] = { nm="N", id="17043787", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[407] = { nm="N", id="17043788", name="Mamool_Ja_Philosopher", mj="4", sj="4", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[408] = { nm="N", id="17043789", name="Mamool_Ja_Blusterer", mj="3", sj="3", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[409] = { nm="N", id="17043746", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[409] = { nm="N", id="17043746", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[410] = { nm="N", id="17043791", name="Mamool_Ja_Mimer", mj="16", sj="16", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[411] = { nm="N", id="17043792", name="Mamool_Ja_Infiltrator", mj="13", sj="13", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[412] = { nm="N", id="17043782", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[412] = { nm="N", id="17043782", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[413] = { nm="N", id="17043769", name="Spinner", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[414] = { nm="N", id="17043790", name="Mamool_Ja_Lurker", mj="6", sj="6", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[415] = { nm="N", id="17043767", name="Mamool_Ja_Philosopher", mj="4", sj="4", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[416] = { nm="N", id="17043750", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[417] = { nm="N", id="17043751", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[418] = { nm="N", id="17043752", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[417] = { nm="N", id="17043751", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[418] = { nm="N", id="17043752", name="Sea_Puk", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="S,H", links="N", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[419] = { nm="N", id="17043753", name="Mamool_Ja_Stabler", mj="9", sj="9", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[420] = { nm="N", id="17043754", name="Mamool_Ja_s_Raptor", mj="6", sj="6", mlvl="68-70", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[421] = { nm="N", id="17043755", name="Mamool_Ja_Pikeman", mj="14", sj="14", mlvl="81-83", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice", note="" }
@@ -435,7 +435,7 @@
 	mb_data[427] = { nm="N", id="17043768", name="Spinner", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[428] = { nm="N", id="17043756", name="Mamool_Ja_s_Wyvern", mj="1", sj="1", mlvl="68-70", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[429] = { nm="N", id="17043765", name="Mamool_Ja_Mimer", mj="16", sj="16", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[430] = { nm="N", id="17043748", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[430] = { nm="N", id="17043748", name="Nipper", mj="7", sj="7", mlvl="76-77", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[431] = { nm="N", id="17043749", name="Mamool_Ja_Pikeman", mj="14", sj="14", mlvl="81-83", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[432] = { nm="N", id="17043766", name="Mamool_Ja_Blusterer", mj="3", sj="3", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[433] = { nm="N", id="17043763", name="Mamool_Ja_Infiltrator", mj="13", sj="13", mlvl="81-83", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }

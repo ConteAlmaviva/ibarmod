@@ -158,8 +158,8 @@
 	mb_data[150] = { nm="N", id="17629212", name="Antican_Hastatus", mj="1", sj="1", mlvl="52-59", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[151] = { nm="N", id="17629210", name="Antican_Princeps", mj="7", sj="7", mlvl="52-59", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[152] = { nm="N", id="17629264", name="Sabotender_Bailarina", mj="1", sj="1", mlvl="56-59", behavior="0", aggro="H,M", links="N", spawntype="128", weak="Dark", note="" }
-	mb_data[153] = { nm="N", id="17629185", name="Valor", mj="2", sj="2", mlvl="65-65", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[154] = { nm="N", id="17629186", name="Honor", mj="2", sj="5", mlvl="70-70", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[153] = { nm="N", id="17629185", name="Valor", mj="2", sj="2", mlvl="65-65", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[154] = { nm="N", id="17629186", name="Honor", mj="2", sj="5", mlvl="70-70", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[155] = { nm="N", id="17629187", name="Centurio_IV-VII", mj="1", sj="1", mlvl="70-70", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Wind", note="" }
 	mb_data[156] = { nm="N", id="17629188", name="Triarius_IV-XIV", mj="4", sj="4", mlvl="70-70", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Wind", note="" }
 	mb_data[157] = { nm="N", id="17629189", name="Princeps_IV-XLV", mj="7", sj="7", mlvl="70-70", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Wind", note="" }
@@ -315,7 +315,7 @@
 	mb_data[307] = { nm="N", id="17629639", name="Antican_Praetor", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[308] = { nm="N", id="17629640", name="Antican_Legatus", mj="7", sj="7", mlvl="72-74", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[309] = { nm="N", id="17629641", name="Antican_Consul", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[310] = { nm="N", id="17629642", name="Ancient_Vessel", mj="5", sj="1", mlvl="72-72", behavior="0", aggro="M", links="N", spawntype="128", weak="Hand-To-Hand,Impact", note="" }
+	mb_data[310] = { nm="N", id="17629642", name="Ancient_Vessel", mj="5", sj="1", mlvl="72-72", behavior="0", aggro="M", links="N", spawntype="128", weak="H2H,Impact", note="" }
 	mb_data[311] = { nm="N", id="17629643", name="Tribunus_VII-I", mj="1", sj="1", mlvl="60-62", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Wind", note="" }
 	mb_data[312] = { nm="N", id="17629644", name="Proconsul_XII", mj="7", sj="7", mlvl="72-72", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[313] = { nm="N", id="17629645", name="Girtablulu", mj="1", sj="1", mlvl="63-68", behavior="0", aggro="H,Sc", links="N", spawntype="128", weak="Ice,Light", note="" }

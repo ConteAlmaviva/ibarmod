@@ -23,36 +23,36 @@
 	mb_data[15] = { nm="N", id="17178723", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[16] = { nm="N", id="17178715", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[17] = { nm="N", id="17178706", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[18] = { nm="N", id="17178713", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[18] = { nm="N", id="17178713", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[19] = { nm="N", id="17178731", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[20] = { nm="N", id="17178698", name="Tabar_Beak", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[21] = { nm="N", id="17178699", name="Tabar_Beak", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[22] = { nm="N", id="17178700", name="Tabar_Beak", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[23] = { nm="N", id="17178701", name="Tabar_Beak", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[24] = { nm="N", id="17178702", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[25] = { nm="N", id="17178714", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[25] = { nm="N", id="17178714", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[26] = { nm="N", id="17178703", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[27] = { nm="N", id="17178705", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[28] = { nm="N", id="17178707", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[29] = { nm="N", id="17178708", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[30] = { nm="N", id="17178709", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[31] = { nm="N", id="17178710", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[32] = { nm="N", id="17178712", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[32] = { nm="N", id="17178712", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[33] = { nm="N", id="17178704", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[34] = { nm="N", id="17178732", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[35] = { nm="N", id="17178752", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[36] = { nm="N", id="17178734", name="Goblin_Toxophilite", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[37] = { nm="N", id="17178754", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[38] = { nm="N", id="17178755", name="Gouger_Beetle", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[39] = { nm="N", id="17178756", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[40] = { nm="N", id="17178757", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[41] = { nm="N", id="17178758", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[39] = { nm="N", id="17178756", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[40] = { nm="N", id="17178757", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[41] = { nm="N", id="17178758", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[42] = { nm="N", id="17178759", name="Goblin_Grenadier", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[43] = { nm="N", id="17178760", name="Goblin_Flagman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[44] = { nm="N", id="17178761", name="Sauromugue_Skink", mj="6", sj="6", mlvl="51-52", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[45] = { nm="N", id="17178762", name="Sauromugue_Skink", mj="6", sj="6", mlvl="51-52", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[46] = { nm="N", id="17178763", name="Herensugue", mj="6", sj="6", mlvl="76-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
-	mb_data[47] = { nm="N", id="17178764", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[47] = { nm="N", id="17178764", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[48] = { nm="N", id="17178765", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[49] = { nm="N", id="17178766", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[50] = { nm="N", id="17178767", name="Sauromugue_Skink", mj="6", sj="6", mlvl="51-52", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
@@ -80,51 +80,51 @@
 	mb_data[72] = { nm="N", id="17178696", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[73] = { nm="N", id="17178676", name="Gnat", mj="6", sj="6", mlvl="75-78", behavior="0", aggro="S", links="N", spawntype="0", weak="???", note="" }
 	mb_data[74] = { nm="N", id="17178694", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[75] = { nm="N", id="17178641", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[76] = { nm="N", id="17178642", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[77] = { nm="N", id="17178643", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[78] = { nm="N", id="17178644", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[79] = { nm="N", id="17178645", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[80] = { nm="N", id="17178646", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[81] = { nm="N", id="17178647", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[82] = { nm="N", id="17178648", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[83] = { nm="N", id="17178649", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[84] = { nm="N", id="17178650", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[85] = { nm="N", id="17178651", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[86] = { nm="N", id="17178652", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[87] = { nm="N", id="17178653", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[88] = { nm="N", id="17178654", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[89] = { nm="N", id="17178655", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[90] = { nm="N", id="17178640", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[75] = { nm="N", id="17178641", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[76] = { nm="N", id="17178642", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[77] = { nm="N", id="17178643", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[78] = { nm="N", id="17178644", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[79] = { nm="N", id="17178645", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[80] = { nm="N", id="17178646", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[81] = { nm="N", id="17178647", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[82] = { nm="N", id="17178648", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[83] = { nm="N", id="17178649", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[84] = { nm="N", id="17178650", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[85] = { nm="N", id="17178651", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[86] = { nm="N", id="17178652", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[87] = { nm="N", id="17178653", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[88] = { nm="N", id="17178654", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[89] = { nm="N", id="17178655", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[90] = { nm="N", id="17178640", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[91] = { nm="N", id="17178656", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[92] = { nm="N", id="17178639", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[93] = { nm="N", id="17178637", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[94] = { nm="N", id="17178625", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[95] = { nm="N", id="17178626", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[96] = { nm="N", id="17178627", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[97] = { nm="N", id="17178628", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[98] = { nm="N", id="17178629", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[99] = { nm="N", id="17178630", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[100] = { nm="N", id="17178631", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[101] = { nm="N", id="17178632", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[102] = { nm="N", id="17178633", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[92] = { nm="N", id="17178639", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[93] = { nm="N", id="17178637", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[94] = { nm="N", id="17178625", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[95] = { nm="N", id="17178626", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[96] = { nm="N", id="17178627", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[97] = { nm="N", id="17178628", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[98] = { nm="N", id="17178629", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[99] = { nm="N", id="17178630", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[100] = { nm="N", id="17178631", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[101] = { nm="N", id="17178632", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[102] = { nm="N", id="17178633", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[103] = { nm="N", id="17412245", name="Shadowguard_Demon", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[104] = { nm="N", id="17412237", name="Shadowguard_Demon", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[105] = { nm="N", id="17412227", name="Shadowguard_Demon", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[106] = { nm="N", id="17178634", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[107] = { nm="N", id="17178635", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[108] = { nm="N", id="17178636", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[109] = { nm="N", id="17178638", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[106] = { nm="N", id="17178634", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[107] = { nm="N", id="17178635", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[108] = { nm="N", id="17178636", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[109] = { nm="N", id="17178638", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[110] = { nm="N", id="17178695", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[111] = { nm="N", id="17178657", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[112] = { nm="N", id="17178659", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[113] = { nm="N", id="17178679", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[114] = { nm="N", id="17178680", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[115] = { nm="N", id="17178681", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[113] = { nm="N", id="17178679", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[114] = { nm="N", id="17178680", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[115] = { nm="N", id="17178681", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[116] = { nm="N", id="17178682", name="Gnat", mj="6", sj="6", mlvl="75-78", behavior="0", aggro="S", links="N", spawntype="0", weak="???", note="" }
-	mb_data[117] = { nm="N", id="17178683", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[118] = { nm="N", id="17178684", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[119] = { nm="N", id="17178685", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[117] = { nm="N", id="17178683", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[118] = { nm="N", id="17178684", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[119] = { nm="N", id="17178685", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[120] = { nm="N", id="17178686", name="Tabar_Beak", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[121] = { nm="N", id="17178687", name="Tabar_Beak", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[122] = { nm="N", id="17178688", name="Tabar_Beak", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
@@ -166,28 +166,28 @@
 	mb_data[158] = { nm="N", id="17178876", name="Earth_Elemental", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[159] = { nm="N", id="17178877", name="Goblin_Guerrilla", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[160] = { nm="N", id="17178878", name="Goblin_s_Beetle", mj="8", sj="8", mlvl="61-63", behavior="0", aggro="Sc", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[161] = { nm="N", id="17178879", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[162] = { nm="N", id="17178880", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[163] = { nm="N", id="17178881", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[164] = { nm="N", id="17178882", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[161] = { nm="N", id="17178879", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[162] = { nm="N", id="17178880", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[163] = { nm="N", id="17178881", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[164] = { nm="N", id="17178882", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[165] = { nm="N", id="17178883", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[166] = { nm="N", id="17178868", name="Goblin_Guerrilla", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[167] = { nm="N", id="17178884", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[167] = { nm="N", id="17178884", name="Lycopodium", mj="2", sj="2", mlvl="28-31", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[168] = { nm="N", id="17178867", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[169] = { nm="N", id="17178865", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[170] = { nm="N", id="17178850", name="Yagudo_Pythoness", mj="15", sj="15", mlvl="71-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[171] = { nm="N", id="17178851", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="64-66", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[172] = { nm="N", id="17178852", name="Yagudo_Zealot", mj="2", sj="2", mlvl="71-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[173] = { nm="N", id="17178853", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[174] = { nm="N", id="17178854", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[174] = { nm="N", id="17178854", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[175] = { nm="N", id="17178855", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[176] = { nm="N", id="17178856", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[176] = { nm="N", id="17178856", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[177] = { nm="N", id="17178857", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[178] = { nm="N", id="17178858", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[179] = { nm="N", id="17178859", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[180] = { nm="N", id="17178860", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[181] = { nm="N", id="17178861", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[182] = { nm="N", id="17178862", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[179] = { nm="N", id="17178859", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[180] = { nm="N", id="17178860", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[181] = { nm="N", id="17178861", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[182] = { nm="N", id="17178862", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[183] = { nm="N", id="17178863", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[184] = { nm="N", id="17178864", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[185] = { nm="N", id="17178866", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
@@ -198,16 +198,16 @@
 	mb_data[190] = { nm="N", id="17178910", name="Raid_Raptor", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="T(H),Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[191] = { nm="N", id="17178911", name="Raid_Raptor", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="T(H),Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[192] = { nm="N", id="17178912", name="Laa_Heha_the_Falconer", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[193] = { nm="N", id="17178913", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[194] = { nm="N", id="17178914", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[195] = { nm="N", id="17178915", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[196] = { nm="N", id="17178916", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[197] = { nm="N", id="17178917", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[198] = { nm="N", id="17178918", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[199] = { nm="N", id="17178919", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[200] = { nm="N", id="17178920", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[201] = { nm="N", id="17178921", name="Yilbegan", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[202] = { nm="N", id="17179265", name="Gugalanna", mj="2", sj="2", mlvl="92-94", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="Hand-To-Hand,Impact,Light", note="" }
+	mb_data[193] = { nm="N", id="17178913", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[194] = { nm="N", id="17178914", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[195] = { nm="N", id="17178915", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[196] = { nm="N", id="17178916", name="Cinderwing", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[197] = { nm="N", id="17178917", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[198] = { nm="N", id="17178918", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[199] = { nm="N", id="17178919", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[200] = { nm="N", id="17178920", name="Gorebeak", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[201] = { nm="N", id="17178921", name="Yilbegan", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[202] = { nm="N", id="17179265", name="Gugalanna", mj="2", sj="2", mlvl="92-94", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="H2H,Impact,Light", note="" }
 	mb_data[203] = { nm="N", id="17178771", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[204] = { nm="N", id="17178908", name="Raid_Raptor", mj="1", sj="1", mlvl="1-1", behavior="0", aggro="T(H),Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[205] = { nm="N", id="17178888", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
@@ -216,8 +216,8 @@
 	mb_data[208] = { nm="N", id="17178890", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[209] = { nm="N", id="17178891", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[210] = { nm="N", id="17178892", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[211] = { nm="N", id="17178893", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[212] = { nm="N", id="17178894", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[211] = { nm="N", id="17178893", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[212] = { nm="N", id="17178894", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[213] = { nm="N", id="17178895", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[214] = { nm="N", id="17178896", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[215] = { nm="N", id="17178897", name="Diving_Beetle", mj="7", sj="7", mlvl="42-45", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice,Light", note="" }
@@ -235,7 +235,7 @@
 	mb_data[227] = { nm="N", id="17178792", name="Sauromugue_Skink", mj="6", sj="6", mlvl="51-52", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[228] = { nm="N", id="17178793", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[229] = { nm="N", id="17178794", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
-	mb_data[230] = { nm="N", id="17178795", name="Scavenging_Hound", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Slashing,Fire,Light", note="" }
+	mb_data[230] = { nm="N", id="17178795", name="Scavenging_Hound", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Slsh.,Fire,Light", note="" }
 	mb_data[231] = { nm="N", id="17178796", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[232] = { nm="N", id="17178797", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[233] = { nm="N", id="17178798", name="Lynx", mj="1", sj="1", mlvl="46-48", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
@@ -298,12 +298,12 @@
 	mb_data[290] = { nm="N", id="17178815", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[291] = { nm="N", id="17178817", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[292] = { nm="N", id="17178818", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[293] = { nm="N", id="17178816", name="Scavenging_Hound", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Slashing,Fire,Light", note="" }
+	mb_data[293] = { nm="N", id="17178816", name="Scavenging_Hound", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="H,HP", links="N", spawntype="1", weak="Slsh.,Fire,Light", note="" }
 	mb_data[294] = { nm="N", id="17178820", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[295] = { nm="N", id="17178821", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[296] = { nm="N", id="17178822", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[297] = { nm="N", id="17178823", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[298] = { nm="N", id="17178824", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[297] = { nm="N", id="17178823", name="Midnight_Wings", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[298] = { nm="N", id="17178824", name="Moon_Bat", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[299] = { nm="N", id="17178825", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[300] = { nm="N", id="17178819", name="Hill_Lizard", mj="1", sj="1", mlvl="42-45", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 

@@ -51,7 +51,7 @@
 	mb_data[43] = { nm="N", id="17330868", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[44] = { nm="N", id="17330867", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[45] = { nm="N", id="17330844", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[46] = { nm="N", id="17330843", name="Icon_Prototype", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[46] = { nm="N", id="17330843", name="Icon_Prototype", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[47] = { nm="N", id="17330842", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[48] = { nm="N", id="17330841", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[49] = { nm="N", id="17330840", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
@@ -292,7 +292,7 @@
 	mb_data[284] = { nm="N", id="17330815", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[285] = { nm="N", id="17330814", name="Icon_Prototype", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[286] = { nm="N", id="17330813", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[287] = { nm="N", id="17330812", name="Tombstone_Prototype", mj="5", sj="5", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[287] = { nm="N", id="17330812", name="Tombstone_Prototype", mj="5", sj="5", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[288] = { nm="N", id="17330770", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[289] = { nm="N", id="17330769", name="Kindred_s_Avatar", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[290] = { nm="N", id="17330768", name="Kindred_Summoner", mj="15", sj="15", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
@@ -602,17 +602,17 @@
 	mb_data[594] = { nm="N", id="17330562", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[595] = { nm="N", id="17330563", name="Kindred_White_Mage", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[596] = { nm="N", id="17330536", name="Kindred_Warrior", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[597] = { nm="N", id="17330534", name="Statue_Prototype", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[597] = { nm="N", id="17330534", name="Statue_Prototype", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[598] = { nm="N", id="17330558", name="Kindred_Ranger", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[599] = { nm="N", id="17330564", name="Kindred_Red_Mage", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[600] = { nm="N", id="17330532", name="Effigy_Prototype", mj="1", sj="1", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[601] = { nm="N", id="17330531", name="Tombstone_Prototype", mj="5", sj="5", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[600] = { nm="N", id="17330532", name="Effigy_Prototype", mj="1", sj="1", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[601] = { nm="N", id="17330531", name="Tombstone_Prototype", mj="5", sj="5", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[602] = { nm="N", id="17330530", name="Vanguard_Dragon", mj="1", sj="1", mlvl="86-88", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[603] = { nm="N", id="17330529", name="Vanguard_Dragon", mj="1", sj="1", mlvl="86-88", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[604] = { nm="N", id="17330528", name="Vanguard_Dragon", mj="1", sj="1", mlvl="86-88", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[605] = { nm="N", id="17330527", name="Satellite_Longbows", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[606] = { nm="N", id="17330526", name="Satellite_Longbows", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[607] = { nm="N", id="17330533", name="Icon_Prototype", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[607] = { nm="N", id="17330533", name="Icon_Prototype", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[608] = { nm="N", id="17330557", name="Kindred_Bard", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[609] = { nm="N", id="17330556", name="Kindred_Bard", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[610] = { nm="N", id="17330537", name="Kindred_Warrior", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
@@ -637,7 +637,7 @@
 	mb_data[629] = { nm="N", id="17330524", name="Satellite_Longbows", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[630] = { nm="N", id="17330552", name="Kindred_Dark_Knight", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[631] = { nm="N", id="17330522", name="Satellite_Longbows", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[632] = { nm="N", id="17330911", name="Effigy_Prototype", mj="1", sj="1", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[632] = { nm="N", id="17330911", name="Effigy_Prototype", mj="1", sj="1", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[633] = { nm="N", id="17330910", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[634] = { nm="N", id="17330909", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[635] = { nm="N", id="17330908", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
@@ -654,7 +654,7 @@
 	mb_data[646] = { nm="N", id="17330898", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[647] = { nm="N", id="17330897", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[648] = { nm="N", id="17330896", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[649] = { nm="N", id="17330912", name="Statue_Prototype", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[649] = { nm="N", id="17330912", name="Statue_Prototype", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[650] = { nm="N", id="17330913", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[651] = { nm="N", id="17330543", name="Kindred_Monk", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[652] = { nm="N", id="17330915", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
@@ -672,7 +672,7 @@
 	mb_data[664] = { nm="N", id="17330917", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[665] = { nm="N", id="17330512", name="Vanguard_Dragon", mj="1", sj="1", mlvl="86-88", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[666] = { nm="N", id="17330918", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[667] = { nm="N", id="17330919", name="Statue_Prototype", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[667] = { nm="N", id="17330919", name="Statue_Prototype", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[668] = { nm="N", id="17330508", name="Vanguard_Dragon", mj="1", sj="1", mlvl="86-88", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[669] = { nm="N", id="17330916", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[670] = { nm="N", id="17330509", name="Vanguard_Dragon", mj="1", sj="1", mlvl="86-88", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }

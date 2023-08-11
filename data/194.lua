@@ -16,7 +16,7 @@
 	mb_data[8] = { nm="N", id="17572147", name="Doppelganger_Gog", mj="1", sj="1", mlvl="23-25", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[9] = { nm="N", id="17572146", name="Bomb_King", mj="1", sj="1", mlvl="16-18", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[10] = { nm="N", id="17572145", name="Balloon", mj="1", sj="1", mlvl="8-10", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[11] = { nm="N", id="17572190", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[11] = { nm="N", id="17572190", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[12] = { nm="N", id="17572144", name="Doppelganger_Dio", mj="1", sj="1", mlvl="23-25", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[13] = { nm="N", id="17572143", name="Doppelganger_Gog", mj="1", sj="1", mlvl="23-25", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[14] = { nm="N", id="17572191", name="Balloon", mj="1", sj="1", mlvl="8-10", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
@@ -40,19 +40,19 @@
 	mb_data[32] = { nm="N", id="17572155", name="Three_of_Swords", mj="7", sj="7", mlvl="5-9", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[33] = { nm="N", id="17572156", name="Three_of_Coins", mj="5", sj="5", mlvl="5-9", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[34] = { nm="N", id="17572157", name="Three_of_Cups", mj="3", sj="3", mlvl="5-9", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[35] = { nm="N", id="17572188", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[36] = { nm="N", id="17572185", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[37] = { nm="N", id="17572184", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[38] = { nm="N", id="17572183", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[35] = { nm="N", id="17572188", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[36] = { nm="N", id="17572185", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[37] = { nm="N", id="17572184", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[38] = { nm="N", id="17572183", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[39] = { nm="N", id="17572182", name="Goblin_Weaver", mj="5", sj="5", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[40] = { nm="N", id="17572181", name="Goblin_Thug", mj="6", sj="6", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[41] = { nm="N", id="17572180", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[42] = { nm="N", id="17572179", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[41] = { nm="N", id="17572180", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[42] = { nm="N", id="17572179", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[43] = { nm="N", id="17572178", name="Goblin_Weaver", mj="5", sj="5", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[44] = { nm="N", id="17572177", name="Goblin_Thug", mj="6", sj="6", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[45] = { nm="N", id="17572189", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[46] = { nm="N", id="17572176", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[47] = { nm="N", id="17572175", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[45] = { nm="N", id="17572189", name="Blade_Bat", mj="1", sj="1", mlvl="4-7", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[46] = { nm="N", id="17572176", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[47] = { nm="N", id="17572175", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[48] = { nm="N", id="17572174", name="Goblin_Weaver", mj="5", sj="5", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[49] = { nm="N", id="17572186", name="Goblin_Thug", mj="6", sj="6", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[50] = { nm="N", id="17572173", name="Goblin_Thug", mj="6", sj="6", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -64,9 +64,9 @@
 	mb_data[56] = { nm="N", id="17572166", name="Goblin_Weaver", mj="5", sj="5", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[57] = { nm="N", id="17572165", name="Goblin_Thug", mj="6", sj="6", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[58] = { nm="N", id="17572164", name="Goblin_Thug", mj="6", sj="6", mlvl="1-7", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[59] = { nm="N", id="17572163", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[60] = { nm="N", id="17572162", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[61] = { nm="N", id="17572161", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[59] = { nm="N", id="17572163", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[60] = { nm="N", id="17572162", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[61] = { nm="N", id="17572161", name="Battue_Bats", mj="1", sj="1", mlvl="1-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[62] = { nm="N", id="17572160", name="Three_of_Coins", mj="5", sj="5", mlvl="5-9", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[63] = { nm="N", id="17572159", name="Three_of_Swords", mj="7", sj="7", mlvl="5-9", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[64] = { nm="N", id="17572158", name="Three_of_Batons", mj="4", sj="4", mlvl="5-9", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
@@ -76,35 +76,35 @@
 	mb_data[68] = { nm="N", id="17572211", name="Custom_Cardian", mj="4", sj="3", mlvl="1-1", behavior="0", aggro="T(H),M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[69] = { nm="N", id="17571857", name="Goblin_Butcher", mj="1", sj="1", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[70] = { nm="N", id="17571858", name="Goblin_Butcher", mj="1", sj="1", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[71] = { nm="N", id="17571859", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[72] = { nm="N", id="17571889", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[73] = { nm="N", id="17571888", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[74] = { nm="N", id="17571887", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[75] = { nm="N", id="17571886", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[71] = { nm="N", id="17571859", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[72] = { nm="N", id="17571889", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[73] = { nm="N", id="17571888", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[74] = { nm="N", id="17571887", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[75] = { nm="N", id="17571886", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[76] = { nm="N", id="17571885", name="Fuligo", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[77] = { nm="N", id="17571884", name="Fuligo", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[78] = { nm="N", id="17571883", name="Fuligo", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[79] = { nm="N", id="17571882", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[80] = { nm="N", id="17571881", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[81] = { nm="N", id="17571880", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[82] = { nm="N", id="17571879", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[79] = { nm="N", id="17571882", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[80] = { nm="N", id="17571881", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[81] = { nm="N", id="17571880", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[82] = { nm="N", id="17571879", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[83] = { nm="N", id="17571856", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[84] = { nm="N", id="17571878", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[85] = { nm="N", id="17571876", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[86] = { nm="N", id="17571875", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[87] = { nm="N", id="17571874", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[84] = { nm="N", id="17571878", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[85] = { nm="N", id="17571876", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[86] = { nm="N", id="17571875", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[87] = { nm="N", id="17571874", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[88] = { nm="N", id="17571872", name="Rotten_Jam", mj="1", sj="1", mlvl="12-15", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[89] = { nm="N", id="17571871", name="Rotten_Jam", mj="1", sj="1", mlvl="12-15", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[90] = { nm="N", id="17571870", name="Desmodont", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[91] = { nm="N", id="17571869", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[92] = { nm="N", id="17571868", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[91] = { nm="N", id="17571869", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[92] = { nm="N", id="17571868", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[93] = { nm="N", id="17571867", name="Goblin_Butcher", mj="1", sj="1", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[94] = { nm="N", id="17571866", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[95] = { nm="N", id="17571865", name="Goblin_Ambusher", mj="11", sj="11", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[96] = { nm="N", id="17571864", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[96] = { nm="N", id="17571864", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[97] = { nm="N", id="17571863", name="Goblin_Butcher", mj="1", sj="1", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[98] = { nm="N", id="17571862", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[99] = { nm="N", id="17571877", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[99] = { nm="N", id="17571877", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[100] = { nm="N", id="17571855", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[101] = { nm="N", id="17571854", name="Goblin_Ambusher", mj="11", sj="11", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[102] = { nm="N", id="17571853", name="Goblin_Ambusher", mj="11", sj="11", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -125,20 +125,20 @@
 	mb_data[117] = { nm="N", id="17572274", name="Stone_Door", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="S,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[118] = { nm="N", id="17572277", name="Stone_Door", mj="7", sj="7", mlvl="72-72", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[119] = { nm="N", id="17571891", name="Black_Slime", mj="1", sj="1", mlvl="23-25", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[120] = { nm="N", id="17571852", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[121] = { nm="N", id="17571851", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[120] = { nm="N", id="17571852", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[121] = { nm="N", id="17571851", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[122] = { nm="N", id="17571850", name="Goblin_Butcher", mj="1", sj="1", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[123] = { nm="N", id="17571849", name="Goblin_Butcher", mj="1", sj="1", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[124] = { nm="N", id="17571848", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[125] = { nm="N", id="17571847", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[126] = { nm="N", id="17572210", name="Custom_Cardian", mj="4", sj="3", mlvl="1-1", behavior="0", aggro="T(H),M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[127] = { nm="N", id="17571846", name="Goblin_Ambusher", mj="11", sj="11", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[128] = { nm="N", id="17571844", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[128] = { nm="N", id="17571844", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[129] = { nm="N", id="17571843", name="Goblin_Butcher", mj="1", sj="1", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[130] = { nm="N", id="17571842", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[131] = { nm="N", id="17571841", name="Goblin_Ambusher", mj="11", sj="11", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[132] = { nm="N", id="17572142", name="Bomb_King", mj="1", sj="1", mlvl="16-18", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[133] = { nm="N", id="17571860", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[133] = { nm="N", id="17571860", name="Stink_Bats", mj="1", sj="1", mlvl="15-18", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[134] = { nm="N", id="17571845", name="Goblin_Ambusher", mj="11", sj="11", mlvl="10-14", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[135] = { nm="N", id="17572141", name="Balloon", mj="1", sj="1", mlvl="8-10", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[136] = { nm="N", id="17572208", name="Custom_Cardian", mj="4", sj="3", mlvl="1-1", behavior="0", aggro="T(H),M", links="Y", spawntype="0", weak="???", note="" }
@@ -223,14 +223,14 @@
 	mb_data[215] = { nm="N", id="17571974", name="Six_of_Batons", mj="4", sj="4", mlvl="20-24", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[216] = { nm="N", id="17571973", name="Six_of_Cups", mj="3", sj="3", mlvl="20-24", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[217] = { nm="N", id="17571972", name="Five_of_Coins", mj="5", sj="5", mlvl="15-19", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[218] = { nm="N", id="17571914", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[219] = { nm="N", id="17571915", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[220] = { nm="N", id="17571916", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[221] = { nm="N", id="17571917", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[222] = { nm="N", id="17571918", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[223] = { nm="N", id="17571919", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[224] = { nm="N", id="17571920", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[225] = { nm="N", id="17571913", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[218] = { nm="N", id="17571914", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[219] = { nm="N", id="17571915", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[220] = { nm="N", id="17571916", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[221] = { nm="N", id="17571917", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[222] = { nm="N", id="17571918", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[223] = { nm="N", id="17571919", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[224] = { nm="N", id="17571920", name="Fetor_Bats", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[225] = { nm="N", id="17571913", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[226] = { nm="N", id="17571921", name="Fuligo", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[227] = { nm="N", id="17571923", name="Fuligo", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[228] = { nm="N", id="17571924", name="Fuligo", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
@@ -241,25 +241,25 @@
 	mb_data[233] = { nm="N", id="17571929", name="Two_of_Cups", mj="3", sj="3", mlvl="1-5", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[234] = { nm="N", id="17571922", name="Fuligo", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[235] = { nm="N", id="17571930", name="Two_of_Batons", mj="4", sj="4", mlvl="1-5", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[236] = { nm="N", id="17571912", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[237] = { nm="N", id="17571910", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[238] = { nm="N", id="17571893", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[239] = { nm="N", id="17571894", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[240] = { nm="N", id="17571895", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[241] = { nm="N", id="17571896", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[242] = { nm="N", id="17571897", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[243] = { nm="N", id="17571898", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[244] = { nm="N", id="17571899", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[245] = { nm="N", id="17571911", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[246] = { nm="N", id="17571900", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[247] = { nm="N", id="17571902", name="Combat", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[248] = { nm="N", id="17571904", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[249] = { nm="N", id="17571905", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[250] = { nm="N", id="17571906", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[251] = { nm="N", id="17571907", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[252] = { nm="N", id="17571908", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[253] = { nm="N", id="17571909", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[254] = { nm="N", id="17571901", name="Combat", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[236] = { nm="N", id="17571912", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[237] = { nm="N", id="17571910", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[238] = { nm="N", id="17571893", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[239] = { nm="N", id="17571894", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[240] = { nm="N", id="17571895", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[241] = { nm="N", id="17571896", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[242] = { nm="N", id="17571897", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[243] = { nm="N", id="17571898", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[244] = { nm="N", id="17571899", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[245] = { nm="N", id="17571911", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[246] = { nm="N", id="17571900", name="Ghoul", mj="1", sj="1", mlvl="23-26", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[247] = { nm="N", id="17571902", name="Combat", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[248] = { nm="N", id="17571904", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[249] = { nm="N", id="17571905", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[250] = { nm="N", id="17571906", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[251] = { nm="N", id="17571907", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[252] = { nm="N", id="17571908", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[253] = { nm="N", id="17571909", name="Thorn_Bat", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[254] = { nm="N", id="17571901", name="Combat", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[255] = { nm="N", id="17571931", name="Two_of_Swords", mj="7", sj="7", mlvl="1-5", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[256] = { nm="N", id="17571932", name="Two_of_Coins", mj="5", sj="5", mlvl="1-5", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[257] = { nm="N", id="17571934", name="Two_of_Batons", mj="4", sj="4", mlvl="1-5", behavior="0", aggro="H,M", links="Y", spawntype="0", weak="???", note="" }

@@ -6,7 +6,7 @@
 
 	mb_data = {}
 
-	mb_data[1] = { nm="N", id="17559769", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[1] = { nm="N", id="17559769", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[2] = { nm="N", id="17559860", name="Couloir_Leech", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[3] = { nm="N", id="17559861", name="Couloir_Leech", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[4] = { nm="N", id="17559862", name="Couloir_Leech", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
@@ -17,8 +17,8 @@
 	mb_data[9] = { nm="N", id="17559870", name="Fire_Elemental", mj="4", sj="5", mlvl="75-75", behavior="0", aggro="M", links="N", spawntype="128", weak="Water", note="" }
 	mb_data[10] = { nm="N", id="17559868", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[11] = { nm="N", id="17559859", name="Goblin_Bushwhacker", mj="11", sj="11", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[12] = { nm="N", id="17559757", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[13] = { nm="N", id="17559756", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[12] = { nm="N", id="17559757", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[13] = { nm="N", id="17559756", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[14] = { nm="N", id="17559755", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[15] = { nm="N", id="17559754", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[16] = { nm="N", id="17559753", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
@@ -46,32 +46,32 @@
 	mb_data[38] = { nm="N", id="17559751", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[39] = { nm="N", id="17559748", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[40] = { nm="N", id="17559749", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[41] = { nm="N", id="17559728", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[42] = { nm="N", id="17559727", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[43] = { nm="N", id="17559726", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[41] = { nm="N", id="17559728", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[42] = { nm="N", id="17559727", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[43] = { nm="N", id="17559726", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[44] = { nm="N", id="17559725", name="Goblin_Healer", mj="3", sj="3", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[45] = { nm="N", id="17559724", name="Goblin_Headsman", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[46] = { nm="N", id="17559723", name="Goblin_Brigand", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[47] = { nm="N", id="17559722", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[47] = { nm="N", id="17559722", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[48] = { nm="N", id="17559729", name="Goblin_Headsman", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[49] = { nm="N", id="17559721", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[49] = { nm="N", id="17559721", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[50] = { nm="N", id="17559719", name="Goblin_Healer", mj="3", sj="3", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[51] = { nm="N", id="17559718", name="Goblin_Headsman", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[52] = { nm="N", id="17559717", name="Goblin_Brigand", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[53] = { nm="N", id="17559716", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[54] = { nm="N", id="17559715", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[55] = { nm="N", id="17559714", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[53] = { nm="N", id="17559716", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[54] = { nm="N", id="17559715", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[55] = { nm="N", id="17559714", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[56] = { nm="N", id="17559713", name="Goblin_Healer", mj="3", sj="3", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[57] = { nm="N", id="17559720", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[57] = { nm="N", id="17559720", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[58] = { nm="N", id="17559750", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[59] = { nm="N", id="17559730", name="Goblin_Headsman", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[60] = { nm="N", id="17559732", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[61] = { nm="N", id="17559839", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[62] = { nm="N", id="17559747", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[63] = { nm="N", id="17559746", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[64] = { nm="N", id="17559745", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[65] = { nm="N", id="17559744", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[66] = { nm="N", id="17559743", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[63] = { nm="N", id="17559746", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[64] = { nm="N", id="17559745", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[65] = { nm="N", id="17559744", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[66] = { nm="N", id="17559743", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[67] = { nm="N", id="17559742", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[68] = { nm="N", id="17559731", name="Goblin_Headsman", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[69] = { nm="N", id="17559741", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
@@ -106,33 +106,33 @@
 	mb_data[98] = { nm="N", id="17559778", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[99] = { nm="N", id="17559777", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[100] = { nm="N", id="17559761", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[101] = { nm="N", id="17559762", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[102] = { nm="N", id="17559763", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[103] = { nm="N", id="17559764", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[101] = { nm="N", id="17559762", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[102] = { nm="N", id="17559763", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[103] = { nm="N", id="17559764", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[104] = { nm="N", id="17559765", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[105] = { nm="N", id="17559766", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[106] = { nm="N", id="17559767", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[107] = { nm="N", id="17559796", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[108] = { nm="N", id="17559768", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[109] = { nm="N", id="17559770", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[107] = { nm="N", id="17559796", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[108] = { nm="N", id="17559768", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[109] = { nm="N", id="17559770", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[110] = { nm="N", id="17559771", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[111] = { nm="N", id="17559772", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[112] = { nm="N", id="17559773", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[113] = { nm="N", id="17559774", name="Fume_Lizard", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[114] = { nm="N", id="17559775", name="Fume_Lizard", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[115] = { nm="N", id="17559776", name="Fume_Lizard", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[116] = { nm="N", id="17559758", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[117] = { nm="N", id="17559797", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[118] = { nm="N", id="17559798", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[116] = { nm="N", id="17559758", name="Trimmer", mj="7", sj="7", mlvl="81-84", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[117] = { nm="N", id="17559797", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[118] = { nm="N", id="17559798", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[119] = { nm="N", id="17559799", name="Goblin_Conjurer", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[120] = { nm="N", id="17559820", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[121] = { nm="N", id="17559821", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[122] = { nm="N", id="17559822", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[123] = { nm="N", id="17559823", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[120] = { nm="N", id="17559820", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[121] = { nm="N", id="17559821", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[122] = { nm="N", id="17559822", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[123] = { nm="N", id="17559823", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[124] = { nm="N", id="17559824", name="Goblin_Bushwhacker", mj="11", sj="11", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[125] = { nm="N", id="17559825", name="Goblin_Bushwhacker", mj="11", sj="11", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[126] = { nm="N", id="17559826", name="Goblin_Bushwhacker", mj="11", sj="11", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[127] = { nm="N", id="17559819", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[127] = { nm="N", id="17559819", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[128] = { nm="N", id="17559827", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[129] = { nm="N", id="17559829", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[130] = { nm="N", id="17559830", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
@@ -143,16 +143,16 @@
 	mb_data[135] = { nm="N", id="17559712", name="Goblin_Headsman", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[136] = { nm="N", id="17559828", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[137] = { nm="N", id="17559837", name="Couloir_Leech", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[138] = { nm="N", id="17559818", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[139] = { nm="N", id="17559816", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[138] = { nm="N", id="17559818", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[139] = { nm="N", id="17559816", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[140] = { nm="N", id="17559800", name="Goblin_Conjurer", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[141] = { nm="N", id="17559801", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[142] = { nm="N", id="17559802", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[143] = { nm="N", id="17559803", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[141] = { nm="N", id="17559801", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[142] = { nm="N", id="17559802", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[143] = { nm="N", id="17559803", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[144] = { nm="N", id="17559804", name="Goblin_Conjurer", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[145] = { nm="N", id="17559805", name="Goblin_Conjurer", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[146] = { nm="N", id="17559806", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[147] = { nm="N", id="17559817", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[147] = { nm="N", id="17559817", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[148] = { nm="N", id="17559807", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[149] = { nm="N", id="17559809", name="Goblin_Bladesmith", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[150] = { nm="N", id="17559810", name="Goblin_Bladesmith", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -163,8 +163,8 @@
 	mb_data[155] = { nm="N", id="17559815", name="Goblin_Bladesmith", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[156] = { nm="N", id="17559808", name="Witchetty_Grub", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[157] = { nm="N", id="17559711", name="Goblin_Brigand", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[158] = { nm="N", id="17559708", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[159] = { nm="N", id="17559709", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[158] = { nm="N", id="17559708", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[159] = { nm="N", id="17559709", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[160] = { nm="N", id="17559609", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[161] = { nm="N", id="17559608", name="Goblin_Fisher", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[162] = { nm="N", id="17559607", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -172,12 +172,12 @@
 	mb_data[164] = { nm="N", id="17559605", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[165] = { nm="N", id="17559604", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[166] = { nm="N", id="17559603", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[167] = { nm="N", id="17559602", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[168] = { nm="N", id="17559601", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[167] = { nm="N", id="17559602", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[168] = { nm="N", id="17559601", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[169] = { nm="N", id="17559600", name="Steam_Lizard", mj="1", sj="1", mlvl="16-20", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[170] = { nm="N", id="17559599", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[171] = { nm="N", id="17559598", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[172] = { nm="N", id="17559597", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[170] = { nm="N", id="17559599", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[171] = { nm="N", id="17559598", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[172] = { nm="N", id="17559597", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[173] = { nm="N", id="17559596", name="Goblin_Butcher", mj="1", sj="1", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[174] = { nm="N", id="17559595", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[175] = { nm="N", id="17559610", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -202,8 +202,8 @@
 	mb_data[194] = { nm="N", id="17559614", name="Stone_Eater", mj="4", sj="5", mlvl="3-5", behavior="0", aggro="NA", links="N", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[195] = { nm="N", id="17559621", name="Goblin_Fisher", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[196] = { nm="N", id="17559592", name="Steam_Lizard", mj="1", sj="1", mlvl="16-20", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[197] = { nm="N", id="17559591", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[198] = { nm="N", id="17559590", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[197] = { nm="N", id="17559591", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[198] = { nm="N", id="17559590", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[199] = { nm="N", id="17559568", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[200] = { nm="N", id="17559567", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[201] = { nm="N", id="17559566", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -217,31 +217,31 @@
 	mb_data[209] = { nm="N", id="17559558", name="Geyser_Lizard", mj="1", sj="1", mlvl="28-30", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[210] = { nm="N", id="17559557", name="Thread_Leech", mj="1", sj="1", mlvl="21-23", behavior="0", aggro="H,Sc", links="N", spawntype="128", weak="Light", note="" }
 	mb_data[211] = { nm="N", id="17559556", name="Wadi_Leech", mj="1", sj="1", mlvl="15-17", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[212] = { nm="N", id="17559555", name="Coral_Crab", mj="7", sj="7", mlvl="10-12", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[213] = { nm="N", id="17559554", name="Land_Crab", mj="7", sj="7", mlvl="5-7", behavior="0", aggro="NA", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[214] = { nm="N", id="17559553", name="Land_Crab", mj="7", sj="7", mlvl="5-7", behavior="0", aggro="NA", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[212] = { nm="N", id="17559555", name="Coral_Crab", mj="7", sj="7", mlvl="10-12", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[213] = { nm="N", id="17559554", name="Land_Crab", mj="7", sj="7", mlvl="5-7", behavior="0", aggro="NA", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[214] = { nm="N", id="17559553", name="Land_Crab", mj="7", sj="7", mlvl="5-7", behavior="0", aggro="NA", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[215] = { nm="N", id="17559560", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[216] = { nm="N", id="17559630", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[217] = { nm="N", id="17559570", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[218] = { nm="N", id="17559572", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[219] = { nm="N", id="17559589", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[219] = { nm="N", id="17559589", name="Wadi_Hare", mj="6", sj="6", mlvl="15-17", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[220] = { nm="N", id="17559588", name="Goblin_Butcher", mj="1", sj="1", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[221] = { nm="N", id="17559587", name="Goblin_Tinkerer", mj="8", sj="8", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[222] = { nm="N", id="17559586", name="Goblin_Ambusher", mj="11", sj="11", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[223] = { nm="N", id="17559585", name="Goblin_Ambusher", mj="11", sj="11", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[224] = { nm="N", id="17559583", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[225] = { nm="N", id="17559582", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[224] = { nm="N", id="17559583", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[225] = { nm="N", id="17559582", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[226] = { nm="N", id="17559571", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[227] = { nm="N", id="17559581", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[227] = { nm="N", id="17559581", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[228] = { nm="N", id="17559579", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[229] = { nm="N", id="17559578", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[230] = { nm="N", id="17559577", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[231] = { nm="N", id="17559576", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[232] = { nm="N", id="17559575", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
-	mb_data[233] = { nm="N", id="17559574", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[231] = { nm="N", id="17559576", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[232] = { nm="N", id="17559575", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
+	mb_data[233] = { nm="N", id="17559574", name="Hoarder_Hare", mj="6", sj="6", mlvl="6-8", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[234] = { nm="N", id="17559573", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[235] = { nm="N", id="17559580", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[236] = { nm="N", id="17559710", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Lightning,Water,Dark", note="" }
+	mb_data[236] = { nm="N", id="17559710", name="Prim_Pika", mj="6", sj="6", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ltng.,Water,Dark", note="" }
 	mb_data[237] = { nm="N", id="17559631", name="Goblin_Fisher", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[238] = { nm="N", id="17559633", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[239] = { nm="N", id="17559688", name="Goblin_Healer", mj="3", sj="3", mlvl="81-84", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -284,9 +284,9 @@
 	mb_data[276] = { nm="N", id="17559671", name="Goblin_Ambusher", mj="11", sj="11", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[277] = { nm="N", id="17559670", name="Goblin_Ambusher", mj="11", sj="11", mlvl="12-16", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[278] = { nm="N", id="17559649", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[279] = { nm="N", id="17559648", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[280] = { nm="N", id="17559647", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[281] = { nm="N", id="17559646", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[279] = { nm="N", id="17559648", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[280] = { nm="N", id="17559647", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[281] = { nm="N", id="17559646", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[282] = { nm="N", id="17559645", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[283] = { nm="N", id="17559644", name="Goblin_Fisher", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[284] = { nm="N", id="17559643", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -294,9 +294,9 @@
 	mb_data[286] = { nm="N", id="17559642", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[287] = { nm="N", id="17559640", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[288] = { nm="N", id="17559639", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[289] = { nm="N", id="17559638", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[290] = { nm="N", id="17559637", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[291] = { nm="N", id="17559636", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[289] = { nm="N", id="17559638", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[290] = { nm="N", id="17559637", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[291] = { nm="N", id="17559636", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[292] = { nm="N", id="17559635", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[293] = { nm="N", id="17559634", name="Goblin_Fisher", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[294] = { nm="N", id="17559641", name="Goblin_Fisher", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -317,9 +317,9 @@
 	mb_data[309] = { nm="N", id="17559658", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[310] = { nm="N", id="17559657", name="Goblin_Weaver", mj="5", sj="5", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[311] = { nm="N", id="17559656", name="Goblin_Thug", mj="6", sj="6", mlvl="5-8", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[312] = { nm="N", id="17559655", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[312] = { nm="N", id="17559655", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[313] = { nm="N", id="17559654", name="Rock_Lizard", mj="1", sj="1", mlvl="5-8", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[314] = { nm="N", id="17559661", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[314] = { nm="N", id="17559661", name="Wadi_Crab", mj="7", sj="7", mlvl="7-9", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[315] = { nm="N", id="17559759", name="Natty_Gibbon", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 
 	return mb_data;

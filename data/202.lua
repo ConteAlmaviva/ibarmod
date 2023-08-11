@@ -28,9 +28,9 @@
 	mb_data[20] = { nm="N", id="17604610", name="Ramuh_Prime", mj="1", sj="1", mlvl="63-68", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[21] = { nm="N", id="17604611", name="Ramuh_Prime", mj="1", sj="1", mlvl="63-68", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[22] = { nm="N", id="17604613", name="Thunder_Gremlin", mj="5", sj="5", mlvl="62-62", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[23] = { nm="N", id="17604614", name="Lightning_Gremlin", mj="1", sj="1", mlvl="65-65", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[24] = { nm="N", id="17604612", name="Lightning_Gremlin", mj="1", sj="1", mlvl="65-65", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[25] = { nm="N", id="17604616", name="Lightning_Gremlin", mj="1", sj="1", mlvl="65-65", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
+	mb_data[23] = { nm="N", id="17604614", name="Ltng._Gremlin", mj="1", sj="1", mlvl="65-65", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
+	mb_data[24] = { nm="N", id="17604612", name="Ltng._Gremlin", mj="1", sj="1", mlvl="65-65", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
+	mb_data[25] = { nm="N", id="17604616", name="Ltng._Gremlin", mj="1", sj="1", mlvl="65-65", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[26] = { nm="N", id="17604617", name="Thunder_Gremlin", mj="5", sj="5", mlvl="62-62", behavior="0", aggro="H,M", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[27] = { nm="N", id="17604618", name="Ramuh_Prime", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[28] = { nm="N", id="17604620", name="Ramuh_Prime", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }

@@ -10,7 +10,7 @@
 	mb_data[2] = { nm="N", id="16945373", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[3] = { nm="N", id="16945372", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[4] = { nm="N", id="16945371", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[5] = { nm="N", id="16945366", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[5] = { nm="N", id="16945366", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[6] = { nm="N", id="16945369", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[7] = { nm="N", id="16945368", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[8] = { nm="N", id="16945367", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
@@ -21,27 +21,27 @@
 	mb_data[13] = { nm="N", id="16945378", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[14] = { nm="N", id="16945379", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[15] = { nm="N", id="16945380", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[16] = { nm="N", id="16945381", name="Suttung", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[16] = { nm="N", id="16945381", name="Suttung", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[17] = { nm="N", id="16945383", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[18] = { nm="N", id="16945384", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[19] = { nm="N", id="16945385", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[20] = { nm="N", id="16945386", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[21] = { nm="N", id="16945387", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[22] = { nm="N", id="16945365", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[22] = { nm="N", id="16945365", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[23] = { nm="N", id="16945377", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[24] = { nm="N", id="16945364", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[24] = { nm="N", id="16945364", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[25] = { nm="N", id="16945350", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[26] = { nm="N", id="16945362", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
-	mb_data[27] = { nm="N", id="16945339", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[28] = { nm="N", id="16945340", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[29] = { nm="N", id="16945341", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[30] = { nm="N", id="16945342", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[31] = { nm="N", id="16945343", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[32] = { nm="N", id="16945344", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[33] = { nm="N", id="16945345", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[34] = { nm="N", id="16945346", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[35] = { nm="N", id="16945347", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[36] = { nm="N", id="16945348", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
+	mb_data[27] = { nm="N", id="16945339", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[28] = { nm="N", id="16945340", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[29] = { nm="N", id="16945341", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[30] = { nm="N", id="16945342", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[31] = { nm="N", id="16945343", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[32] = { nm="N", id="16945344", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[33] = { nm="N", id="16945345", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[34] = { nm="N", id="16945346", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[35] = { nm="N", id="16945347", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[36] = { nm="N", id="16945348", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
 	mb_data[37] = { nm="N", id="16945363", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[38] = { nm="N", id="16945349", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[39] = { nm="N", id="16945351", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
@@ -58,32 +58,32 @@
 	mb_data[50] = { nm="N", id="16945389", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[51] = { nm="N", id="16945402", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[52] = { nm="N", id="16945391", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[53] = { nm="N", id="16945418", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[54] = { nm="N", id="16945419", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[55] = { nm="N", id="16945420", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[56] = { nm="N", id="16945421", name="Lost_Stringes", mj="1", sj="1", mlvl="100-100", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[53] = { nm="N", id="16945418", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[54] = { nm="N", id="16945419", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[55] = { nm="N", id="16945420", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[56] = { nm="N", id="16945421", name="Lost_Stringes", mj="1", sj="1", mlvl="100-100", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[57] = { nm="N", id="16945422", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[58] = { nm="N", id="16945423", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[59] = { nm="N", id="16945424", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[60] = { nm="N", id="16945425", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[61] = { nm="N", id="16945426", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[62] = { nm="N", id="16945427", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
-	mb_data[63] = { nm="N", id="16945417", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[63] = { nm="N", id="16945417", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[64] = { nm="N", id="16945428", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[65] = { nm="N", id="16945430", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
-	mb_data[66] = { nm="N", id="16945431", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[67] = { nm="N", id="16945432", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[68] = { nm="N", id="16945433", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[69] = { nm="N", id="16945434", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[70] = { nm="N", id="16945435", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[71] = { nm="N", id="16945436", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[72] = { nm="N", id="16945437", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[73] = { nm="N", id="16945438", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[74] = { nm="N", id="16945439", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[66] = { nm="N", id="16945431", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[67] = { nm="N", id="16945432", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[68] = { nm="N", id="16945433", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[69] = { nm="N", id="16945434", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[70] = { nm="N", id="16945435", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[71] = { nm="N", id="16945436", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[72] = { nm="N", id="16945437", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[73] = { nm="N", id="16945438", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[74] = { nm="N", id="16945439", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[75] = { nm="N", id="16945429", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
 	mb_data[76] = { nm="N", id="16945390", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[77] = { nm="N", id="16945416", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[78] = { nm="N", id="16945414", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[77] = { nm="N", id="16945416", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[78] = { nm="N", id="16945414", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[79] = { nm="N", id="16945392", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[80] = { nm="N", id="16945393", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[81] = { nm="N", id="16945394", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
@@ -94,102 +94,102 @@
 	mb_data[86] = { nm="N", id="16945399", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[87] = { nm="N", id="16945400", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[88] = { nm="N", id="16945401", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[89] = { nm="N", id="16945415", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[90] = { nm="N", id="16945338", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[91] = { nm="N", id="16945404", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[92] = { nm="N", id="16945405", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[93] = { nm="N", id="16945406", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[94] = { nm="N", id="16945407", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[95] = { nm="N", id="16945408", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[96] = { nm="N", id="16945409", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[97] = { nm="N", id="16945410", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[98] = { nm="N", id="16945411", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[99] = { nm="N", id="16945412", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[100] = { nm="N", id="16945413", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[89] = { nm="N", id="16945415", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[90] = { nm="N", id="16945338", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[91] = { nm="N", id="16945404", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[92] = { nm="N", id="16945405", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[93] = { nm="N", id="16945406", name="Nightmare_Roc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[94] = { nm="N", id="16945407", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[95] = { nm="N", id="16945408", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[96] = { nm="N", id="16945409", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[97] = { nm="N", id="16945410", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[98] = { nm="N", id="16945411", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[99] = { nm="N", id="16945412", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[100] = { nm="N", id="16945413", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[101] = { nm="N", id="16945403", name="Arch_Antaeus", mj="11", sj="1", mlvl="105-105", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="Earth", note="" }
-	mb_data[102] = { nm="N", id="16945337", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[103] = { nm="N", id="16945323", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[104] = { nm="N", id="16945335", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[105] = { nm="N", id="16945565", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[106] = { nm="N", id="16945566", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[107] = { nm="N", id="16945567", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[108] = { nm="N", id="16945575", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[109] = { nm="N", id="16945576", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[110] = { nm="N", id="16945577", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[111] = { nm="N", id="16945605", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[112] = { nm="N", id="16945606", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[113] = { nm="N", id="16945607", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[114] = { nm="N", id="16945615", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[115] = { nm="N", id="16945252", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[116] = { nm="N", id="16945616", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[117] = { nm="N", id="16945625", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[118] = { nm="N", id="16945626", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[119] = { nm="N", id="16945274", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[120] = { nm="N", id="16945275", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[121] = { nm="N", id="16945276", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[122] = { nm="N", id="16945277", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[123] = { nm="N", id="16945278", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[124] = { nm="N", id="16945279", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[125] = { nm="N", id="16945280", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[126] = { nm="N", id="16945281", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[127] = { nm="N", id="16945617", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[128] = { nm="N", id="16945282", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[129] = { nm="N", id="16945251", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[130] = { nm="N", id="16945547", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[131] = { nm="N", id="16945509", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[132] = { nm="N", id="16945530", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[133] = { nm="N", id="16945193", name="Adamantking_Image", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[134] = { nm="N", id="16945243", name="Avatar_Idol", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[135] = { nm="N", id="16945477", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[136] = { nm="N", id="16945478", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[137] = { nm="N", id="16945479", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[138] = { nm="N", id="16945488", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[139] = { nm="N", id="16945489", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[140] = { nm="N", id="16945490", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[141] = { nm="N", id="16945250", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[142] = { nm="N", id="16945497", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[143] = { nm="N", id="16945507", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[144] = { nm="N", id="16945508", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[145] = { nm="N", id="16945527", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[146] = { nm="N", id="16945528", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[147] = { nm="N", id="16945529", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[148] = { nm="N", id="16945536", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[149] = { nm="N", id="16945537", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[150] = { nm="N", id="16945538", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[151] = { nm="N", id="16945545", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[152] = { nm="N", id="16945546", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[153] = { nm="N", id="16945506", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[154] = { nm="N", id="16945283", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[155] = { nm="N", id="16945284", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[156] = { nm="N", id="16945285", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[157] = { nm="N", id="16945313", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[158] = { nm="N", id="16945314", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[159] = { nm="N", id="16945315", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[160] = { nm="N", id="16945316", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[161] = { nm="N", id="16945317", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[162] = { nm="N", id="16945318", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[163] = { nm="N", id="16945319", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[164] = { nm="N", id="16945320", name="Stringes", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[165] = { nm="N", id="16945321", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[166] = { nm="N", id="16945322", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[167] = { nm="N", id="16945312", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[168] = { nm="N", id="16945440", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[169] = { nm="N", id="16945325", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[170] = { nm="N", id="16945326", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[171] = { nm="N", id="16945327", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[172] = { nm="N", id="16945328", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[173] = { nm="N", id="16945329", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[174] = { nm="N", id="16945330", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[175] = { nm="N", id="16945331", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[176] = { nm="N", id="16945332", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[177] = { nm="N", id="16945333", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[178] = { nm="N", id="16945334", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[179] = { nm="N", id="16945324", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[180] = { nm="N", id="16945311", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[181] = { nm="N", id="16945310", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[182] = { nm="N", id="16945309", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[183] = { nm="N", id="16945286", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[184] = { nm="N", id="16945287", name="Scolopendra", mj="2", sj="2", mlvl="82-82", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[102] = { nm="N", id="16945337", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[103] = { nm="N", id="16945323", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[104] = { nm="N", id="16945335", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[105] = { nm="N", id="16945565", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[106] = { nm="N", id="16945566", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[107] = { nm="N", id="16945567", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[108] = { nm="N", id="16945575", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[109] = { nm="N", id="16945576", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[110] = { nm="N", id="16945577", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[111] = { nm="N", id="16945605", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[112] = { nm="N", id="16945606", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[113] = { nm="N", id="16945607", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[114] = { nm="N", id="16945615", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[115] = { nm="N", id="16945252", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[116] = { nm="N", id="16945616", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[117] = { nm="N", id="16945625", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[118] = { nm="N", id="16945626", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[119] = { nm="N", id="16945274", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[120] = { nm="N", id="16945275", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[121] = { nm="N", id="16945276", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[122] = { nm="N", id="16945277", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[123] = { nm="N", id="16945278", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[124] = { nm="N", id="16945279", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[125] = { nm="N", id="16945280", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[126] = { nm="N", id="16945281", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[127] = { nm="N", id="16945617", name="Manifest_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[128] = { nm="N", id="16945282", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[129] = { nm="N", id="16945251", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[130] = { nm="N", id="16945547", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[131] = { nm="N", id="16945509", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[132] = { nm="N", id="16945530", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[133] = { nm="N", id="16945193", name="Adamantking_Image", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[134] = { nm="N", id="16945243", name="Avatar_Idol", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[135] = { nm="N", id="16945477", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[136] = { nm="N", id="16945478", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[137] = { nm="N", id="16945479", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[138] = { nm="N", id="16945488", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[139] = { nm="N", id="16945489", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[140] = { nm="N", id="16945490", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[141] = { nm="N", id="16945250", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[142] = { nm="N", id="16945497", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[143] = { nm="N", id="16945507", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[144] = { nm="N", id="16945508", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[145] = { nm="N", id="16945527", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[146] = { nm="N", id="16945528", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[147] = { nm="N", id="16945529", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[148] = { nm="N", id="16945536", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[149] = { nm="N", id="16945537", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[150] = { nm="N", id="16945538", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[151] = { nm="N", id="16945545", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[152] = { nm="N", id="16945546", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[153] = { nm="N", id="16945506", name="Goblin_Replica", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[154] = { nm="N", id="16945283", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[155] = { nm="N", id="16945284", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[156] = { nm="N", id="16945285", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[157] = { nm="N", id="16945313", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[158] = { nm="N", id="16945314", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[159] = { nm="N", id="16945315", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[160] = { nm="N", id="16945316", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[161] = { nm="N", id="16945317", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[162] = { nm="N", id="16945318", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[163] = { nm="N", id="16945319", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[164] = { nm="N", id="16945320", name="Stringes", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[165] = { nm="N", id="16945321", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[166] = { nm="N", id="16945322", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[167] = { nm="N", id="16945312", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[168] = { nm="N", id="16945440", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[169] = { nm="N", id="16945325", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[170] = { nm="N", id="16945326", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[171] = { nm="N", id="16945327", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[172] = { nm="N", id="16945328", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[173] = { nm="N", id="16945329", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[174] = { nm="N", id="16945330", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[175] = { nm="N", id="16945331", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[176] = { nm="N", id="16945332", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[177] = { nm="N", id="16945333", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[178] = { nm="N", id="16945334", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[179] = { nm="N", id="16945324", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[180] = { nm="N", id="16945311", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[181] = { nm="N", id="16945310", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[182] = { nm="N", id="16945309", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[183] = { nm="N", id="16945286", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[184] = { nm="N", id="16945287", name="Scolopendra", mj="2", sj="2", mlvl="82-82", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[185] = { nm="N", id="16945288", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[186] = { nm="N", id="16945289", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[187] = { nm="N", id="16945290", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -207,37 +207,37 @@
 	mb_data[199] = { nm="N", id="16945302", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[200] = { nm="N", id="16945303", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[201] = { nm="N", id="16945304", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[202] = { nm="N", id="16945305", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[203] = { nm="N", id="16945306", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[204] = { nm="N", id="16945307", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[205] = { nm="N", id="16945308", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[206] = { nm="N", id="16945336", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[207] = { nm="N", id="16945441", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[208] = { nm="N", id="16945454", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[209] = { nm="N", id="16945443", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[202] = { nm="N", id="16945305", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[203] = { nm="N", id="16945306", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[204] = { nm="N", id="16945307", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[205] = { nm="N", id="16945308", name="Nightmare_Stirge", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[206] = { nm="N", id="16945336", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[207] = { nm="N", id="16945441", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[208] = { nm="N", id="16945454", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[209] = { nm="N", id="16945443", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[210] = { nm="N", id="16945187", name="Vanguard_s_Scorpion", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[211] = { nm="N", id="16945188", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[212] = { nm="N", id="16945189", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[213] = { nm="N", id="16945194", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[214] = { nm="N", id="16945195", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[215] = { nm="N", id="16945196", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[216] = { nm="N", id="16945197", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[217] = { nm="N", id="16945198", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[211] = { nm="N", id="16945188", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[212] = { nm="N", id="16945189", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[213] = { nm="N", id="16945194", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[214] = { nm="N", id="16945195", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[215] = { nm="N", id="16945196", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[216] = { nm="N", id="16945197", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[217] = { nm="N", id="16945198", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[218] = { nm="N", id="16945199", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[219] = { nm="N", id="16945204", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[220] = { nm="N", id="16945186", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[221] = { nm="N", id="16945205", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[222] = { nm="N", id="16945207", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[223] = { nm="N", id="16945208", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[219] = { nm="N", id="16945204", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[220] = { nm="N", id="16945186", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[221] = { nm="N", id="16945205", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[222] = { nm="N", id="16945207", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[223] = { nm="N", id="16945208", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[224] = { nm="N", id="16945209", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[225] = { nm="N", id="16945214", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[226] = { nm="N", id="16945215", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[227] = { nm="N", id="16945216", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[228] = { nm="N", id="16945217", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[229] = { nm="N", id="16945218", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[230] = { nm="N", id="16945219", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[230] = { nm="N", id="16945219", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[231] = { nm="N", id="16945224", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[232] = { nm="N", id="16945206", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[232] = { nm="N", id="16945206", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[233] = { nm="N", id="16945225", name="Vanguard_Prelate", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[234] = { nm="N", id="16945185", name="Vanguard_Thaumaturge", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[235] = { nm="N", id="16945179", name="Vanguard_Backstabber", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
@@ -251,7 +251,7 @@
 	mb_data[243] = { nm="N", id="16945156", name="Vanguard_Vexer", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[244] = { nm="N", id="16945157", name="Vanguard_Predator", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[245] = { nm="N", id="16945158", name="Vanguard_Impaler", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[246] = { nm="N", id="16945184", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[246] = { nm="N", id="16945184", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[247] = { nm="N", id="16945159", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[248] = { nm="N", id="16945165", name="Vanguard_Pillager", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[249] = { nm="N", id="16945166", name="Vanguard_Trooper", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
@@ -294,7 +294,7 @@
 	mb_data[286] = { nm="N", id="16945269", name="Vanguard_Ronin", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[287] = { nm="N", id="16945267", name="Vanguard_Pathfinder", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[288] = { nm="N", id="16945229", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[289] = { nm="N", id="16945234", name="Vanguard_Visionary", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[289] = { nm="N", id="16945234", name="Vanguard_Visionary", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[290] = { nm="N", id="16945235", name="Vanguard_Liberator", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[291] = { nm="N", id="16945236", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[292] = { nm="N", id="16945237", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -319,19 +319,19 @@
 	mb_data[311] = { nm="N", id="16945614", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[312] = { nm="N", id="16945613", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[313] = { nm="N", id="16945612", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[314] = { nm="N", id="16945470", name="Lost_Suttung", mj="1", sj="1", mlvl="100-100", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="Lightning", note="" }
-	mb_data[315] = { nm="N", id="16945510", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[316] = { nm="N", id="16945511", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[317] = { nm="N", id="16945512", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[318] = { nm="N", id="16945513", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[319] = { nm="N", id="16945514", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[320] = { nm="N", id="16945515", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[321] = { nm="N", id="16945516", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[322] = { nm="N", id="16945517", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[323] = { nm="N", id="16945518", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
+	mb_data[314] = { nm="N", id="16945470", name="Lost_Suttung", mj="1", sj="1", mlvl="100-100", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="Ltng.", note="" }
+	mb_data[315] = { nm="N", id="16945510", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[316] = { nm="N", id="16945511", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[317] = { nm="N", id="16945512", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[318] = { nm="N", id="16945513", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[319] = { nm="N", id="16945514", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[320] = { nm="N", id="16945515", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[321] = { nm="N", id="16945516", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[322] = { nm="N", id="16945517", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[323] = { nm="N", id="16945518", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
 	mb_data[324] = { nm="N", id="16945469", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[325] = { nm="N", id="16945519", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[326] = { nm="N", id="16945521", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
+	mb_data[325] = { nm="N", id="16945519", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[326] = { nm="N", id="16945521", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
 	mb_data[327] = { nm="N", id="16945549", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[328] = { nm="N", id="16945550", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[329] = { nm="N", id="16945551", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -341,24 +341,24 @@
 	mb_data[333] = { nm="N", id="16945555", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[334] = { nm="N", id="16945556", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[335] = { nm="N", id="16945557", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[336] = { nm="N", id="16945520", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
+	mb_data[336] = { nm="N", id="16945520", name="Nightmare_Tiger", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
 	mb_data[337] = { nm="N", id="16945558", name="Nightmare_Weapon", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[338] = { nm="N", id="16945468", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[339] = { nm="N", id="16945466", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[340] = { nm="N", id="16945444", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[341] = { nm="N", id="16945445", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[342] = { nm="N", id="16945446", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[343] = { nm="N", id="16945447", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[344] = { nm="N", id="16945448", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[345] = { nm="N", id="16945449", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[346] = { nm="N", id="16945450", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[347] = { nm="N", id="16945451", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[348] = { nm="N", id="16945452", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[349] = { nm="N", id="16945453", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[340] = { nm="N", id="16945444", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[341] = { nm="N", id="16945445", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[342] = { nm="N", id="16945446", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[343] = { nm="N", id="16945447", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[344] = { nm="N", id="16945448", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[345] = { nm="N", id="16945449", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[346] = { nm="N", id="16945450", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[347] = { nm="N", id="16945451", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[348] = { nm="N", id="16945452", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[349] = { nm="N", id="16945453", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[350] = { nm="N", id="16945467", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[351] = { nm="N", id="16945480", name="Warchief_Tombstone", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[352] = { nm="N", id="16945456", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[353] = { nm="N", id="16945457", name="Lost_Scolopendra", mj="2", sj="2", mlvl="100-100", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[351] = { nm="N", id="16945480", name="Warchief_Tombstone", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[352] = { nm="N", id="16945456", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[353] = { nm="N", id="16945457", name="Lost_Scolopendra", mj="2", sj="2", mlvl="100-100", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[354] = { nm="N", id="16945458", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[355] = { nm="N", id="16945459", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[356] = { nm="N", id="16945460", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
@@ -367,36 +367,36 @@
 	mb_data[359] = { nm="N", id="16945463", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[360] = { nm="N", id="16945464", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[361] = { nm="N", id="16945465", name="Nightmare_Snoll", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(S),M", links="Y", spawntype="128", weak="Fire", note="" }
-	mb_data[362] = { nm="N", id="16945455", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[362] = { nm="N", id="16945455", name="Nightmare_Kraken", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[363] = { nm="N", id="16945589", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[364] = { nm="N", id="16945590", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[365] = { nm="N", id="16945591", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[366] = { nm="N", id="16945563", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[367] = { nm="N", id="16945564", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[368] = { nm="N", id="16945569", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[369] = { nm="N", id="16945570", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[370] = { nm="N", id="16945571", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[371] = { nm="N", id="16945572", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[372] = { nm="N", id="16945573", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[373] = { nm="N", id="16945579", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[374] = { nm="N", id="16945580", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[375] = { nm="N", id="16945581", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[366] = { nm="N", id="16945563", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[367] = { nm="N", id="16945564", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[368] = { nm="N", id="16945569", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[369] = { nm="N", id="16945570", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[370] = { nm="N", id="16945571", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[371] = { nm="N", id="16945572", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[372] = { nm="N", id="16945573", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[373] = { nm="N", id="16945579", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[374] = { nm="N", id="16945580", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[375] = { nm="N", id="16945581", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[376] = { nm="N", id="16945562", name="Vanguard_s_Scorpion", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[377] = { nm="N", id="16945582", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[377] = { nm="N", id="16945582", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[378] = { nm="N", id="16945584", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[379] = { nm="N", id="16945599", name="Vanguard_Skirmisher", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[380] = { nm="N", id="16945600", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[381] = { nm="N", id="16945601", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[382] = { nm="N", id="16945602", name="Vanguard_Inciter", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[383] = { nm="N", id="16945603", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[384] = { nm="N", id="16945604", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[384] = { nm="N", id="16945604", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[385] = { nm="N", id="16945609", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[386] = { nm="N", id="16945610", name="Vanguard_Prelate", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[387] = { nm="N", id="16945611", name="Vanguard_Chanter", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[388] = { nm="N", id="16945583", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[389] = { nm="N", id="16945561", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[390] = { nm="N", id="16945560", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[391] = { nm="N", id="16945559", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[388] = { nm="N", id="16945583", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[389] = { nm="N", id="16945561", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[390] = { nm="N", id="16945560", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[391] = { nm="N", id="16945559", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[392] = { nm="N", id="16945592", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[393] = { nm="N", id="16945593", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[394] = { nm="N", id="16945594", name="Nightmare_Raptor", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Water", note="" }
@@ -420,9 +420,9 @@
 	mb_data[412] = { nm="N", id="16945542", name="Vanguard_Maestro", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[413] = { nm="N", id="16945543", name="Vanguard_Necromancer", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[414] = { nm="N", id="16945544", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[415] = { nm="N", id="16945442", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[415] = { nm="N", id="16945442", name="Nightmare_Gaylas", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[416] = { nm="N", id="16945153", name="Antaeus", mj="11", sj="1", mlvl="85-85", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Earth", note="" }
 	mb_data[417] = { nm="N", id="16945359", name="Nightmare_Diremite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Water,Light", note="" }
-	mb_data[418] = { nm="N", id="17125377", name="FerociousPugil", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[418] = { nm="N", id="17125377", name="FerociousPugil", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 
 	return mb_data;

@@ -6,33 +6,33 @@
 
 	mb_data = {}
 
-	mb_data[1] = { nm="N", id="17813564", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[1] = { nm="N", id="17813564", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[2] = { nm="N", id="17813570", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[3] = { nm="N", id="17813569", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[4] = { nm="N", id="17813567", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[5] = { nm="N", id="17813566", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[6] = { nm="N", id="17813565", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[7] = { nm="N", id="17813563", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[8] = { nm="N", id="17813556", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[9] = { nm="N", id="17813561", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[10] = { nm="N", id="17813560", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[11] = { nm="N", id="17813559", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[12] = { nm="N", id="17813558", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[13] = { nm="N", id="17813557", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[4] = { nm="N", id="17813567", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[5] = { nm="N", id="17813566", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[6] = { nm="N", id="17813565", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[7] = { nm="N", id="17813563", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[8] = { nm="N", id="17813556", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[9] = { nm="N", id="17813561", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[10] = { nm="N", id="17813560", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[11] = { nm="N", id="17813559", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[12] = { nm="N", id="17813558", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[13] = { nm="N", id="17813557", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[14] = { nm="N", id="17813571", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[15] = { nm="N", id="17813555", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[16] = { nm="N", id="17813554", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[17] = { nm="N", id="17813553", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[18] = { nm="N", id="17813562", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[15] = { nm="N", id="17813555", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[16] = { nm="N", id="17813554", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[17] = { nm="N", id="17813553", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[18] = { nm="N", id="17813562", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[19] = { nm="N", id="17813572", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[20] = { nm="N", id="17813580", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[21] = { nm="N", id="17813574", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[22] = { nm="N", id="17813552", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[23] = { nm="N", id="17813593", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[24] = { nm="N", id="17813592", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[25] = { nm="N", id="17813591", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[26] = { nm="N", id="17813590", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[27] = { nm="N", id="17813589", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[22] = { nm="N", id="17813552", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[23] = { nm="N", id="17813593", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[24] = { nm="N", id="17813592", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[25] = { nm="N", id="17813591", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[26] = { nm="N", id="17813590", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[27] = { nm="N", id="17813589", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[28] = { nm="N", id="17813588", name="Gefyrst", mj="5", sj="3", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[29] = { nm="N", id="17813587", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[30] = { nm="N", id="17813586", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
@@ -47,9 +47,9 @@
 	mb_data[39] = { nm="N", id="17813576", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[40] = { nm="N", id="17813575", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[41] = { nm="N", id="17813573", name="Benumbed_Vodoriga", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[42] = { nm="N", id="17813551", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[42] = { nm="N", id="17813551", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[43] = { nm="N", id="17813520", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[44] = { nm="N", id="17813549", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[44] = { nm="N", id="17813549", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[45] = { nm="N", id="17813525", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[46] = { nm="N", id="17813524", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[47] = { nm="N", id="17813523", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
@@ -67,15 +67,15 @@
 	mb_data[59] = { nm="N", id="17813510", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[60] = { nm="N", id="17813509", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[61] = { nm="N", id="17813508", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[62] = { nm="N", id="17813594", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[62] = { nm="N", id="17813594", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[63] = { nm="N", id="17813515", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[64] = { nm="N", id="17813527", name="Iceberg_Murex", mj="4", sj="5", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[65] = { nm="N", id="17813528", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[66] = { nm="N", id="17813529", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[67] = { nm="N", id="17813548", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[68] = { nm="N", id="17813547", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[69] = { nm="N", id="17813546", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[70] = { nm="N", id="17813545", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[67] = { nm="N", id="17813548", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[68] = { nm="N", id="17813547", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[69] = { nm="N", id="17813546", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[70] = { nm="N", id="17813545", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[71] = { nm="N", id="17813544", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[72] = { nm="N", id="17813543", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[73] = { nm="N", id="17813542", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
@@ -91,10 +91,10 @@
 	mb_data[83] = { nm="N", id="17813532", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[84] = { nm="N", id="17813531", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[85] = { nm="N", id="17813530", name="Floe_Amoeban", mj="4", sj="4", mlvl="82-84", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[86] = { nm="N", id="17813550", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[87] = { nm="N", id="17813595", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[86] = { nm="N", id="17813550", name="Ermit_Imp", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[87] = { nm="N", id="17813595", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[88] = { nm="N", id="17813782", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[89] = { nm="N", id="17813597", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[89] = { nm="N", id="17813597", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[90] = { nm="N", id="17813826", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[91] = { nm="N", id="17813825", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[92] = { nm="N", id="17813824", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
@@ -110,16 +110,16 @@
 	mb_data[102] = { nm="N", id="17813814", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[103] = { nm="N", id="17813813", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[104] = { nm="N", id="17813812", name="Baelfyr", mj="5", sj="3", mlvl="82-87", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[105] = { nm="N", id="17813811", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[106] = { nm="N", id="17813810", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
+	mb_data[105] = { nm="N", id="17813811", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[106] = { nm="N", id="17813810", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
 	mb_data[107] = { nm="N", id="17813827", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[108] = { nm="N", id="17813809", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
+	mb_data[108] = { nm="N", id="17813809", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
 	mb_data[109] = { nm="N", id="17813828", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[110] = { nm="N", id="17813830", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[111] = { nm="N", id="17813846", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[112] = { nm="N", id="17813845", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[113] = { nm="N", id="17813844", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[114] = { nm="N", id="17813596", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[114] = { nm="N", id="17813596", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[115] = { nm="N", id="17813843", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[116] = { nm="N", id="17813842", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[117] = { nm="N", id="17813841", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
@@ -135,8 +135,8 @@
 	mb_data[127] = { nm="N", id="17813831", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[128] = { nm="N", id="17813829", name="Mechanical_Menace", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[129] = { nm="N", id="17813847", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[130] = { nm="N", id="17813808", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[131] = { nm="N", id="17813806", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
+	mb_data[130] = { nm="N", id="17813808", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[131] = { nm="N", id="17813806", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
 	mb_data[132] = { nm="N", id="17813783", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[133] = { nm="N", id="17813940", name="Audumbla", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[134] = { nm="N", id="17813781", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
@@ -146,37 +146,37 @@
 	mb_data[138] = { nm="N", id="17813777", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[139] = { nm="N", id="17813776", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[140] = { nm="N", id="17813775", name="Ungeweder", mj="5", sj="3", mlvl="84-87", behavior="0", aggro="NA", links="N", spawntype="0", weak="Earth", note="" }
-	mb_data[141] = { nm="N", id="17813774", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[142] = { nm="N", id="17813773", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[143] = { nm="N", id="17813772", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[144] = { nm="N", id="17813771", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[145] = { nm="N", id="17813770", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[146] = { nm="N", id="17813769", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[147] = { nm="N", id="17813768", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[148] = { nm="N", id="17813767", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
+	mb_data[141] = { nm="N", id="17813774", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[142] = { nm="N", id="17813773", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[143] = { nm="N", id="17813772", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[144] = { nm="N", id="17813771", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[145] = { nm="N", id="17813770", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[146] = { nm="N", id="17813769", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[147] = { nm="N", id="17813768", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[148] = { nm="N", id="17813767", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
 	mb_data[149] = { nm="N", id="17813784", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[150] = { nm="N", id="17813807", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
+	mb_data[150] = { nm="N", id="17813807", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
 	mb_data[151] = { nm="N", id="17813785", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
 	mb_data[152] = { nm="N", id="17813787", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[153] = { nm="N", id="17813804", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[154] = { nm="N", id="17813803", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[155] = { nm="N", id="17813802", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[156] = { nm="N", id="17813801", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[157] = { nm="N", id="17813800", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[158] = { nm="N", id="17813799", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[159] = { nm="N", id="17813798", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[160] = { nm="N", id="17813797", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[161] = { nm="N", id="17813796", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[162] = { nm="N", id="17813795", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[163] = { nm="N", id="17813794", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[164] = { nm="N", id="17813793", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[165] = { nm="N", id="17813792", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[166] = { nm="N", id="17813791", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[167] = { nm="N", id="17813790", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[168] = { nm="N", id="17813789", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
+	mb_data[153] = { nm="N", id="17813804", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[154] = { nm="N", id="17813803", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[155] = { nm="N", id="17813802", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[156] = { nm="N", id="17813801", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[157] = { nm="N", id="17813800", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[158] = { nm="N", id="17813799", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[159] = { nm="N", id="17813798", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[160] = { nm="N", id="17813797", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[161] = { nm="N", id="17813796", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[162] = { nm="N", id="17813795", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[163] = { nm="N", id="17813794", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[164] = { nm="N", id="17813793", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[165] = { nm="N", id="17813792", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[166] = { nm="N", id="17813791", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[167] = { nm="N", id="17813790", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[168] = { nm="N", id="17813789", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
 	mb_data[169] = { nm="N", id="17813788", name="Gefyrst", mj="5", sj="3", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[170] = { nm="N", id="17813786", name="Olyphant", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[171] = { nm="N", id="17813766", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
+	mb_data[171] = { nm="N", id="17813766", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
 	mb_data[172] = { nm="N", id="17813848", name="Sub-zero_Gear", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[173] = { nm="N", id="17813850", name="Crag_Limule", mj="4", sj="3", mlvl="81-83", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[174] = { nm="N", id="17813913", name="Resheph", mj="12", sj="12", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="128", weak="Water,Light", note="" }
@@ -200,19 +200,19 @@
 	mb_data[192] = { nm="N", id="17813892", name="Range_Clionid", mj="4", sj="4", mlvl="80-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[193] = { nm="N", id="17813916", name="Isgebind", mj="1", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[194] = { nm="N", id="17813918", name="Pantokrator", mj="4", sj="5", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[195] = { nm="N", id="17813939", name="Chillwing_Hwitti", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[195] = { nm="N", id="17813939", name="Chillwing_Hwitti", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[196] = { nm="N", id="17813938", name="Anemic_Aloysius", mj="1", sj="1", mlvl="87-88", behavior="0", aggro="NA", links="N", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[197] = { nm="N", id="17813937", name="Veri_Selen", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Light", note="" }
-	mb_data[198] = { nm="N", id="17813936", name="Sisyphus", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
+	mb_data[198] = { nm="N", id="17813936", name="Sisyphus", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
 	mb_data[199] = { nm="N", id="17813935", name="Upas-Kamuy", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[200] = { nm="N", id="17813934", name="Refitted_Chariot", mj="1", sj="1", mlvl="82-84", behavior="0", aggro="T(H),M", links="Y", spawntype="0", weak="Ice,Earth", note="" }
 	mb_data[201] = { nm="N", id="17813933", name="Koghatu", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
-	mb_data[202] = { nm="N", id="17813931", name="Yaguarogui", mj="6", sj="12", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[202] = { nm="N", id="17813931", name="Yaguarogui", mj="6", sj="12", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[203] = { nm="N", id="17813930", name="Blanga", mj="1", sj="6", mlvl="0-0", behavior="0", aggro="S", links="N", spawntype="0", weak="???", note="" }
 	mb_data[204] = { nm="N", id="17813929", name="Awahondo", mj="2", sj="8", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[205] = { nm="N", id="17813928", name="Kur", mj="1", sj="2", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[206] = { nm="N", id="17813927", name="Dhorme_Khimaira", mj="5", sj="4", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ice,Earth", note="" }
-	mb_data[207] = { nm="N", id="17813925", name="Ironclad_Triturator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
+	mb_data[207] = { nm="N", id="17813925", name="Ironclad_Triturator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
 	mb_data[208] = { nm="N", id="17813924", name="Ogopogo", mj="4", sj="4", mlvl="84-86", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[209] = { nm="N", id="17813923", name="Indrik", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[210] = { nm="N", id="17813922", name="Empousa", mj="8", sj="5", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
@@ -260,9 +260,9 @@
 	mb_data[252] = { nm="N", id="17813873", name="Crag_Limule", mj="4", sj="3", mlvl="81-83", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[253] = { nm="N", id="17813872", name="Crag_Limule", mj="4", sj="3", mlvl="81-83", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[254] = { nm="N", id="17813870", name="Crag_Limule", mj="4", sj="3", mlvl="81-83", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[255] = { nm="N", id="17813765", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[256] = { nm="N", id="17813805", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Lightning", note="" }
-	mb_data[257] = { nm="N", id="17813763", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
+	mb_data[255] = { nm="N", id="17813765", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[256] = { nm="N", id="17813805", name="Spectator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ltng.", note="" }
+	mb_data[257] = { nm="N", id="17813763", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
 	mb_data[258] = { nm="N", id="17813668", name="Hoarmite", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[259] = { nm="N", id="17813667", name="Hoarmite", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[260] = { nm="N", id="17813666", name="Hoarmite", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Water,Light", note="" }
@@ -286,7 +286,7 @@
 	mb_data[278] = { nm="N", id="17813648", name="Ectozoon", mj="4", sj="3", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[279] = { nm="N", id="17813669", name="Hoarmite", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[280] = { nm="N", id="17813647", name="Ectozoon", mj="4", sj="3", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[281] = { nm="N", id="17813764", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
+	mb_data[281] = { nm="N", id="17813764", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
 	mb_data[282] = { nm="N", id="17813672", name="Hoarmite", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Water,Light", note="" }
 	mb_data[283] = { nm="N", id="17813693", name="Adasaurus", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[284] = { nm="N", id="17813692", name="Adasaurus", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
@@ -318,22 +318,22 @@
 	mb_data[310] = { nm="N", id="17813616", name="Bluffalo", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="S", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[311] = { nm="N", id="17813615", name="Bluffalo", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="S", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[312] = { nm="N", id="17813614", name="Gefyrst", mj="5", sj="3", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[313] = { nm="N", id="17813613", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[314] = { nm="N", id="17813612", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[315] = { nm="N", id="17813611", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[316] = { nm="N", id="17813610", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[317] = { nm="N", id="17813609", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[318] = { nm="N", id="17813608", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[319] = { nm="N", id="17813607", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[320] = { nm="N", id="17813606", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[321] = { nm="N", id="17813605", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[322] = { nm="N", id="17813604", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[323] = { nm="N", id="17813603", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[324] = { nm="N", id="17813602", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[325] = { nm="N", id="17813601", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[326] = { nm="N", id="17813600", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[327] = { nm="N", id="17813599", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[328] = { nm="N", id="17813598", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[313] = { nm="N", id="17813613", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[314] = { nm="N", id="17813612", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[315] = { nm="N", id="17813611", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[316] = { nm="N", id="17813610", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[317] = { nm="N", id="17813609", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[318] = { nm="N", id="17813608", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[319] = { nm="N", id="17813607", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[320] = { nm="N", id="17813606", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[321] = { nm="N", id="17813605", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[322] = { nm="N", id="17813604", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[323] = { nm="N", id="17813603", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[324] = { nm="N", id="17813602", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[325] = { nm="N", id="17813601", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[326] = { nm="N", id="17813600", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[327] = { nm="N", id="17813599", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[328] = { nm="N", id="17813598", name="Sierra_Tiger", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[329] = { nm="N", id="17813619", name="Bluffalo", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="S", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[330] = { nm="N", id="17813645", name="Ectozoon", mj="4", sj="3", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[331] = { nm="N", id="17813620", name="Bluffalo", mj="1", sj="8", mlvl="0-0", behavior="0", aggro="S", links="N", spawntype="0", weak="Water", note="" }
@@ -386,13 +386,13 @@
 	mb_data[378] = { nm="N", id="17813696", name="Adasaurus", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[379] = { nm="N", id="17813741", name="Snowflake", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[380] = { nm="N", id="17813742", name="Snowflake", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[381] = { nm="N", id="17813762", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[382] = { nm="N", id="17813761", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[383] = { nm="N", id="17813760", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[384] = { nm="N", id="17813759", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[385] = { nm="N", id="17813758", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[386] = { nm="N", id="17813757", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
-	mb_data[387] = { nm="N", id="17813756", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Lightning", note="" }
+	mb_data[381] = { nm="N", id="17813762", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[382] = { nm="N", id="17813761", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[383] = { nm="N", id="17813760", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[384] = { nm="N", id="17813759", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[385] = { nm="N", id="17813758", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[386] = { nm="N", id="17813757", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
+	mb_data[387] = { nm="N", id="17813756", name="Verglas_Golem", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Ltng.", note="" }
 	mb_data[388] = { nm="N", id="17813755", name="Gefyrst", mj="5", sj="3", mlvl="82-83", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[389] = { nm="N", id="17813754", name="Snowflake", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[390] = { nm="N", id="17813719", name="Svelldrake", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Dark", note="" }

@@ -119,7 +119,7 @@
 	mb_data[111] = { nm="N", id="17375278", name="Pepper", mj="1", sj="1", mlvl="20-20", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[112] = { nm="N", id="17375279", name="Phoedme", mj="1", sj="1", mlvl="20-20", behavior="0", aggro="H", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[113] = { nm="N", id="17375258", name="Maat", mj="2", sj="2", mlvl="70-70", behavior="0", aggro="NA", links="N", spawntype="128", weak="???", note="" }
-	mb_data[114] = { nm="N", id="17375281", name="Bitoso", mj="3", sj="3", mlvl="30-30", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[114] = { nm="N", id="17375281", name="Bitoso", mj="3", sj="3", mlvl="30-30", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[115] = { nm="N", id="17375257", name="Maat", mj="2", sj="2", mlvl="70-70", behavior="0", aggro="NA", links="N", spawntype="128", weak="???", note="" }
 	mb_data[116] = { nm="N", id="17375254", name="Chaa_Paqa_the_Profound", mj="15", sj="15", mlvl="64-64", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[117] = { nm="N", id="17375337", name="Myrmidon_Spo-spo", mj="1", sj="1", mlvl="40-40", behavior="0", aggro="S,Sc", links="N", spawntype="128", weak="Ice", note="" }
@@ -142,51 +142,51 @@
 	mb_data[134] = { nm="N", id="17375251", name="Buu_Xolo_the_Bloodfaced", mj="12", sj="12", mlvl="64-64", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[135] = { nm="N", id="17375253", name="Juu_Zeni_the_Poisonmist", mj="13", sj="13", mlvl="64-64", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[136] = { nm="N", id="17375255", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="52-52", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[137] = { nm="N", id="17375283", name="Bitoso", mj="3", sj="3", mlvl="30-30", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[137] = { nm="N", id="17375283", name="Bitoso", mj="3", sj="3", mlvl="30-30", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[138] = { nm="N", id="17375252", name="Nuu_Kofu_the_Gentle", mj="3", sj="3", mlvl="64-64", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[139] = { nm="N", id="17375287", name="Nenaunir", mj="5", sj="5", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[140] = { nm="N", id="17375314", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[141] = { nm="N", id="17375315", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[142] = { nm="N", id="17375317", name="Dvorovoi", mj="2", sj="4", mlvl="45-45", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[143] = { nm="N", id="17375318", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[144] = { nm="N", id="17375319", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[145] = { nm="N", id="17375320", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[146] = { nm="N", id="17375321", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[147] = { nm="N", id="17375322", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[148] = { nm="N", id="17375323", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[149] = { nm="N", id="17375326", name="Dvorovoi", mj="2", sj="4", mlvl="45-45", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[150] = { nm="N", id="17375327", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[151] = { nm="N", id="17375328", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[152] = { nm="N", id="17375329", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[153] = { nm="N", id="17375330", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[154] = { nm="N", id="17375331", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[155] = { nm="N", id="17375332", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[156] = { nm="N", id="17375333", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[157] = { nm="N", id="17375285", name="Bitoso", mj="3", sj="3", mlvl="30-30", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[139] = { nm="N", id="17375287", name="Nenaunir", mj="5", sj="5", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[140] = { nm="N", id="17375314", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[141] = { nm="N", id="17375315", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[142] = { nm="N", id="17375317", name="Dvorovoi", mj="2", sj="4", mlvl="45-45", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[143] = { nm="N", id="17375318", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[144] = { nm="N", id="17375319", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[145] = { nm="N", id="17375320", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[146] = { nm="N", id="17375321", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[147] = { nm="N", id="17375322", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[148] = { nm="N", id="17375323", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[149] = { nm="N", id="17375326", name="Dvorovoi", mj="2", sj="4", mlvl="45-45", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[150] = { nm="N", id="17375327", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[151] = { nm="N", id="17375328", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[152] = { nm="N", id="17375329", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[153] = { nm="N", id="17375330", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[154] = { nm="N", id="17375331", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[155] = { nm="N", id="17375332", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[156] = { nm="N", id="17375333", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[157] = { nm="N", id="17375285", name="Bitoso", mj="3", sj="3", mlvl="30-30", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[158] = { nm="N", id="17375335", name="Opo-opo_Monarch", mj="1", sj="5", mlvl="40-40", behavior="0", aggro="S,Sc", links="N", spawntype="128", weak="Ice", note="" }
-	mb_data[159] = { nm="N", id="17375313", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[160] = { nm="N", id="17375312", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[161] = { nm="N", id="17375324", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[162] = { nm="N", id="17375310", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[163] = { nm="N", id="17375289", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[164] = { nm="N", id="17375311", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[165] = { nm="N", id="17375290", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[166] = { nm="N", id="17375291", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[167] = { nm="N", id="17375292", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[168] = { nm="N", id="17375294", name="Nenaunir", mj="5", sj="5", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[169] = { nm="N", id="17375296", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[170] = { nm="N", id="17375297", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[171] = { nm="N", id="17375298", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[172] = { nm="N", id="17375295", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[173] = { nm="N", id="17375301", name="Nenaunir", mj="5", sj="5", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[174] = { nm="N", id="17375309", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[175] = { nm="N", id="17375308", name="Dvorovoi", mj="2", sj="4", mlvl="45-45", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[176] = { nm="N", id="17375299", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[177] = { nm="N", id="17375306", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[178] = { nm="N", id="17375305", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[179] = { nm="N", id="17375288", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[180] = { nm="N", id="17375303", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[181] = { nm="N", id="17375302", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
-	mb_data[182] = { nm="N", id="17375304", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Lightning", note="" }
+	mb_data[159] = { nm="N", id="17375313", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[160] = { nm="N", id="17375312", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[161] = { nm="N", id="17375324", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[162] = { nm="N", id="17375310", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[163] = { nm="N", id="17375289", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[164] = { nm="N", id="17375311", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[165] = { nm="N", id="17375290", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[166] = { nm="N", id="17375291", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[167] = { nm="N", id="17375292", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[168] = { nm="N", id="17375294", name="Nenaunir", mj="5", sj="5", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[169] = { nm="N", id="17375296", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[170] = { nm="N", id="17375297", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[171] = { nm="N", id="17375298", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[172] = { nm="N", id="17375295", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[173] = { nm="N", id="17375301", name="Nenaunir", mj="5", sj="5", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[174] = { nm="N", id="17375309", name="Domovoi", mj="2", sj="2", mlvl="40-41", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[175] = { nm="N", id="17375308", name="Dvorovoi", mj="2", sj="4", mlvl="45-45", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[176] = { nm="N", id="17375299", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[177] = { nm="N", id="17375306", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[178] = { nm="N", id="17375305", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[179] = { nm="N", id="17375288", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[180] = { nm="N", id="17375303", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[181] = { nm="N", id="17375302", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
+	mb_data[182] = { nm="N", id="17375304", name="Nenaunir_s_Wife", mj="1", sj="1", mlvl="30-30", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Wind,Ltng.", note="" }
 
 	return mb_data;

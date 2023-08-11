@@ -4,13 +4,15 @@
         "bgvisible": true,
         "bold": true,
         "color": "255,255,255,255",
+        "dcolor": "255,255,0,0",
         "name": "Consolas",
-        "position": [ 1380, 1678 ],
-        "size": 7
+        "ncolor": 4294967295,
+        "position": [ 2074, 1813 ],
+        "size": 6
     },
     "layout": {
         "npc": "$target $level [$position] [ID: $id / Index: $m_index]",
-        "player": "$zone $name  [$level]  [$position] - $ecompass",
-        "target": "$target  [$job / $level / $aggro]  Weak[$weak]"
+        "player": "$zone $name [$level]  [$position] - $ecompass",
+        "target": "$target [$job / $level / $aggro / $m_index] Weak[$weak]"
     }
 }

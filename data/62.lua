@@ -20,12 +20,12 @@
 	mb_data[12] = { nm="N", id="17031464", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[13] = { nm="N", id="17031476", name="Moblin_Billionaire", mj="5", sj="5", mlvl="76-77", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[14] = { nm="N", id="17031462", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[15] = { nm="N", id="17031461", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[16] = { nm="N", id="17031460", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[17] = { nm="N", id="17031459", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[15] = { nm="N", id="17031461", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[16] = { nm="N", id="17031460", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[17] = { nm="N", id="17031459", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[18] = { nm="N", id="17031458", name="Antares", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[19] = { nm="N", id="17031457", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[20] = { nm="N", id="17031456", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[19] = { nm="N", id="17031457", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[20] = { nm="N", id="17031456", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[21] = { nm="N", id="17031455", name="Earth_Elemental", mj="4", sj="5", mlvl="74-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[22] = { nm="N", id="17031463", name="Fire_Elemental", mj="4", sj="5", mlvl="74-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[23] = { nm="N", id="17031481", name="Farlarder_the_Shrewd", mj="2", sj="2", mlvl="80-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -53,22 +53,22 @@
 	mb_data[45] = { nm="N", id="17031480", name="Moblin_Billionaire", mj="5", sj="5", mlvl="76-77", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[46] = { nm="N", id="17031479", name="Troll_s_Automaton", mj="3", sj="3", mlvl="70-72", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[47] = { nm="N", id="17031490", name="Troll_Grenadier", mj="11", sj="11", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[48] = { nm="N", id="17031453", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[49] = { nm="N", id="17031428", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[50] = { nm="N", id="17031451", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[51] = { nm="N", id="17031423", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[48] = { nm="N", id="17031453", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[49] = { nm="N", id="17031428", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[50] = { nm="N", id="17031451", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[51] = { nm="N", id="17031423", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[52] = { nm="N", id="17031422", name="Troll_Artilleryman", mj="11", sj="11", mlvl="71-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[53] = { nm="N", id="17031421", name="Troll_Cuirasser", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[54] = { nm="N", id="17031420", name="Troll_Targeteer", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[55] = { nm="N", id="17031419", name="Troll_Targeteer", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[56] = { nm="N", id="17031418", name="Antares", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[57] = { nm="N", id="17031417", name="Antares", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[58] = { nm="N", id="17031416", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[59] = { nm="N", id="17031415", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[60] = { nm="N", id="17031414", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[61] = { nm="N", id="17031413", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[62] = { nm="N", id="17031412", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[63] = { nm="N", id="17031411", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[58] = { nm="N", id="17031416", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[59] = { nm="N", id="17031415", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[60] = { nm="N", id="17031414", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[61] = { nm="N", id="17031413", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[62] = { nm="N", id="17031412", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[63] = { nm="N", id="17031411", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[64] = { nm="N", id="17031410", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[65] = { nm="N", id="17031409", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[66] = { nm="N", id="17031408", name="Troll_Artilleryman", mj="11", sj="11", mlvl="71-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -91,7 +91,7 @@
 	mb_data[83] = { nm="N", id="17031443", name="Troll_Grenadier", mj="11", sj="11", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[84] = { nm="N", id="17031442", name="Troll_Mythril_Guard", mj="8", sj="8", mlvl="82-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[85] = { nm="N", id="17031441", name="Troll_Mythril_Guard", mj="8", sj="8", mlvl="82-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[86] = { nm="N", id="17031452", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[86] = { nm="N", id="17031452", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[87] = { nm="N", id="17031440", name="Mythril_Mouth_Monamaq", mj="5", sj="5", mlvl="80-80", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[88] = { nm="N", id="17031438", name="Troll_Machinist", mj="18", sj="18", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[89] = { nm="N", id="17031437", name="Troll_Scrimer", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -101,7 +101,7 @@
 	mb_data[93] = { nm="N", id="17031433", name="Troll_Artilleryman", mj="11", sj="11", mlvl="71-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[94] = { nm="N", id="17031432", name="Antares", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[95] = { nm="N", id="17031431", name="Antares", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[96] = { nm="N", id="17031430", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[96] = { nm="N", id="17031430", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[97] = { nm="N", id="17031429", name="Troll_Grenadier", mj="11", sj="11", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[98] = { nm="N", id="17031439", name="Troll_s_Automaton", mj="3", sj="3", mlvl="70-72", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[99] = { nm="N", id="17031502", name="Troll_Combatant", mj="2", sj="2", mlvl="81-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -139,7 +139,7 @@
 	mb_data[131] = { nm="N", id="17031601", name="Achamothcampa", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[132] = { nm="N", id="17031600", name="Achamoth", mj="1", sj="1", mlvl="86-88", behavior="0", aggro="T(H),M", links="N", spawntype="128", weak="Ice", note="" }
 	mb_data[133] = { nm="N", id="17031599", name="Reacton", mj="4", sj="4", mlvl="81-83", behavior="0", aggro="S,M", links="N", spawntype="128", weak="Fire", note="" }
-	mb_data[134] = { nm="N", id="17031598", name="Dextrose", mj="4", sj="5", mlvl="80-82", behavior="0", aggro="S,JA", links="N", spawntype="128", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[134] = { nm="N", id="17031598", name="Dextrose", mj="4", sj="5", mlvl="80-82", behavior="0", aggro="S,JA", links="N", spawntype="128", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[135] = { nm="N", id="17031597", name="Wheel_Wamoura", mj="1", sj="1", mlvl="74-79", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="Ice", note="" }
 	mb_data[136] = { nm="N", id="17031596", name="Woodtroll_Elite_Guard", mj="11", sj="11", mlvl="64-66", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[137] = { nm="N", id="17031595", name="Woodtroll_Elite_Guard", mj="11", sj="11", mlvl="64-66", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
@@ -170,18 +170,18 @@
 	mb_data[162] = { nm="N", id="17031518", name="Troll_Targeteer", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[163] = { nm="N", id="17031517", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[164] = { nm="N", id="17031527", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[165] = { nm="N", id="17031516", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[165] = { nm="N", id="17031516", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[166] = { nm="N", id="17031514", name="Troll_s_Automaton", mj="3", sj="3", mlvl="70-72", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[167] = { nm="N", id="17031513", name="Troll_Machinist", mj="18", sj="18", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[168] = { nm="N", id="17031512", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[168] = { nm="N", id="17031512", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[169] = { nm="N", id="17031511", name="Troll_Artilleryman", mj="11", sj="11", mlvl="71-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[170] = { nm="N", id="17031510", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[171] = { nm="N", id="17031509", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[170] = { nm="N", id="17031510", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[171] = { nm="N", id="17031509", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[172] = { nm="N", id="17031508", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[173] = { nm="N", id="17031507", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[173] = { nm="N", id="17031507", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[174] = { nm="N", id="17031506", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[175] = { nm="N", id="17031505", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[176] = { nm="N", id="17031515", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[176] = { nm="N", id="17031515", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[177] = { nm="N", id="17031554", name="Troll_Cuirasser", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[178] = { nm="N", id="17031528", name="Antares", mj="1", sj="1", mlvl="76-78", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[179] = { nm="N", id="17031530", name="Troll_Grenadier", mj="11", sj="11", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -229,13 +229,13 @@
 	mb_data[221] = { nm="N", id="17031236", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[222] = { nm="N", id="17031235", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[223] = { nm="N", id="17031234", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
-	mb_data[224] = { nm="N", id="17031233", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[224] = { nm="N", id="17031233", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[225] = { nm="N", id="17031232", name="Troll_s_Automaton", mj="3", sj="3", mlvl="70-72", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[226] = { nm="N", id="17031231", name="Troll_Engraver", mj="18", sj="18", mlvl="72-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[227] = { nm="N", id="17031230", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[227] = { nm="N", id="17031230", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[228] = { nm="N", id="17031229", name="Troll_Smelter", mj="11", sj="11", mlvl="71-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[229] = { nm="N", id="17031228", name="Troll_Ironworker", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[230] = { nm="N", id="17031227", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[230] = { nm="N", id="17031227", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[231] = { nm="N", id="17031252", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[232] = { nm="N", id="17031226", name="Troll_Lapidarist", mj="8", sj="8", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[233] = { nm="N", id="17031253", name="Troll_Stoneworker", mj="2", sj="2", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -247,12 +247,12 @@
 	mb_data[239] = { nm="N", id="17031276", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[240] = { nm="N", id="17031401", name="Big_Bomb", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="S,M", links="N", spawntype="128", weak="Fire", note="" }
 	mb_data[241] = { nm="N", id="17031274", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
-	mb_data[242] = { nm="N", id="17031273", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[243] = { nm="N", id="17031272", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[244] = { nm="N", id="17031271", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[245] = { nm="N", id="17031270", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[242] = { nm="N", id="17031273", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[243] = { nm="N", id="17031272", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[244] = { nm="N", id="17031271", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[245] = { nm="N", id="17031270", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[246] = { nm="N", id="17031269", name="Qiqirn_Mercenary", mj="11", sj="11", mlvl="71-73", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
-	mb_data[247] = { nm="N", id="17031268", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[247] = { nm="N", id="17031268", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[248] = { nm="N", id="17031267", name="Troll_Gemologist", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[249] = { nm="N", id="17031266", name="Troll_Cameist", mj="5", sj="5", mlvl="72-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[250] = { nm="N", id="17031265", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
@@ -268,9 +268,9 @@
 	mb_data[260] = { nm="N", id="17031254", name="Troll_Cameist", mj="5", sj="5", mlvl="72-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[261] = { nm="N", id="17031281", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[262] = { nm="N", id="17031225", name="Troll_Gemologist", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[263] = { nm="N", id="17031223", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[263] = { nm="N", id="17031223", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[264] = { nm="N", id="17031193", name="Troll_Smelter", mj="11", sj="11", mlvl="71-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[265] = { nm="N", id="17031192", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[265] = { nm="N", id="17031192", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[266] = { nm="N", id="17031191", name="Earth_Elemental", mj="4", sj="5", mlvl="74-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[267] = { nm="N", id="17031190", name="Troll_Cameist", mj="5", sj="5", mlvl="72-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[268] = { nm="N", id="17031189", name="Troll_Ironworker", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -279,51 +279,51 @@
 	mb_data[271] = { nm="N", id="17031186", name="Troll_s_Automaton", mj="3", sj="3", mlvl="70-72", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[272] = { nm="N", id="17031185", name="Troll_Engraver", mj="18", sj="18", mlvl="72-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[273] = { nm="N", id="17031184", name="Troll_Stoneworker", mj="2", sj="2", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[274] = { nm="N", id="17031183", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[275] = { nm="N", id="17031182", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[276] = { nm="N", id="17031181", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[277] = { nm="N", id="17031180", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[274] = { nm="N", id="17031183", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[275] = { nm="N", id="17031182", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[276] = { nm="N", id="17031181", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[277] = { nm="N", id="17031180", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[278] = { nm="N", id="17031179", name="Troll_Smelter", mj="11", sj="11", mlvl="71-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[279] = { nm="N", id="17031178", name="Troll_Lapidarist", mj="8", sj="8", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[280] = { nm="N", id="17031177", name="Troll_Stoneworker", mj="2", sj="2", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[281] = { nm="N", id="17031176", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[282] = { nm="N", id="17031175", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[281] = { nm="N", id="17031176", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[282] = { nm="N", id="17031175", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[283] = { nm="N", id="17031174", name="Troll_Gemologist", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[284] = { nm="N", id="17031173", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[285] = { nm="N", id="17031172", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[284] = { nm="N", id="17031173", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[285] = { nm="N", id="17031172", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[286] = { nm="N", id="17031171", name="Qiqirn_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[287] = { nm="N", id="17031170", name="Qiqirn_Diamantaire", mj="6", sj="6", mlvl="72-73", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[288] = { nm="N", id="17031169", name="Qiqirn_Mercenary", mj="11", sj="11", mlvl="71-73", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Wind", note="" }
 	mb_data[289] = { nm="N", id="17031194", name="Troll_Lapidarist", mj="8", sj="8", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[290] = { nm="N", id="17031224", name="Troll_Gemologist", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[291] = { nm="N", id="17031195", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[291] = { nm="N", id="17031195", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[292] = { nm="N", id="17031197", name="Troll_Engraver", mj="18", sj="18", mlvl="72-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[293] = { nm="N", id="17031222", name="Troll_Cameist", mj="5", sj="5", mlvl="72-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[294] = { nm="N", id="17031221", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[294] = { nm="N", id="17031221", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[295] = { nm="N", id="17031220", name="Copper_Borer", mj="1", sj="1", mlvl="81-81", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[296] = { nm="N", id="17031219", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[296] = { nm="N", id="17031219", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[297] = { nm="N", id="17031218", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[298] = { nm="N", id="17031217", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
-	mb_data[299] = { nm="N", id="17031216", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[300] = { nm="N", id="17031215", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[301] = { nm="N", id="17031214", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[299] = { nm="N", id="17031216", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[300] = { nm="N", id="17031215", name="Purgatory_Bat", mj="1", sj="1", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[301] = { nm="N", id="17031214", name="Volcanic_Bats", mj="1", sj="1", mlvl="69-71", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[302] = { nm="N", id="17031213", name="Troll_Stoneworker", mj="2", sj="2", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[303] = { nm="N", id="17031212", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[304] = { nm="N", id="17031211", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[303] = { nm="N", id="17031212", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[304] = { nm="N", id="17031211", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[305] = { nm="N", id="17031210", name="Troll_Cameist", mj="5", sj="5", mlvl="72-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[306] = { nm="N", id="17031209", name="Troll_Ironworker", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[307] = { nm="N", id="17031208", name="Troll_Lapidarist", mj="8", sj="8", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[308] = { nm="N", id="17031207", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[308] = { nm="N", id="17031207", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[309] = { nm="N", id="17031206", name="Troll_Gemologist", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[310] = { nm="N", id="17031205", name="Troll_Smelter", mj="11", sj="11", mlvl="71-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[311] = { nm="N", id="17031204", name="Troll_Cameist", mj="5", sj="5", mlvl="72-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[312] = { nm="N", id="17031203", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[313] = { nm="N", id="17031202", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[313] = { nm="N", id="17031202", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[314] = { nm="N", id="17031201", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[315] = { nm="N", id="17031200", name="Troll_Gemologist", mj="7", sj="7", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[316] = { nm="N", id="17031199", name="Troll_Ironworker", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[317] = { nm="N", id="17031198", name="Troll_s_Automaton", mj="3", sj="3", mlvl="70-72", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[318] = { nm="N", id="17031196", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[318] = { nm="N", id="17031196", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[319] = { nm="N", id="17031282", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[320] = { nm="N", id="17031275", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[321] = { nm="N", id="17031284", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
@@ -361,8 +361,8 @@
 	mb_data[353] = { nm="N", id="17031397", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[354] = { nm="N", id="17031396", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[355] = { nm="N", id="17031395", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[356] = { nm="N", id="17031394", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[357] = { nm="N", id="17031393", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[356] = { nm="N", id="17031394", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[357] = { nm="N", id="17031393", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[358] = { nm="N", id="17031392", name="Fire_Elemental", mj="4", sj="5", mlvl="74-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[359] = { nm="N", id="17031391", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[360] = { nm="N", id="17031390", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
@@ -372,21 +372,21 @@
 	mb_data[364] = { nm="N", id="17031387", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[365] = { nm="N", id="17031385", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[366] = { nm="N", id="17031384", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[367] = { nm="N", id="17031383", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[368] = { nm="N", id="17031382", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[367] = { nm="N", id="17031383", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[368] = { nm="N", id="17031382", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[369] = { nm="N", id="17031381", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[370] = { nm="N", id="17031380", name="Fire_Elemental", mj="4", sj="5", mlvl="74-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[371] = { nm="N", id="17031379", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[372] = { nm="N", id="17031378", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[373] = { nm="N", id="17031377", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
-	mb_data[374] = { nm="N", id="17031376", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[372] = { nm="N", id="17031378", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[373] = { nm="N", id="17031377", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
+	mb_data[374] = { nm="N", id="17031376", name="Ebony_Pudding", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[375] = { nm="N", id="17031375", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[376] = { nm="N", id="17031374", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[377] = { nm="N", id="17031386", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[378] = { nm="N", id="17031341", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[379] = { nm="N", id="17031348", name="Troll_Cameist", mj="5", sj="5", mlvl="72-73", behavior="0", aggro="S", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[380] = { nm="N", id="17031339", name="Wamoura", mj="1", sj="1", mlvl="77-80", behavior="0", aggro="T(H),T(S),M", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[381] = { nm="N", id="17031309", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[381] = { nm="N", id="17031309", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[382] = { nm="N", id="17031308", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[383] = { nm="N", id="17031307", name="Earth_Elemental", mj="4", sj="5", mlvl="74-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[384] = { nm="N", id="17031306", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
@@ -413,7 +413,7 @@
 	mb_data[405] = { nm="N", id="17031285", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[406] = { nm="N", id="17031340", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[407] = { nm="N", id="17031310", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[408] = { nm="N", id="17031312", name="Flammeri", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H", links="N", spawntype="128", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[408] = { nm="N", id="17031312", name="Flammeri", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H", links="N", spawntype="128", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[409] = { nm="N", id="17031320", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[410] = { nm="N", id="17031323", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
 	mb_data[411] = { nm="N", id="17031322", name="Magmatic_Eruca", mj="1", sj="1", mlvl="71-75", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Water,Light,Dark", note="" }
@@ -433,7 +433,7 @@
 	mb_data[425] = { nm="N", id="17031331", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[426] = { nm="N", id="17031332", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[427] = { nm="N", id="17031333", name="Friar_s_Lantern", mj="4", sj="5", mlvl="72-77", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[428] = { nm="N", id="17031313", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[428] = { nm="N", id="17031313", name="Black_Pudding", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="S,JA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[429] = { nm="N", id="17031334", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[430] = { nm="N", id="17031335", name="Wamoura", mj="1", sj="1", mlvl="77-80", behavior="0", aggro="T(H),T(S),M", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[431] = { nm="N", id="17031336", name="Wamouracampa", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice", note="" }

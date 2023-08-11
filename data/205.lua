@@ -8,7 +8,7 @@
 
 	mb_data[1] = { nm="N", id="17617070", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[2] = { nm="N", id="17617069", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[3] = { nm="N", id="17617065", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[3] = { nm="N", id="17617065", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[4] = { nm="N", id="17617068", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[5] = { nm="N", id="17617071", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[6] = { nm="N", id="17617067", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -17,54 +17,54 @@
 	mb_data[9] = { nm="N", id="17617018", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[10] = { nm="N", id="17617014", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[11] = { nm="N", id="17617015", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[12] = { nm="N", id="17617016", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[12] = { nm="N", id="17617016", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[13] = { nm="N", id="17617017", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[14] = { nm="N", id="17617019", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[15] = { nm="N", id="17617020", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[16] = { nm="N", id="17617072", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[17] = { nm="N", id="17617021", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[17] = { nm="N", id="17617021", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[18] = { nm="N", id="17617013", name="Lindwurm", mj="6", sj="6", mlvl="74-76", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[19] = { nm="N", id="17617073", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[20] = { nm="N", id="17617087", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[21] = { nm="N", id="17617075", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[22] = { nm="N", id="17617092", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[22] = { nm="N", id="17617092", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[23] = { nm="N", id="17617023", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[24] = { nm="N", id="17617091", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[24] = { nm="N", id="17617091", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[25] = { nm="N", id="17617090", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[26] = { nm="N", id="17617089", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[27] = { nm="N", id="17617088", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[28] = { nm="N", id="17617086", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[29] = { nm="N", id="17617085", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[29] = { nm="N", id="17617085", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[30] = { nm="N", id="17617084", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[31] = { nm="N", id="17617083", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[32] = { nm="N", id="17617082", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[31] = { nm="N", id="17617083", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[32] = { nm="N", id="17617082", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[33] = { nm="N", id="17617081", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[34] = { nm="N", id="17617080", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[34] = { nm="N", id="17617080", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[35] = { nm="N", id="17617079", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[36] = { nm="N", id="17617078", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[36] = { nm="N", id="17617078", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[37] = { nm="N", id="17617077", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[38] = { nm="N", id="17617076", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[39] = { nm="N", id="17617074", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[40] = { nm="N", id="17617024", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[41] = { nm="N", id="17617055", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[42] = { nm="N", id="17617026", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[42] = { nm="N", id="17617026", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[43] = { nm="N", id="17617048", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[44] = { nm="N", id="17617049", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[45] = { nm="N", id="17617050", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[46] = { nm="N", id="17617051", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[47] = { nm="N", id="17617052", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[48] = { nm="N", id="17617053", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[49] = { nm="N", id="17617054", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[49] = { nm="N", id="17617054", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[50] = { nm="N", id="17617056", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[51] = { nm="N", id="17617057", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[52] = { nm="N", id="17617058", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[53] = { nm="N", id="17617059", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[54] = { nm="N", id="17617060", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[54] = { nm="N", id="17617060", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[55] = { nm="N", id="17617061", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[56] = { nm="N", id="17617062", name="Foreseer_Oramix", mj="3", sj="3", mlvl="71-72", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[57] = { nm="N", id="17617063", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[58] = { nm="N", id="17617064", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[59] = { nm="N", id="17617093", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[59] = { nm="N", id="17617093", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[60] = { nm="N", id="17617047", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[61] = { nm="N", id="17617025", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[62] = { nm="N", id="17617046", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
@@ -129,26 +129,26 @@
 	mb_data[121] = { nm="N", id="17617141", name="Hurricane_Wyvern", mj="1", sj="1", mlvl="75-78", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[122] = { nm="N", id="17617142", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[123] = { nm="N", id="17617144", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[124] = { nm="N", id="17617095", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[125] = { nm="N", id="17617165", name="Cailleach_Bheur", mj="4", sj="4", mlvl="82-82", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[124] = { nm="N", id="17617095", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[125] = { nm="N", id="17617165", name="Cailleach_Bheur", mj="4", sj="4", mlvl="82-82", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[126] = { nm="N", id="17617167", name="HraunDragon", mj="1", sj="1", mlvl="95-96", behavior="0", aggro="S,H,HP", links="N", spawntype="128", weak="???", note="" }
 	mb_data[127] = { nm="N", id="17617113", name="Ash_Lizard", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[128] = { nm="N", id="17617112", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[129] = { nm="N", id="17617111", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[130] = { nm="N", id="17617110", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[130] = { nm="N", id="17617110", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[131] = { nm="N", id="17617109", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[132] = { nm="N", id="17617108", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[132] = { nm="N", id="17617108", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[133] = { nm="N", id="17617107", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[134] = { nm="N", id="17617106", name="Ash_Lizard", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[135] = { nm="N", id="17617105", name="Ash_Lizard", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[136] = { nm="N", id="17617104", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[136] = { nm="N", id="17617104", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[137] = { nm="N", id="17617103", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[138] = { nm="N", id="17617102", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[139] = { nm="N", id="17617101", name="Ash_Lizard", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[140] = { nm="N", id="17617100", name="Ash_Lizard", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[141] = { nm="N", id="17617099", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[141] = { nm="N", id="17617099", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[142] = { nm="N", id="17617098", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[143] = { nm="N", id="17617097", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[143] = { nm="N", id="17617097", name="Nightmare_Bats", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[144] = { nm="N", id="17617114", name="Volcanic_Bomb", mj="1", sj="1", mlvl="71-78", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[145] = { nm="N", id="17617166", name="Ildebrann", mj="4", sj="4", mlvl="98-99", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[146] = { nm="N", id="17617115", name="Ash_Lizard", mj="1", sj="1", mlvl="73-76", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -176,7 +176,7 @@
 	mb_data[168] = { nm="N", id="17617009", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[169] = { nm="N", id="17616927", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[170] = { nm="N", id="17616928", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[171] = { nm="N", id="17616929", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[171] = { nm="N", id="17616929", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[172] = { nm="N", id="17616930", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[173] = { nm="N", id="17616931", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[174] = { nm="N", id="17616932", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
@@ -194,34 +194,34 @@
 	mb_data[186] = { nm="N", id="17616944", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[187] = { nm="N", id="17616945", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[188] = { nm="N", id="17616946", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[189] = { nm="N", id="17616947", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[190] = { nm="N", id="17616948", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[191] = { nm="N", id="17616949", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[192] = { nm="N", id="17616950", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[189] = { nm="N", id="17616947", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[190] = { nm="N", id="17616948", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[191] = { nm="N", id="17616949", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[192] = { nm="N", id="17616950", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[193] = { nm="N", id="17616939", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[194] = { nm="N", id="17616925", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[195] = { nm="N", id="17616924", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[196] = { nm="N", id="17616922", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[195] = { nm="N", id="17616924", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[196] = { nm="N", id="17616922", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[197] = { nm="N", id="17616897", name="Salamander", mj="1", sj="1", mlvl="74-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[198] = { nm="N", id="17616898", name="Magma", mj="1", sj="1", mlvl="65-65", behavior="0", aggro="S,M", links="N", spawntype="128", weak="Fire", note="" }
 	mb_data[199] = { nm="N", id="17616899", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[200] = { nm="N", id="17616900", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[201] = { nm="N", id="17616901", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[202] = { nm="N", id="17616902", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[203] = { nm="N", id="17616903", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[203] = { nm="N", id="17616903", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[204] = { nm="N", id="17616904", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[205] = { nm="N", id="17616905", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[206] = { nm="N", id="17616906", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[207] = { nm="N", id="17616907", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[208] = { nm="N", id="17616908", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[208] = { nm="N", id="17616908", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[209] = { nm="N", id="17616909", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[210] = { nm="N", id="17616910", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[211] = { nm="N", id="17616911", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[211] = { nm="N", id="17616911", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[212] = { nm="N", id="17616912", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[213] = { nm="N", id="17616913", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[214] = { nm="N", id="17616914", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[215] = { nm="N", id="17616915", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[216] = { nm="N", id="17616916", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[216] = { nm="N", id="17616916", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[217] = { nm="N", id="17616917", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[218] = { nm="N", id="17616918", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[219] = { nm="N", id="17616919", name="Old_Opo-opo", mj="1", sj="1", mlvl="61-65", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Ice", note="" }
@@ -255,23 +255,23 @@
 	mb_data[247] = { nm="N", id="17617006", name="Sulfur_Scorpion", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[248] = { nm="N", id="17617007", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[249] = { nm="N", id="17617008", name="Eotyrannus", mj="6", sj="6", mlvl="70-73", behavior="0", aggro="H,HP,Sc", links="N", spawntype="0", weak="Water", note="" }
-	mb_data[250] = { nm="N", id="17616953", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[250] = { nm="N", id="17616953", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[251] = { nm="N", id="17616983", name="Dodomeki", mj="4", sj="4", mlvl="63-69", behavior="0", aggro="H", links="N", spawntype="0", weak="???", note="" }
 	mb_data[252] = { nm="N", id="17616982", name="Sulfur_Scorpion", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[253] = { nm="N", id="17616995", name="Sulfur_Scorpion", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[254] = { nm="N", id="17616962", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[254] = { nm="N", id="17616962", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[255] = { nm="N", id="17616981", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[256] = { nm="N", id="17616956", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[256] = { nm="N", id="17616956", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[257] = { nm="N", id="17616957", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[258] = { nm="N", id="17616958", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[259] = { nm="N", id="17616959", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[260] = { nm="N", id="17616960", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[258] = { nm="N", id="17616958", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[259] = { nm="N", id="17616959", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[260] = { nm="N", id="17616960", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[261] = { nm="N", id="17616961", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[262] = { nm="N", id="17616963", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[263] = { nm="N", id="17616964", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[264] = { nm="N", id="17616965", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[265] = { nm="N", id="17616955", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[266] = { nm="N", id="17616967", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[262] = { nm="N", id="17616963", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[263] = { nm="N", id="17616964", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[264] = { nm="N", id="17616965", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[265] = { nm="N", id="17616955", name="Volcano_Wasp", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[266] = { nm="N", id="17616967", name="Dire_Bat", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="H", links="Y", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[267] = { nm="N", id="17616968", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[268] = { nm="N", id="17616966", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[269] = { nm="N", id="17616969", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
@@ -280,7 +280,7 @@
 	mb_data[272] = { nm="N", id="17616978", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[273] = { nm="N", id="17616977", name="Dodomeki", mj="4", sj="4", mlvl="63-69", behavior="0", aggro="H", links="N", spawntype="0", weak="???", note="" }
 	mb_data[274] = { nm="N", id="17616975", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[275] = { nm="N", id="17616976", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[275] = { nm="N", id="17616976", name="Goblin_s_Bats", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[276] = { nm="N", id="17616973", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[277] = { nm="N", id="17616972", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[278] = { nm="N", id="17616971", name="Volcanic_Gas", mj="1", sj="1", mlvl="62-68", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }

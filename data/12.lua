@@ -7,10 +7,10 @@
 	mb_data = {}
 
 	mb_data[1] = { nm="N", id="17183090", name="AquarianCaster", mj="3", sj="3", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[2] = { nm="N", id="17183102", name="ScorpionCaster", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[3] = { nm="N", id="17183101", name="ScorpionCaster", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[2] = { nm="N", id="17183102", name="ScorpionCaster", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[3] = { nm="N", id="17183101", name="ScorpionCaster", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[4] = { nm="N", id="17183089", name="AquarianCaster", mj="1", sj="1", mlvl="75-79", behavior="0", aggro="H,M", links="N", spawntype="128", weak="Dark", note="" }
-	mb_data[5] = { nm="N", id="17183088", name="AquarianCaster", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[5] = { nm="N", id="17183088", name="AquarianCaster", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[6] = { nm="N", id="17183087", name="AquarianCaster", mj="1", sj="1", mlvl="78-78", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[7] = { nm="N", id="17183086", name="AquarianCaster", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[8] = { nm="N", id="17183084", name="AquarianCaster", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -21,7 +21,7 @@
 	mb_data[13] = { nm="N", id="17183079", name="ArmouryCrate", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[14] = { nm="N", id="17183078", name="TzeeXicusEle", mj="3", sj="3", mlvl="79-81", behavior="0", aggro="S", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[15] = { nm="N", id="17183077", name="TzeeXicusEle", mj="4", sj="5", mlvl="70-71", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
-	mb_data[16] = { nm="N", id="17183076", name="TzeeXicusEle", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[16] = { nm="N", id="17183076", name="TzeeXicusEle", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[17] = { nm="N", id="17183075", name="TzeeXicusEle", mj="2", sj="2", mlvl="71-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[18] = { nm="N", id="17183074", name="TzeeXicutheM", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[19] = { nm="N", id="17183073", name="ArmouryCrate", mj="2", sj="2", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Light", note="" }
@@ -33,10 +33,10 @@
 	mb_data[25] = { nm="N", id="17183097", name="ScorpionCaster", mj="5", sj="5", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[26] = { nm="N", id="17183098", name="ScorpionCaster", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[27] = { nm="N", id="17183099", name="ScorpionCaster", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[28] = { nm="N", id="17183100", name="ScorpionCaster", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[28] = { nm="N", id="17183100", name="ScorpionCaster", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[29] = { nm="N", id="17183091", name="AquarianCaster", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[30] = { nm="N", id="17183081", name="IceFiend", mj="8", sj="8", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[31] = { nm="N", id="17477995", name="Chigoe", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[31] = { nm="N", id="17477995", name="Chigoe", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[32] = { nm="N", id="17478022", name="Boodlix", mj="1", sj="1", mlvl="79-81", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[33] = { nm="N", id="17477991", name="Azima", mj="2", sj="2", mlvl="74-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[34] = { nm="N", id="17477992", name="ChohMoui", mj="2", sj="2", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Light", note="" }
@@ -54,10 +54,10 @@
 	mb_data[46] = { nm="N", id="17478005", name="Jajaro", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[47] = { nm="N", id="17478023", name="GoblinLansquen", mj="4", sj="5", mlvl="70-80", behavior="0", aggro="M", links="N", spawntype="4", weak="Earth", note="" }
 	mb_data[48] = { nm="N", id="17478006", name="Popochu", mj="1", sj="1", mlvl="78-78", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[49] = { nm="N", id="17478007", name="Papako", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[50] = { nm="N", id="17478021", name="Odzmanouk", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[51] = { nm="N", id="17478020", name="Areuhat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[52] = { nm="N", id="17478019", name="DuskRaider4", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[49] = { nm="N", id="17478007", name="Papako", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[50] = { nm="N", id="17478021", name="Odzmanouk", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[51] = { nm="N", id="17478020", name="Areuhat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[52] = { nm="N", id="17478019", name="DuskRaider4", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[53] = { nm="N", id="17478018", name="DuskRaider3", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[54] = { nm="N", id="17478017", name="DuskRaider2", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[55] = { nm="N", id="17478016", name="DuskRaider1", mj="5", sj="5", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -79,19 +79,19 @@
 	mb_data[71] = { nm="N", id="16826453", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[72] = { nm="N", id="16826452", name="Moblin_Tankman", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[73] = { nm="N", id="16826451", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[74] = { nm="N", id="16826457", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[74] = { nm="N", id="16826457", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[75] = { nm="N", id="16826450", name="Goblin_Packman", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[76] = { nm="N", id="16826448", name="Moblin_Yardman", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[77] = { nm="N", id="16826447", name="Goblin_Packman", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[78] = { nm="N", id="16826446", name="Moblin_Workman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[79] = { nm="N", id="16826445", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[79] = { nm="N", id="16826445", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[80] = { nm="N", id="16826444", name="Goblin_Foreman", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[81] = { nm="N", id="16826443", name="Goblin_Lengthman", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[82] = { nm="N", id="16826449", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[83] = { nm="N", id="16826458", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[84] = { nm="N", id="16826459", name="Goblin_Foreman", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[85] = { nm="N", id="16826460", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[86] = { nm="N", id="16826476", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[85] = { nm="N", id="16826460", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[86] = { nm="N", id="16826476", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[87] = { nm="N", id="16826475", name="Goblin_Foreman", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[88] = { nm="N", id="16826473", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[89] = { nm="N", id="16826472", name="Goblin_Lengthman", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -105,23 +105,23 @@
 	mb_data[97] = { nm="N", id="16826464", name="Goblin_Lengthman", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[98] = { nm="N", id="16826463", name="Earth_Elemental", mj="4", sj="5", mlvl="70-71", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[99] = { nm="N", id="16826462", name="Thunder_Elemental", mj="4", sj="5", mlvl="70-80", behavior="0", aggro="M", links="N", spawntype="4", weak="Earth", note="" }
-	mb_data[100] = { nm="N", id="16826461", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[100] = { nm="N", id="16826461", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[101] = { nm="N", id="16826442", name="Goblin_Fireman", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[102] = { nm="N", id="16826441", name="Bugbear_Watchman", mj="2", sj="2", mlvl="71-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[103] = { nm="N", id="16826440", name="Bugbear_Watchman", mj="2", sj="2", mlvl="71-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[104] = { nm="N", id="16826439", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[104] = { nm="N", id="16826439", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[105] = { nm="N", id="16826419", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[106] = { nm="N", id="16826418", name="Goblin_Fireman", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[107] = { nm="N", id="16826417", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[108] = { nm="N", id="16826416", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[108] = { nm="N", id="16826416", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[109] = { nm="N", id="16826415", name="Goblin_Foreman", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[110] = { nm="N", id="16826414", name="Moblin_Workman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[111] = { nm="N", id="16826413", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[112] = { nm="N", id="16826412", name="Moblin_Tankman", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[113] = { nm="N", id="16826411", name="Moblin_Tankman", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[114] = { nm="N", id="16826410", name="Moblin_Yardman", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[115] = { nm="N", id="16826409", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[116] = { nm="N", id="16826408", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[115] = { nm="N", id="16826409", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[116] = { nm="N", id="16826408", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[117] = { nm="N", id="16826407", name="Goblin_Lengthman", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[118] = { nm="N", id="16826406", name="Goblin_Packman", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[119] = { nm="N", id="16826405", name="Goblin_Fireman", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -134,13 +134,13 @@
 	mb_data[126] = { nm="N", id="16826436", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[127] = { nm="N", id="16826435", name="Earth_Elemental", mj="4", sj="5", mlvl="70-71", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[128] = { nm="N", id="16826434", name="Thunder_Elemental", mj="4", sj="5", mlvl="70-80", behavior="0", aggro="M", links="N", spawntype="4", weak="Earth", note="" }
-	mb_data[129] = { nm="N", id="16826433", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[129] = { nm="N", id="16826433", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[130] = { nm="N", id="16826432", name="Moblin_Tankman", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[131] = { nm="N", id="16826431", name="Moblin_Workman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[132] = { nm="N", id="16826430", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[132] = { nm="N", id="16826430", name="Succubus_Bats", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[133] = { nm="N", id="16826429", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[134] = { nm="N", id="16826428", name="Moblin_Workman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[135] = { nm="N", id="16826427", name="Dire_Bat", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[135] = { nm="N", id="16826427", name="Dire_Bat", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[136] = { nm="N", id="16826426", name="Moblin_Tankman", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[137] = { nm="N", id="16826425", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[138] = { nm="N", id="16826424", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -151,12 +151,12 @@
 	mb_data[143] = { nm="N", id="16826532", name="Goblin_Hangman", mj="8", sj="8", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[144] = { nm="N", id="16826531", name="Moblin_Engineman", mj="4", sj="4", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[145] = { nm="N", id="16826530", name="Moblin_Aidman", mj="3", sj="3", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[146] = { nm="N", id="16826529", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[146] = { nm="N", id="16826529", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[147] = { nm="N", id="16826528", name="Goblin_Headman", mj="9", sj="9", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[148] = { nm="N", id="16826527", name="Goblin_Junkman", mj="1", sj="1", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[149] = { nm="N", id="16826533", name="Bugbear_Deathsman", mj="2", sj="2", mlvl="74-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[150] = { nm="N", id="16826526", name="Goblin_Marksman", mj="11", sj="11", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[151] = { nm="N", id="16826524", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[151] = { nm="N", id="16826524", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[152] = { nm="N", id="16826523", name="Goblin_Headman", mj="9", sj="9", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[153] = { nm="N", id="16826522", name="Moblin_Roadman", mj="6", sj="6", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[154] = { nm="N", id="16826521", name="Goblin_Junkman", mj="1", sj="1", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -176,7 +176,7 @@
 	mb_data[168] = { nm="N", id="16826544", name="Moblin_Roadman", mj="6", sj="6", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[169] = { nm="N", id="16826543", name="Goblin_Marksman", mj="11", sj="11", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[170] = { nm="N", id="16826542", name="Goblin_Hangman", mj="8", sj="8", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[171] = { nm="N", id="16826541", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[171] = { nm="N", id="16826541", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[172] = { nm="N", id="16826540", name="Goblin_Headman", mj="9", sj="9", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[173] = { nm="N", id="16826539", name="Moblin_Topsman", mj="5", sj="5", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[174] = { nm="N", id="16826538", name="Moblin_Engineman", mj="4", sj="4", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -187,7 +187,7 @@
 	mb_data[179] = { nm="N", id="16826515", name="Moblin_Aidman", mj="3", sj="3", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[180] = { nm="N", id="16826495", name="Moblin_Aidman", mj="3", sj="3", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[181] = { nm="N", id="16826494", name="Bugbear_Deathsman", mj="2", sj="2", mlvl="74-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[182] = { nm="N", id="16826493", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[182] = { nm="N", id="16826493", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[183] = { nm="N", id="16826492", name="Goblin_Headman", mj="9", sj="9", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[184] = { nm="N", id="16826491", name="Goblin_Marksman", mj="11", sj="11", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[185] = { nm="N", id="16826490", name="Bugbear_Watchman", mj="2", sj="2", mlvl="71-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -195,11 +195,11 @@
 	mb_data[187] = { nm="N", id="16826488", name="Bugbear_Deathsman", mj="2", sj="2", mlvl="74-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[188] = { nm="N", id="16826487", name="Moblin_Topsman", mj="5", sj="5", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[189] = { nm="N", id="16826486", name="Goblin_Junkman", mj="1", sj="1", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[190] = { nm="N", id="16826485", name="Purgatory_Bat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[190] = { nm="N", id="16826485", name="Purgatory_Bat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[191] = { nm="N", id="16826484", name="Moblin_Aidman", mj="3", sj="3", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[192] = { nm="N", id="16826483", name="Goblin_Junkman", mj="1", sj="1", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[193] = { nm="N", id="16826482", name="Nightmare_Bats", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[194] = { nm="N", id="16826481", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[193] = { nm="N", id="16826482", name="Nightmare_Bats", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[194] = { nm="N", id="16826481", name="Goblin_s_Bat", mj="1", sj="1", mlvl="71-73", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[195] = { nm="N", id="16826496", name="Moblin_Engineman", mj="4", sj="4", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[196] = { nm="N", id="16826479", name="Bugbear_Watchman", mj="2", sj="2", mlvl="71-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[197] = { nm="N", id="16826497", name="Moblin_Roadman", mj="6", sj="6", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -212,11 +212,11 @@
 	mb_data[204] = { nm="N", id="16826509", name="Moblin_Engineman", mj="4", sj="4", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[205] = { nm="N", id="16826508", name="Moblin_Aidman", mj="3", sj="3", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[206] = { nm="N", id="16826507", name="Goblin_Swordsman", mj="1", sj="1", mlvl="78-78", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[207] = { nm="N", id="16826506", name="Nightmare_Bats", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[208] = { nm="N", id="16826505", name="Nightmare_Bats", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[207] = { nm="N", id="16826506", name="Nightmare_Bats", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[208] = { nm="N", id="16826505", name="Nightmare_Bats", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[209] = { nm="N", id="16826504", name="Moblin_Engineman", mj="4", sj="4", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[210] = { nm="N", id="16826503", name="Purgatory_Bat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[211] = { nm="N", id="16826502", name="Purgatory_Bat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[210] = { nm="N", id="16826503", name="Purgatory_Bat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[211] = { nm="N", id="16826502", name="Purgatory_Bat", mj="1", sj="1", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[212] = { nm="N", id="16826501", name="Goblin_Junkman", mj="1", sj="1", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[213] = { nm="N", id="16826500", name="Goblin_Hangman", mj="8", sj="8", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[214] = { nm="N", id="16826554", name="Moblin_Roadman", mj="6", sj="6", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -226,7 +226,7 @@
 	mb_data[218] = { nm="N", id="16826373", name="Goblin_Fireman", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[219] = { nm="N", id="16826372", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[220] = { nm="N", id="16826371", name="Goblin_Packman", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[221] = { nm="N", id="16826370", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[221] = { nm="N", id="16826370", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[222] = { nm="N", id="16826369", name="Goblin_Foreman", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[223] = { nm="N", id="16826555", name="Moblin_Roadman", mj="6", sj="6", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[224] = { nm="N", id="16826556", name="Moblin_Topsman", mj="5", sj="5", mlvl="75-79", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -253,20 +253,20 @@
 	mb_data[245] = { nm="N", id="16826400", name="Moblin_Workman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[246] = { nm="N", id="16826399", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[247] = { nm="N", id="16826398", name="Goblin_Lengthman", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[248] = { nm="N", id="16826397", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[248] = { nm="N", id="16826397", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[249] = { nm="N", id="16826396", name="Goblin_Foreman", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[250] = { nm="N", id="16826395", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[251] = { nm="N", id="16826393", name="Dire_Bat", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[251] = { nm="N", id="16826393", name="Dire_Bat", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[252] = { nm="N", id="16826392", name="Bugbear_Trashman", mj="2", sj="2", mlvl="65-67", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[253] = { nm="N", id="16826391", name="Moblin_Workman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[254] = { nm="N", id="16826390", name="Moblin_Draftsman", mj="4", sj="4", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[255] = { nm="N", id="16826394", name="Dire_Bat", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[255] = { nm="N", id="16826394", name="Dire_Bat", mj="1", sj="1", mlvl="63-65", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[256] = { nm="N", id="16826388", name="Goblin_Fireman", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[257] = { nm="N", id="16826378", name="Goblin_Lengthman", mj="11", sj="11", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[258] = { nm="N", id="16826389", name="Goblin_Fireman", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[259] = { nm="N", id="16826380", name="Bugbear_Watchman", mj="2", sj="2", mlvl="71-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[260] = { nm="N", id="16826381", name="Goblin_Foreman", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[261] = { nm="N", id="16826382", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[261] = { nm="N", id="16826382", name="Goblin_s_Bat", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[262] = { nm="N", id="16826379", name="Bugbear_Watchman", mj="2", sj="2", mlvl="71-76", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[263] = { nm="N", id="16826384", name="Moblin_Workman", mj="5", sj="5", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[264] = { nm="N", id="16826385", name="Goblin_Packman", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }

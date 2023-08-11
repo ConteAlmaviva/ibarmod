@@ -22,7 +22,7 @@
 	mb_data[14] = { nm="N", id="17183261", name="DivineInciter", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[15] = { nm="N", id="17183260", name="DivineInciter", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="???", note="" }
 	mb_data[16] = { nm="N", id="16871429", name="Offspring", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(H),T(S),Sc", links="N", spawntype="128", weak="???", note="" }
-	mb_data[17] = { nm="N", id="17183262", name="DivineInciter", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[17] = { nm="N", id="17183262", name="DivineInciter", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[18] = { nm="N", id="17183263", name="DivineInciter", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[19] = { nm="N", id="16871430", name="Offspring", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(H),T(S),Sc", links="N", spawntype="128", weak="???", note="" }
 	mb_data[20] = { nm="N", id="17183264", name="YaaHaqathePi", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(H),T(S),Sc", links="N", spawntype="128", weak="???", note="" }
@@ -46,19 +46,19 @@
 	mb_data[38] = { nm="N", id="16871472", name="Repiner", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[39] = { nm="N", id="16871471", name="Ingurgitator", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[40] = { nm="N", id="16871470", name="Contemplator", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
-	mb_data[41] = { nm="N", id="16871469", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
-	mb_data[42] = { nm="N", id="16871468", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
-	mb_data[43] = { nm="N", id="16871467", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[41] = { nm="N", id="16871469", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
+	mb_data[42] = { nm="N", id="16871468", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
+	mb_data[43] = { nm="N", id="16871467", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[44] = { nm="N", id="17183257", name="DivineInciter", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[45] = { nm="N", id="16871464", name="Neoingurgitator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
-	mb_data[46] = { nm="N", id="16871466", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
-	mb_data[47] = { nm="N", id="16871457", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
-	mb_data[48] = { nm="N", id="16871456", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[46] = { nm="N", id="16871466", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
+	mb_data[47] = { nm="N", id="16871457", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
+	mb_data[48] = { nm="N", id="16871456", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[49] = { nm="N", id="16871454", name="Neoingurgitator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[50] = { nm="N", id="16871453", name="Neoingurgitator", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[51] = { nm="N", id="16871452", name="Repiner", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
-	mb_data[52] = { nm="N", id="16871458", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
-	mb_data[53] = { nm="N", id="16871459", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slashing,Piercing,Hand-To-Hand,Impact", note="" }
+	mb_data[52] = { nm="N", id="16871458", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
+	mb_data[53] = { nm="N", id="16871459", name="Memory_Receptacle", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="NA", links="N", spawntype="128", weak="Slsh.,Prc.,H2H,Impact", note="" }
 	mb_data[54] = { nm="N", id="16871460", name="Contemplator", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[55] = { nm="N", id="16871461", name="Ingurgitator", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }
 	mb_data[56] = { nm="N", id="16871462", name="Repiner", mj="1", sj="1", mlvl="50-50", behavior="0", aggro="T(S)", links="N", spawntype="128", weak="???", note="" }

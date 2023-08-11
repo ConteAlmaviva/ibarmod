@@ -6,7 +6,7 @@
 
 	mb_data = {}
 
-	mb_data[1] = { nm="N", id="17494018", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[1] = { nm="N", id="17494018", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[2] = { nm="N", id="17494189", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[3] = { nm="N", id="17494190", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[4] = { nm="N", id="17494191", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
@@ -14,14 +14,14 @@
 	mb_data[6] = { nm="N", id="17494193", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[7] = { nm="N", id="17494194", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[8] = { nm="N", id="17494195", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[9] = { nm="N", id="17494196", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[10] = { nm="N", id="17494197", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[11] = { nm="N", id="17494198", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[12] = { nm="N", id="17494199", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[13] = { nm="N", id="17494200", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[14] = { nm="N", id="17494201", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[15] = { nm="N", id="17494202", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[16] = { nm="N", id="17494203", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[9] = { nm="N", id="17494196", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[10] = { nm="N", id="17494197", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[11] = { nm="N", id="17494198", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[12] = { nm="N", id="17494199", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[13] = { nm="N", id="17494200", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[14] = { nm="N", id="17494201", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[15] = { nm="N", id="17494202", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[16] = { nm="N", id="17494203", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[17] = { nm="N", id="17494204", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[18] = { nm="N", id="17494205", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[19] = { nm="N", id="17494206", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
@@ -40,20 +40,20 @@
 	mb_data[32] = { nm="N", id="17494187", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[33] = { nm="N", id="17494186", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[34] = { nm="N", id="17494185", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[35] = { nm="N", id="17494156", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[36] = { nm="N", id="17494157", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[37] = { nm="N", id="17494158", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[38] = { nm="N", id="17494159", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[39] = { nm="N", id="17494160", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[35] = { nm="N", id="17494156", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[36] = { nm="N", id="17494157", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[37] = { nm="N", id="17494158", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[38] = { nm="N", id="17494159", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[39] = { nm="N", id="17494160", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[40] = { nm="N", id="17494161", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[41] = { nm="N", id="17494162", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[42] = { nm="N", id="17494163", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[43] = { nm="N", id="17494017", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[43] = { nm="N", id="17494017", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[44] = { nm="N", id="17494164", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[45] = { nm="N", id="17494165", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[46] = { nm="N", id="17494166", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[47] = { nm="N", id="17494167", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[48] = { nm="N", id="17494168", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[45] = { nm="N", id="17494165", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[46] = { nm="N", id="17494166", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[47] = { nm="N", id="17494167", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[48] = { nm="N", id="17494168", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[49] = { nm="N", id="17494219", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[50] = { nm="N", id="17494169", name="Northern_Spriggan", mj="14", sj="14", mlvl="66-69", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[51] = { nm="N", id="17494171", name="Western_Spriggan", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
@@ -62,34 +62,34 @@
 	mb_data[54] = { nm="N", id="17494174", name="Eastern_Spriggan", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[55] = { nm="N", id="17494175", name="Eastern_Spriggan", mj="8", sj="8", mlvl="66-69", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[56] = { nm="N", id="17494176", name="Western_Spriggan", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[57] = { nm="N", id="17494177", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[58] = { nm="N", id="17494178", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[59] = { nm="N", id="17494179", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[60] = { nm="N", id="17494180", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[61] = { nm="N", id="17494181", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[62] = { nm="N", id="17494182", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[63] = { nm="N", id="17494183", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[64] = { nm="N", id="17494184", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[57] = { nm="N", id="17494177", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[58] = { nm="N", id="17494178", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[59] = { nm="N", id="17494179", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[60] = { nm="N", id="17494180", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[61] = { nm="N", id="17494181", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[62] = { nm="N", id="17494182", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[63] = { nm="N", id="17494183", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[64] = { nm="N", id="17494184", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[65] = { nm="N", id="17494170", name="Southern_Spriggan", mj="7", sj="7", mlvl="66-69", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[66] = { nm="N", id="17494220", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[67] = { nm="N", id="17494221", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[68] = { nm="N", id="17494222", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[69] = { nm="N", id="17494257", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[70] = { nm="N", id="17494258", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[71] = { nm="N", id="17494259", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[72] = { nm="N", id="17494261", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[73] = { nm="N", id="17494262", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[74] = { nm="N", id="17494263", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[75] = { nm="N", id="17494264", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[76] = { nm="N", id="17494265", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[77] = { nm="N", id="17494266", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[78] = { nm="N", id="17494267", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[79] = { nm="N", id="17494268", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[80] = { nm="N", id="17494269", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[81] = { nm="N", id="17494270", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[82] = { nm="N", id="17494271", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[83] = { nm="N", id="17494256", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[84] = { nm="N", id="17494272", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[67] = { nm="N", id="17494221", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[68] = { nm="N", id="17494222", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[69] = { nm="N", id="17494257", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[70] = { nm="N", id="17494258", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[71] = { nm="N", id="17494259", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[72] = { nm="N", id="17494261", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[73] = { nm="N", id="17494262", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[74] = { nm="N", id="17494263", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[75] = { nm="N", id="17494264", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[76] = { nm="N", id="17494265", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[77] = { nm="N", id="17494266", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[78] = { nm="N", id="17494267", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[79] = { nm="N", id="17494268", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[80] = { nm="N", id="17494269", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[81] = { nm="N", id="17494270", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[82] = { nm="N", id="17494271", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[83] = { nm="N", id="17494256", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[84] = { nm="N", id="17494272", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[85] = { nm="N", id="17494274", name="Earth_Elemental", mj="4", sj="5", mlvl="72-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[86] = { nm="N", id="17494275", name="Ice_Elemental", mj="4", sj="5", mlvl="72-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Fire", note="" }
 	mb_data[87] = { nm="N", id="17494276", name="Orcish_Transporter", mj="1", sj="1", mlvl="60-60", behavior="0", aggro="S,H,Sc", links="Y", spawntype="128", weak="Water", note="" }
@@ -102,46 +102,46 @@
 	mb_data[94] = { nm="N", id="17494283", name="Dhoul", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[95] = { nm="N", id="17494284", name="Dhoul", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[96] = { nm="N", id="17494285", name="Dhoul", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[97] = { nm="N", id="17494610", name="Giltine", mj="4", sj="4", mlvl="94-95", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[98] = { nm="N", id="17494612", name="Giltine", mj="4", sj="4", mlvl="94-95", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[97] = { nm="N", id="17494610", name="Giltine", mj="4", sj="4", mlvl="94-95", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[98] = { nm="N", id="17494612", name="Giltine", mj="4", sj="4", mlvl="94-95", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[99] = { nm="N", id="17494273", name="Earth_Elemental", mj="4", sj="5", mlvl="72-75", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
-	mb_data[100] = { nm="N", id="17494155", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[101] = { nm="N", id="17494255", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[102] = { nm="N", id="17494253", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[103] = { nm="N", id="17494223", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[104] = { nm="N", id="17494224", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[105] = { nm="N", id="17494225", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[106] = { nm="N", id="17494226", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[107] = { nm="N", id="17494227", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[108] = { nm="N", id="17494228", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[109] = { nm="N", id="17494229", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[110] = { nm="N", id="17494230", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[111] = { nm="N", id="17494231", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[112] = { nm="N", id="17494232", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[113] = { nm="N", id="17494233", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[114] = { nm="N", id="17494234", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[115] = { nm="N", id="17494235", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[116] = { nm="N", id="17494236", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[117] = { nm="N", id="17494254", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[118] = { nm="N", id="17494237", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[119] = { nm="N", id="17494239", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[120] = { nm="N", id="17494240", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[121] = { nm="N", id="17494241", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[122] = { nm="N", id="17494242", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[123] = { nm="N", id="17494243", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[124] = { nm="N", id="17494244", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[125] = { nm="N", id="17494245", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[126] = { nm="N", id="17494246", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[127] = { nm="N", id="17494247", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[128] = { nm="N", id="17494248", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[129] = { nm="N", id="17494249", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[130] = { nm="N", id="17494250", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[131] = { nm="N", id="17494251", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[132] = { nm="N", id="17494252", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[133] = { nm="N", id="17494238", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[134] = { nm="N", id="17494154", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[135] = { nm="N", id="17494260", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[136] = { nm="N", id="17494152", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[100] = { nm="N", id="17494155", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[101] = { nm="N", id="17494255", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[102] = { nm="N", id="17494253", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[103] = { nm="N", id="17494223", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[104] = { nm="N", id="17494224", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[105] = { nm="N", id="17494225", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[106] = { nm="N", id="17494226", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[107] = { nm="N", id="17494227", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[108] = { nm="N", id="17494228", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[109] = { nm="N", id="17494229", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[110] = { nm="N", id="17494230", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[111] = { nm="N", id="17494231", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[112] = { nm="N", id="17494232", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[113] = { nm="N", id="17494233", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[114] = { nm="N", id="17494234", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[115] = { nm="N", id="17494235", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[116] = { nm="N", id="17494236", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[117] = { nm="N", id="17494254", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[118] = { nm="N", id="17494237", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[119] = { nm="N", id="17494239", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[120] = { nm="N", id="17494240", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[121] = { nm="N", id="17494241", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[122] = { nm="N", id="17494242", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[123] = { nm="N", id="17494243", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[124] = { nm="N", id="17494244", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[125] = { nm="N", id="17494245", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[126] = { nm="N", id="17494246", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[127] = { nm="N", id="17494247", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[128] = { nm="N", id="17494248", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[129] = { nm="N", id="17494249", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[130] = { nm="N", id="17494250", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[131] = { nm="N", id="17494251", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[132] = { nm="N", id="17494252", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[133] = { nm="N", id="17494238", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[134] = { nm="N", id="17494154", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[135] = { nm="N", id="17494260", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[136] = { nm="N", id="17494152", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[137] = { nm="N", id="17494055", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[138] = { nm="N", id="17494056", name="Orcish_Trooper", mj="7", sj="7", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[139] = { nm="N", id="17494057", name="Orcish_Brawler", mj="2", sj="2", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -177,74 +177,74 @@
 	mb_data[169] = { nm="N", id="17494053", name="Orcish_Brawler", mj="2", sj="2", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[170] = { nm="N", id="17494052", name="Orcish_Trooper", mj="7", sj="7", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[171] = { nm="N", id="17494051", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[172] = { nm="N", id="17494031", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[173] = { nm="N", id="17494030", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[174] = { nm="N", id="17494029", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[175] = { nm="N", id="17494028", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[176] = { nm="N", id="17494027", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[177] = { nm="N", id="17494026", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[178] = { nm="N", id="17494032", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[179] = { nm="N", id="17494025", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[180] = { nm="N", id="17494023", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[181] = { nm="N", id="17494022", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[182] = { nm="N", id="17494021", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[183] = { nm="N", id="17494020", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[184] = { nm="N", id="17494153", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[185] = { nm="N", id="17494019", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[186] = { nm="N", id="17494024", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[172] = { nm="N", id="17494031", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[173] = { nm="N", id="17494030", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[174] = { nm="N", id="17494029", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[175] = { nm="N", id="17494028", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[176] = { nm="N", id="17494027", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[177] = { nm="N", id="17494026", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[178] = { nm="N", id="17494032", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[179] = { nm="N", id="17494025", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[180] = { nm="N", id="17494023", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[181] = { nm="N", id="17494022", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[182] = { nm="N", id="17494021", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[183] = { nm="N", id="17494020", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[184] = { nm="N", id="17494153", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[185] = { nm="N", id="17494019", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[186] = { nm="N", id="17494024", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[187] = { nm="N", id="17494086", name="Gazer", mj="4", sj="4", mlvl="63-65", behavior="0", aggro="H", links="N", spawntype="0", weak="???", note="" }
-	mb_data[188] = { nm="N", id="17494033", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[189] = { nm="N", id="17494035", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[188] = { nm="N", id="17494033", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[189] = { nm="N", id="17494035", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[190] = { nm="N", id="17494050", name="Orcish_Chasseur", mj="11", sj="11", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[191] = { nm="N", id="17494049", name="Orcish_Brawler", mj="2", sj="2", mlvl="68-71", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[192] = { nm="N", id="17494048", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[193] = { nm="N", id="17494047", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[194] = { nm="N", id="17494046", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[195] = { nm="N", id="17494045", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[196] = { nm="N", id="17494034", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[197] = { nm="N", id="17494044", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[198] = { nm="N", id="17494042", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[199] = { nm="N", id="17494041", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[192] = { nm="N", id="17494048", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[193] = { nm="N", id="17494047", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[194] = { nm="N", id="17494046", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[195] = { nm="N", id="17494045", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[196] = { nm="N", id="17494034", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[197] = { nm="N", id="17494044", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[198] = { nm="N", id="17494042", name="Lost_Soul", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[199] = { nm="N", id="17494041", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[200] = { nm="N", id="17494040", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[201] = { nm="N", id="17494039", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[202] = { nm="N", id="17494038", name="Ignis_Djinn", mj="1", sj="1", mlvl="68-72", behavior="0", aggro="S,M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[203] = { nm="N", id="17494036", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[204] = { nm="N", id="17494043", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[203] = { nm="N", id="17494036", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[204] = { nm="N", id="17494043", name="Lich", mj="4", sj="4", mlvl="65-68", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[205] = { nm="N", id="17494087", name="Gazer", mj="4", sj="4", mlvl="63-65", behavior="0", aggro="H", links="N", spawntype="0", weak="???", note="" }
-	mb_data[206] = { nm="N", id="17494037", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[206] = { nm="N", id="17494037", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[207] = { nm="N", id="17494089", name="Gazer", mj="4", sj="4", mlvl="63-65", behavior="0", aggro="H", links="N", spawntype="0", weak="???", note="" }
-	mb_data[208] = { nm="N", id="17494123", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[209] = { nm="N", id="17494124", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[210] = { nm="N", id="17494125", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[211] = { nm="N", id="17494126", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[212] = { nm="N", id="17494127", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[213] = { nm="N", id="17494128", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[214] = { nm="N", id="17494129", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[208] = { nm="N", id="17494123", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[209] = { nm="N", id="17494124", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[210] = { nm="N", id="17494125", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[211] = { nm="N", id="17494126", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[212] = { nm="N", id="17494127", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[213] = { nm="N", id="17494128", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[214] = { nm="N", id="17494129", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[215] = { nm="N", id="17494130", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[216] = { nm="N", id="17494131", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[217] = { nm="N", id="17494132", name="Revenant", mj="4", sj="4", mlvl="68-70", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[218] = { nm="N", id="17494133", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[219] = { nm="N", id="17494134", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[220] = { nm="N", id="17494135", name="Laelaps", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[221] = { nm="N", id="17494136", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[222] = { nm="N", id="17494137", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[223] = { nm="N", id="17494138", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[224] = { nm="N", id="17494139", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[225] = { nm="N", id="17494140", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[226] = { nm="N", id="17494142", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[227] = { nm="N", id="17494143", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[228] = { nm="N", id="17494144", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[229] = { nm="N", id="17494145", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[230] = { nm="N", id="17494146", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[231] = { nm="N", id="17494147", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[232] = { nm="N", id="17494148", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[233] = { nm="N", id="17494149", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[234] = { nm="N", id="17494151", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[218] = { nm="N", id="17494133", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[219] = { nm="N", id="17494134", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[220] = { nm="N", id="17494135", name="Laelaps", mj="1", sj="1", mlvl="73-75", behavior="0", aggro="H,HP", links="Y", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[221] = { nm="N", id="17494136", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[222] = { nm="N", id="17494137", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[223] = { nm="N", id="17494138", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[224] = { nm="N", id="17494139", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[225] = { nm="N", id="17494140", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[226] = { nm="N", id="17494142", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[227] = { nm="N", id="17494143", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[228] = { nm="N", id="17494144", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[229] = { nm="N", id="17494145", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[230] = { nm="N", id="17494146", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[231] = { nm="N", id="17494147", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[232] = { nm="N", id="17494148", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[233] = { nm="N", id="17494149", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[234] = { nm="N", id="17494151", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[235] = { nm="N", id="17494088", name="Gazer", mj="4", sj="4", mlvl="63-65", behavior="0", aggro="H", links="N", spawntype="0", weak="???", note="" }
-	mb_data[236] = { nm="N", id="17494150", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
-	mb_data[237] = { nm="N", id="17494122", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[238] = { nm="N", id="17494121", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[239] = { nm="N", id="17494141", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[236] = { nm="N", id="17494150", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
+	mb_data[237] = { nm="N", id="17494122", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[238] = { nm="N", id="17494121", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[239] = { nm="N", id="17494141", name="Hell_Hound", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[240] = { nm="N", id="17494106", name="Goblin_Blastmaster", mj="4", sj="4", mlvl="62-64", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[241] = { nm="N", id="17494105", name="Goblin_Freesword", mj="1", sj="1", mlvl="62-64", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[242] = { nm="N", id="17494104", name="Goblin_Corpsman", mj="3", sj="3", mlvl="62-64", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -262,18 +262,18 @@
 	mb_data[254] = { nm="N", id="17494094", name="Gazer", mj="4", sj="4", mlvl="63-65", behavior="0", aggro="H", links="N", spawntype="0", weak="???", note="" }
 	mb_data[255] = { nm="N", id="17494100", name="Goblin_Blastmaster", mj="4", sj="4", mlvl="62-64", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[256] = { nm="N", id="17494107", name="Goblin_Pioneer", mj="6", sj="6", mlvl="62-64", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[257] = { nm="N", id="17494120", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[258] = { nm="N", id="17494109", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[259] = { nm="N", id="17494119", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[260] = { nm="N", id="17494118", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[261] = { nm="N", id="17494110", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[262] = { nm="N", id="17494117", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[263] = { nm="N", id="17494111", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[264] = { nm="N", id="17494116", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[265] = { nm="N", id="17494112", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[257] = { nm="N", id="17494120", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[258] = { nm="N", id="17494109", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[259] = { nm="N", id="17494119", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[260] = { nm="N", id="17494118", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[261] = { nm="N", id="17494110", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[262] = { nm="N", id="17494117", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[263] = { nm="N", id="17494111", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[264] = { nm="N", id="17494116", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[265] = { nm="N", id="17494112", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[266] = { nm="N", id="17494108", name="Goblin_Mine", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(H)", links="N", spawntype="128", weak="???", note="" }
-	mb_data[267] = { nm="N", id="17494113", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[268] = { nm="N", id="17494114", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[269] = { nm="N", id="17494115", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[267] = { nm="N", id="17494113", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[268] = { nm="N", id="17494114", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[269] = { nm="N", id="17494115", name="War_Smilodon", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 
 	return mb_data;

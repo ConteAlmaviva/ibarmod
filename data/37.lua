@@ -8,12 +8,12 @@
 
 	mb_data[1] = { nm="N", id="16929042", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[2] = { nm="N", id="16929041", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[3] = { nm="N", id="16929017", name="Star_Ruby_Quadav	", mj="5", sj="5", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[4] = { nm="N", id="16929018", name="Fossil_Quadav	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[5] = { nm="N", id="16929019", name="Whitegold_Quadav	", mj="6", sj="6", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[6] = { nm="N", id="16929020", name="Wootz_Quadav	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[7] = { nm="N", id="16929021", name="Star_Sapphire_Quadav	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[8] = { nm="N", id="16929022", name="Lightsteel_Quadav	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[3] = { nm="N", id="16929017", name="Star_Ruby_Quadav	", mj="5", sj="5", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[4] = { nm="N", id="16929018", name="Fossil_Quadav	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[5] = { nm="N", id="16929019", name="Whitegold_Quadav	", mj="6", sj="6", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[6] = { nm="N", id="16929020", name="Wootz_Quadav	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[7] = { nm="N", id="16929021", name="Star_Sapphire_Quadav	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[8] = { nm="N", id="16929022", name="Lightsteel_Quadav	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[9] = { nm="N", id="16929023", name="Yagudo_Archpriest	", mj="3", sj="3", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[10] = { nm="N", id="16929024", name="Yagudo_Disciplinant	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[11] = { nm="N", id="16929039", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
@@ -30,7 +30,7 @@
 	mb_data[22] = { nm="N", id="16929036", name="Earth_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Wind", note="" }
 	mb_data[23] = { nm="N", id="16929037", name="Thunder_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Earth", note="" }
 	mb_data[24] = { nm="N", id="16929026", name="Yagudo_Knight_Templar	", mj="12", sj="12", mlvl="75-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[25] = { nm="N", id="16929038", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Lightning", note="" }
+	mb_data[25] = { nm="N", id="16929038", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ltng.", note="" }
 	mb_data[26] = { nm="N", id="16929014", name="Grognard_Grappler	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[27] = { nm="N", id="16928772", name="Goblin_Slaughterman	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[28] = { nm="N", id="16928811", name="Praetorian_Guard_CXLVIII	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="T(H),Sc", links="Y", spawntype="128", weak="Wind", note="" }
@@ -45,12 +45,12 @@
 	mb_data[37] = { nm="N", id="16928799", name="Kindred_Summoner	", mj="15", sj="15", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[38] = { nm="N", id="16928798", name="Kindred_Dark_Knight	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[39] = { nm="N", id="16928797", name="Kindred_Warrior	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[40] = { nm="N", id="16928793", name="Telchines_Monk	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[41] = { nm="N", id="16928792", name="Telchines_Monk	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[40] = { nm="N", id="16928793", name="Telchines_Monk	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[41] = { nm="N", id="16928792", name="Telchines_Monk	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[42] = { nm="N", id="16928791", name="Telchines_s_Wyvern	", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[43] = { nm="N", id="16928790", name="Telchines_Dragoon	", mj="14", sj="14", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[44] = { nm="N", id="16928789", name="Telchines_White_Mage	", mj="3", sj="3", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[45] = { nm="N", id="16928788", name="Telchines_Bard	", mj="10", sj="10", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[43] = { nm="N", id="16928790", name="Telchines_Dragoon	", mj="14", sj="14", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[44] = { nm="N", id="16928789", name="Telchines_White_Mage	", mj="3", sj="3", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[45] = { nm="N", id="16928788", name="Telchines_Bard	", mj="10", sj="10", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[46] = { nm="N", id="16928784", name="Kari	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Earth", note="" }
 	mb_data[47] = { nm="N", id="16928783", name="Beli	", mj="11", sj="1", mlvl="75-80", behavior="0", aggro="T(H),T(S)", links="Y", spawntype="128", weak="Earth", note="" }
 	mb_data[48] = { nm="N", id="16928782", name="Thrym	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),T(S)", links="Y", spawntype="128", weak="Earth", note="" }
@@ -62,7 +62,7 @@
 	mb_data[54] = { nm="N", id="16928773", name="Goblin_Slaughterman	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[55] = { nm="N", id="16929043", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[56] = { nm="N", id="16929044", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[57] = { nm="N", id="16929047", name="Temenos_Cleaner	", mj="5", sj="1", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Hand-To-Hand,Impact", note="" }
+	mb_data[57] = { nm="N", id="16929047", name="Temenos_Cleaner	", mj="5", sj="1", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="H2H,Impact", note="" }
 	mb_data[58] = { nm="N", id="16928812", name="Praetorian_Guard_CCCXI	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="T(H),Sc", links="Y", spawntype="128", weak="Wind", note="" }
 	mb_data[59] = { nm="N", id="16929081", name="Aern_s_Avatar	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[60] = { nm="N", id="16929082", name="Temenos_Aern	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
@@ -95,7 +95,7 @@
 	mb_data[87] = { nm="N", id="16929079", name="Temenos_Aern	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[88] = { nm="N", id="16929078", name="Temenos_Aern	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[89] = { nm="N", id="16929077", name="Temenos_Aern	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[90] = { nm="N", id="16929048", name="Iruci	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[90] = { nm="N", id="16929048", name="Iruci	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[91] = { nm="N", id="16929049", name="Temenos_Weapon	", mj="5", sj="5", mlvl="75-80", behavior="0", aggro="H", links="N", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[92] = { nm="N", id="16929050", name="Enhanced_Dragon	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H", links="N", spawntype="128", weak="???", note="" }
 	mb_data[93] = { nm="N", id="16929051", name="Enhanced_Ahriman	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
@@ -127,11 +127,11 @@
 	mb_data[119] = { nm="N", id="16928816", name="Cryptonberry_Charmer	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[120] = { nm="N", id="16928817", name="Cryptonberry_Skulker	", mj="13", sj="13", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[121] = { nm="N", id="16928818", name="Cryptonberry_Abductor	", mj="6", sj="6", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[122] = { nm="N", id="16928956", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[123] = { nm="N", id="16928955", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[124] = { nm="N", id="16928954", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[125] = { nm="N", id="16928953", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[126] = { nm="N", id="16928952", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[122] = { nm="N", id="16928956", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[123] = { nm="N", id="16928955", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[124] = { nm="N", id="16928954", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[125] = { nm="N", id="16928953", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[126] = { nm="N", id="16928952", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[127] = { nm="N", id="16928948", name="Enhanced_Slime	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[128] = { nm="N", id="16928947", name="Enhanced_Slime	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[129] = { nm="N", id="16928946", name="Enhanced_Slime	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Fire", note="" }
@@ -140,7 +140,7 @@
 	mb_data[132] = { nm="N", id="16928943", name="Enhanced_Slime	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[133] = { nm="N", id="16928939", name="Enhanced_Lizard	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[134] = { nm="N", id="16928938", name="Enhanced_Lizard	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Wind", note="" }
-	mb_data[135] = { nm="N", id="16928957", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[135] = { nm="N", id="16928957", name="Enhanced_Pugil	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[136] = { nm="N", id="16928937", name="Enhanced_Lizard	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[137] = { nm="N", id="16928935", name="Enhanced_Lizard	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[138] = { nm="N", id="16928934", name="Enhanced_Lizard	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Wind", note="" }
@@ -153,12 +153,12 @@
 	mb_data[145] = { nm="N", id="16928924", name="Enhanced_Beetle	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Ice,Light", note="" }
 	mb_data[146] = { nm="N", id="16928923", name="Enhanced_Beetle	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Ice,Light", note="" }
 	mb_data[147] = { nm="N", id="16928922", name="Enhanced_Beetle	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[148] = { nm="N", id="16928918", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[149] = { nm="N", id="16928917", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[148] = { nm="N", id="16928918", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[149] = { nm="N", id="16928917", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[150] = { nm="N", id="16928936", name="Enhanced_Lizard	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice,Wind", note="" }
-	mb_data[151] = { nm="N", id="16928959", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[152] = { nm="N", id="16928960", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[153] = { nm="N", id="16928961", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[151] = { nm="N", id="16928959", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[152] = { nm="N", id="16928960", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[153] = { nm="N", id="16928961", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[154] = { nm="N", id="16929013", name="Grognard_Neckchopper	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[155] = { nm="N", id="16929012", name="Grognard_Predator	", mj="11", sj="11", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[156] = { nm="N", id="16929011", name="Grognard_Footsoldier	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
@@ -166,15 +166,15 @@
 	mb_data[158] = { nm="N", id="16929009", name="Yagudo_s_Avatar	", mj="4", sj="4", mlvl="60-64", behavior="0", aggro="NA", links="N", spawntype="128", weak="???", note="" }
 	mb_data[159] = { nm="N", id="16929008", name="Yagudo_s_Elemental	", mj="4", sj="4", mlvl="60-64", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[160] = { nm="N", id="16929007", name="Pee_Qoho_the_Python	", mj="15", sj="15", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[161] = { nm="N", id="16929006", name="Orichalcum_Quadav	", mj="3", sj="3", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[161] = { nm="N", id="16929006", name="Orichalcum_Quadav	", mj="3", sj="3", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[162] = { nm="N", id="16929005", name="Abyssdweller_Jhabdebb	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[163] = { nm="N", id="16929003", name="Enhanced_Akbaba	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[164] = { nm="N", id="16929002", name="Enhanced_Makara	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[163] = { nm="N", id="16929003", name="Enhanced_Akbaba	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[164] = { nm="N", id="16929002", name="Enhanced_Makara	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[165] = { nm="N", id="16929001", name="Enhanced_Jelly	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Fire", note="" }
 	mb_data[166] = { nm="N", id="16929000", name="Enhanced_Salamander	", mj="6", sj="6", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[167] = { nm="N", id="16928999", name="Enhanced_Kettenkaefer	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[168] = { nm="N", id="16928998", name="Enhanced_Pygmaioi	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[169] = { nm="N", id="16928997", name="Enhanced_Koenigstiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
+	mb_data[168] = { nm="N", id="16928998", name="Enhanced_Pygmaioi	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[169] = { nm="N", id="16928997", name="Enhanced_Koenigstiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
 	mb_data[170] = { nm="N", id="16928996", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[171] = { nm="N", id="16928995", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[172] = { nm="N", id="16928994", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
@@ -182,16 +182,16 @@
 	mb_data[174] = { nm="N", id="16928992", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[175] = { nm="N", id="16928991", name="Mystic_Avatar	", mj="4", sj="4", mlvl="75-80", behavior="0", aggro="T(H),M", links="N", spawntype="128", weak="???", note="" }
 	mb_data[176] = { nm="N", id="16928988", name="Koo_Buzu_the_Theomanic	", mj="15", sj="15", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[177] = { nm="N", id="16928987", name="Ji_Gho_Ageless	", mj="3", sj="3", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[177] = { nm="N", id="16928987", name="Ji_Gho_Ageless	", mj="3", sj="3", mlvl="75-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[178] = { nm="N", id="16928986", name="Kingslayer_Doggvdegg	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[179] = { nm="N", id="16928966", name="Proto-Ultima	", mj="1", sj="7", mlvl="80-85", behavior="0", aggro="T(H),T(S)", links="N", spawntype="128", weak="???", note="" }
-	mb_data[180] = { nm="N", id="16928964", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[181] = { nm="N", id="16928963", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[182] = { nm="N", id="16928962", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[183] = { nm="N", id="16928916", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[180] = { nm="N", id="16928964", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[181] = { nm="N", id="16928963", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[182] = { nm="N", id="16928962", name="Enhanced_Vulture	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[183] = { nm="N", id="16928916", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[184] = { nm="N", id="16929015", name="Grognard_Impaler	", mj="14", sj="14", mlvl="75-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[185] = { nm="N", id="16928915", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[186] = { nm="N", id="16928913", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[185] = { nm="N", id="16928915", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[186] = { nm="N", id="16928913", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[187] = { nm="N", id="16928859", name="Air_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ice", note="" }
 	mb_data[188] = { nm="N", id="16928858", name="Air_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ice", note="" }
 	mb_data[189] = { nm="N", id="16928853", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
@@ -224,26 +224,26 @@
 	mb_data[216] = { nm="N", id="16928861", name="Air_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ice", note="" }
 	mb_data[217] = { nm="N", id="16928862", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[218] = { nm="N", id="16928867", name="Earth_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Wind", note="" }
-	mb_data[219] = { nm="N", id="16928912", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[220] = { nm="N", id="16928911", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[221] = { nm="N", id="16928910", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
-	mb_data[222] = { nm="N", id="16928906", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[223] = { nm="N", id="16928905", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[224] = { nm="N", id="16928904", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[225] = { nm="N", id="16928903", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[226] = { nm="N", id="16928902", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[227] = { nm="N", id="16928901", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[228] = { nm="N", id="16928900", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[229] = { nm="N", id="16928899", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
-	mb_data[230] = { nm="N", id="16928898", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Lightning", note="" }
+	mb_data[219] = { nm="N", id="16928912", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[220] = { nm="N", id="16928911", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[221] = { nm="N", id="16928910", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
+	mb_data[222] = { nm="N", id="16928906", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[223] = { nm="N", id="16928905", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[224] = { nm="N", id="16928904", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[225] = { nm="N", id="16928903", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[226] = { nm="N", id="16928902", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[227] = { nm="N", id="16928901", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[228] = { nm="N", id="16928900", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[229] = { nm="N", id="16928899", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
+	mb_data[230] = { nm="N", id="16928898", name="Enhanced_Tiger	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Fire,Ltng.", note="" }
 	mb_data[231] = { nm="N", id="16928894", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[232] = { nm="N", id="16928893", name="Dark_Elemental	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Light", note="" }
 	mb_data[233] = { nm="N", id="16928892", name="Dark_Elemental	", mj="8", sj="8", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Light", note="" }
 	mb_data[234] = { nm="N", id="16929016", name="Orc_s_Wyvern	", mj="1", sj="1", mlvl="60-64", behavior="0", aggro="NA", links="N", spawntype="128", weak="Dark", note="" }
-	mb_data[235] = { nm="N", id="16928888", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Lightning", note="" }
-	mb_data[236] = { nm="N", id="16928887", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Lightning", note="" }
-	mb_data[237] = { nm="N", id="16928886", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Lightning", note="" }
-	mb_data[238] = { nm="N", id="16928885", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Lightning", note="" }
+	mb_data[235] = { nm="N", id="16928888", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ltng.", note="" }
+	mb_data[236] = { nm="N", id="16928887", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ltng.", note="" }
+	mb_data[237] = { nm="N", id="16928886", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ltng.", note="" }
+	mb_data[238] = { nm="N", id="16928885", name="Water_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Ltng.", note="" }
 	mb_data[239] = { nm="N", id="16928880", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[240] = { nm="N", id="16928879", name="Thunder_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Earth", note="" }
 	mb_data[241] = { nm="N", id="16928878", name="Thunder_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Earth", note="" }
@@ -253,7 +253,7 @@
 	mb_data[245] = { nm="N", id="16928870", name="Earth_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Wind", note="" }
 	mb_data[246] = { nm="N", id="16928869", name="Earth_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Wind", note="" }
 	mb_data[247] = { nm="N", id="16928868", name="Earth_Elemental	", mj="4", sj="5", mlvl="75-80", behavior="0", aggro="M", links="N", spawntype="128", weak="Wind", note="" }
-	mb_data[248] = { nm="N", id="16928914", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Piercing,Fire,Ice,Wind,Lightning,Dark", note="" }
+	mb_data[248] = { nm="N", id="16928914", name="Enhanced_Mandragora	", mj="2", sj="2", mlvl="75-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Prc.,Fire,Ice,Wind,Ltng.,Dark", note="" }
 	mb_data[249] = { nm="N", id="16928889", name="Mystic_Avatar	", mj="1", sj="1", mlvl="75-80", behavior="0", aggro="T(H),M", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[250] = { nm="N", id="16929108", name="Temenos_Aern	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[251] = { nm="N", id="16929111", name="Temenos_Aern	", mj="7", sj="7", mlvl="75-80", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }

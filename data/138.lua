@@ -94,15 +94,15 @@
 	mb_data[86] = { nm="N", id="17342685", name="Demon_Suppressor", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[87] = { nm="N", id="17342642", name="Deathwreaker_Demon", mj="1", sj="1", mlvl="85-85", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[88] = { nm="N", id="17342620", name="Demon_Justiciar", mj="15", sj="15", mlvl="80-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[89] = { nm="N", id="17342591", name="Ancient_Quadav", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[89] = { nm="N", id="17342591", name="Ancient_Quadav", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[90] = { nm="N", id="17342576", name="Yagudo_Chanter", mj="10", sj="10", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[91] = { nm="N", id="17342577", name="Yagudo_High_Priest", mj="3", sj="3", mlvl="0-0", behavior="0", aggro="T(S)", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[92] = { nm="N", id="17342578", name="Ogler", mj="1", sj="4", mlvl="81-82", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[93] = { nm="N", id="17342579", name="Ogler", mj="1", sj="4", mlvl="81-82", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
-	mb_data[94] = { nm="N", id="17342580", name="Ancient_Quadav", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[95] = { nm="N", id="17342581", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[96] = { nm="N", id="17342582", name="Magnes_Quadav", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[97] = { nm="N", id="17342583", name="Star_Ruby_Quadav", mj="5", sj="5", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[94] = { nm="N", id="17342580", name="Ancient_Quadav", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[95] = { nm="N", id="17342581", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[96] = { nm="N", id="17342582", name="Magnes_Quadav", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[97] = { nm="N", id="17342583", name="Star_Ruby_Quadav", mj="5", sj="5", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[98] = { nm="N", id="17342584", name="Yagudo_Sentinel", mj="2", sj="2", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[99] = { nm="N", id="17342585", name="Yagudo_Eradicator", mj="13", sj="13", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[100] = { nm="N", id="17342586", name="Yagudo_Chanter", mj="10", sj="10", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -110,31 +110,31 @@
 	mb_data[102] = { nm="N", id="17342588", name="Demon_Warrior", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[103] = { nm="N", id="17342589", name="Demon_Warrior", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[104] = { nm="N", id="17342590", name="Demon_Magus", mj="4", sj="4", mlvl="80-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[105] = { nm="N", id="17342592", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[106] = { nm="N", id="17342593", name="Magnes_Quadav", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[105] = { nm="N", id="17342592", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[106] = { nm="N", id="17342593", name="Magnes_Quadav", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[107] = { nm="N", id="17342575", name="Yagudo_Eradicator", mj="13", sj="13", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[108] = { nm="N", id="17342574", name="Yagudo_Sentinel", mj="2", sj="2", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[109] = { nm="N", id="17342573", name="Vajra_Quadav", mj="3", sj="3", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[110] = { nm="N", id="17342572", name="Adaman_Quadav", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[109] = { nm="N", id="17342573", name="Vajra_Quadav", mj="3", sj="3", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[110] = { nm="N", id="17342572", name="Adaman_Quadav", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[111] = { nm="N", id="17342553", name="Orcish_Warlord", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(S),Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[112] = { nm="N", id="17342554", name="Adaman_Quadav", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[113] = { nm="N", id="17342555", name="Gold_Quadav", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[114] = { nm="N", id="17342556", name="Magnes_Quadav", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[115] = { nm="N", id="17342557", name="Star_Ruby_Quadav", mj="5", sj="5", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[112] = { nm="N", id="17342554", name="Adaman_Quadav", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[113] = { nm="N", id="17342555", name="Gold_Quadav", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[114] = { nm="N", id="17342556", name="Magnes_Quadav", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[115] = { nm="N", id="17342557", name="Star_Ruby_Quadav", mj="5", sj="5", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[116] = { nm="N", id="17342558", name="Yagudo_Knight_Templar", mj="12", sj="12", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[117] = { nm="N", id="17342559", name="Yagudo_Eradicator", mj="13", sj="13", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[118] = { nm="N", id="17342560", name="Yagudo_Chanter", mj="10", sj="10", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[119] = { nm="N", id="17342594", name="Star_Ruby_Quadav", mj="5", sj="5", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[119] = { nm="N", id="17342594", name="Star_Ruby_Quadav", mj="5", sj="5", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[120] = { nm="N", id="17342561", name="Yagudo_Prelate", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[121] = { nm="N", id="17342563", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[122] = { nm="N", id="17342564", name="Gold_Quadav", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[123] = { nm="N", id="17342565", name="Vajra_Quadav", mj="3", sj="3", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[121] = { nm="N", id="17342563", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[122] = { nm="N", id="17342564", name="Gold_Quadav", mj="6", sj="6", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[123] = { nm="N", id="17342565", name="Vajra_Quadav", mj="3", sj="3", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[124] = { nm="N", id="17342566", name="Yagudo_Sentinel", mj="2", sj="2", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[125] = { nm="N", id="17342567", name="Yagudo_Knight_Templar", mj="12", sj="12", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[126] = { nm="N", id="17342568", name="Yagudo_Chanter", mj="10", sj="10", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[127] = { nm="N", id="17342569", name="Yagudo_Prelate", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[128] = { nm="N", id="17342571", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[129] = { nm="N", id="17342562", name="Adaman_Quadav", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[128] = { nm="N", id="17342571", name="Iron_Quadav", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[129] = { nm="N", id="17342562", name="Adaman_Quadav", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(H)", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[130] = { nm="N", id="17342595", name="Yagudo_Sentinel", mj="2", sj="2", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[131] = { nm="N", id="17342596", name="Yagudo_Eradicator", mj="13", sj="13", mlvl="0-0", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[132] = { nm="N", id="17342597", name="Yagudo_High_Priest", mj="3", sj="3", mlvl="0-0", behavior="0", aggro="T(S)", links="Y", spawntype="0", weak="Ice", note="" }
@@ -180,7 +180,7 @@
 	mb_data[172] = { nm="N", id="17342617", name="Demon_Warrior", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[173] = { nm="N", id="17342607", name="Demon_Befouler", mj="1", sj="1", mlvl="82-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[174] = { nm="N", id="17342551", name="Orcish_Veteran", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[175] = { nm="N", id="17342570", name="Ancient_Quadav", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[175] = { nm="N", id="17342570", name="Ancient_Quadav", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[176] = { nm="N", id="17342549", name="Dire_Gargouille", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[177] = { nm="N", id="17342488", name="Demon_Befouler", mj="1", sj="1", mlvl="82-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[178] = { nm="N", id="17342550", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -194,12 +194,12 @@
 	mb_data[186] = { nm="N", id="17342496", name="Demon_Justiciar", mj="15", sj="15", mlvl="80-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[187] = { nm="N", id="17342498", name="Dark_Elemental", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="M", links="N", spawntype="0", weak="Light", note="" }
 	mb_data[188] = { nm="N", id="17342499", name="Ice_Elemental", mj="4", sj="5", mlvl="0-0", behavior="0", aggro="M", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[189] = { nm="N", id="17342500", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[190] = { nm="N", id="17342501", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[191] = { nm="N", id="17342502", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[192] = { nm="N", id="17342503", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[193] = { nm="N", id="17342504", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
-	mb_data[194] = { nm="N", id="17342505", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[189] = { nm="N", id="17342500", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[190] = { nm="N", id="17342501", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[191] = { nm="N", id="17342502", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[192] = { nm="N", id="17342503", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[193] = { nm="N", id="17342504", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
+	mb_data[194] = { nm="N", id="17342505", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[195] = { nm="N", id="17342497", name="Demon_s_Elemental", mj="8", sj="8", mlvl="80-82", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[196] = { nm="N", id="17342486", name="Demon_s_Elemental", mj="8", sj="8", mlvl="80-82", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[197] = { nm="N", id="17342485", name="Demon_Justiciar", mj="15", sj="15", mlvl="80-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
@@ -242,12 +242,12 @@
 	mb_data[234] = { nm="N", id="17342543", name="Orcish_Protector", mj="7", sj="7", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[235] = { nm="N", id="17342544", name="Demon_Befouler", mj="1", sj="1", mlvl="82-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[236] = { nm="N", id="17342545", name="Demon_Befouler", mj="1", sj="1", mlvl="82-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[237] = { nm="N", id="17342546", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[237] = { nm="N", id="17342546", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[238] = { nm="N", id="17342508", name="Dire_Gargouille", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[239] = { nm="N", id="17342548", name="Dire_Gargouille", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="Y", spawntype="0", weak="???", note="" }
 	mb_data[240] = { nm="N", id="17342540", name="Orcish_Dragonbrander", mj="14", sj="14", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[241] = { nm="N", id="17342529", name="Demon_s_Elemental", mj="8", sj="8", mlvl="80-82", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[242] = { nm="N", id="17342547", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Piercing,Fire,Light", note="" }
+	mb_data[242] = { nm="N", id="17342547", name="Errand_Imp", mj="4", sj="4", mlvl="79-80", behavior="0", aggro="H,T(S)", links="N", spawntype="0", weak="Prc.,Fire,Light", note="" }
 	mb_data[243] = { nm="N", id="17342527", name="Demon_Befouler", mj="1", sj="1", mlvl="82-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[244] = { nm="N", id="17342528", name="Demon_Justiciar", mj="15", sj="15", mlvl="80-84", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[245] = { nm="N", id="17342510", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="0-0", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }

@@ -14,8 +14,8 @@
 	mb_data[6] = { nm="N", id="17396008", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[7] = { nm="N", id="17396007", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[8] = { nm="N", id="17396006", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[9] = { nm="N", id="17396005", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[10] = { nm="N", id="17396004", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[9] = { nm="N", id="17396005", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[10] = { nm="N", id="17396004", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[11] = { nm="N", id="17396003", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[12] = { nm="N", id="17396002", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[13] = { nm="N", id="17396001", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -31,20 +31,20 @@
 	mb_data[23] = { nm="N", id="17395990", name="Yagudo_Zealot", mj="2", sj="2", mlvl="42-46", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[24] = { nm="N", id="17395989", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[25] = { nm="N", id="17395988", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[26] = { nm="N", id="17396012", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[26] = { nm="N", id="17396012", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[27] = { nm="N", id="17395987", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[28] = { nm="N", id="17396013", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[28] = { nm="N", id="17396013", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[29] = { nm="N", id="17396015", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[30] = { nm="N", id="17396038", name="Yagudo_Prior", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[31] = { nm="N", id="17396037", name="Yagudo_Lutenist", mj="10", sj="10", mlvl="42-48", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[32] = { nm="N", id="17396036", name="Yagudo_Conquistador", mj="13", sj="13", mlvl="43-47", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[33] = { nm="N", id="17396035", name="Yagudo_Zealot", mj="2", sj="2", mlvl="42-46", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[34] = { nm="N", id="17396034", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[34] = { nm="N", id="17396034", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[35] = { nm="N", id="17396033", name="Yagudo_Prior", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[36] = { nm="N", id="17396032", name="Yagudo_Lutenist", mj="10", sj="10", mlvl="42-48", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[37] = { nm="N", id="17396031", name="Yagudo_Conquistador", mj="13", sj="13", mlvl="43-47", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[38] = { nm="N", id="17396030", name="Yagudo_Zealot", mj="2", sj="2", mlvl="42-46", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[39] = { nm="N", id="17396029", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[39] = { nm="N", id="17396029", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[40] = { nm="N", id="17396028", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[41] = { nm="N", id="17396027", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[42] = { nm="N", id="17396026", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -54,11 +54,11 @@
 	mb_data[46] = { nm="N", id="17396022", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[47] = { nm="N", id="17396021", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[48] = { nm="N", id="17396020", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[49] = { nm="N", id="17396019", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[49] = { nm="N", id="17396019", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[50] = { nm="N", id="17396018", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[51] = { nm="N", id="17396017", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[52] = { nm="N", id="17396016", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[53] = { nm="N", id="17396014", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[53] = { nm="N", id="17396014", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[54] = { nm="N", id="17395986", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[55] = { nm="N", id="17395985", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[56] = { nm="N", id="17395984", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
@@ -80,7 +80,7 @@
 	mb_data[72] = { nm="N", id="17395940", name="Yagudo_Lutenist", mj="10", sj="10", mlvl="42-48", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[73] = { nm="N", id="17395939", name="Yagudo_Conquistador", mj="13", sj="13", mlvl="43-47", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[74] = { nm="N", id="17395938", name="Yagudo_Zealot", mj="2", sj="2", mlvl="42-46", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[75] = { nm="N", id="17395937", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[75] = { nm="N", id="17395937", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[76] = { nm="N", id="17395936", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[77] = { nm="N", id="17395935", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[78] = { nm="N", id="17395934", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -98,8 +98,8 @@
 	mb_data[90] = { nm="N", id="17395977", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[91] = { nm="N", id="17395976", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[92] = { nm="N", id="17395975", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[93] = { nm="N", id="17395974", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[94] = { nm="N", id="17395973", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[93] = { nm="N", id="17395974", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[94] = { nm="N", id="17395973", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[95] = { nm="N", id="17396039", name="Yagudo_Zealot", mj="2", sj="2", mlvl="42-46", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[96] = { nm="N", id="17395972", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[97] = { nm="N", id="17395970", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -107,7 +107,7 @@
 	mb_data[99] = { nm="N", id="17395968", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[100] = { nm="N", id="17395967", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[101] = { nm="N", id="17395966", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[102] = { nm="N", id="17395965", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[102] = { nm="N", id="17395965", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[103] = { nm="N", id="17395964", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[104] = { nm="N", id="17395963", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[105] = { nm="N", id="17395962", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -152,7 +152,7 @@
 	mb_data[144] = { nm="N", id="17396144", name="Mimic", mj="1", sj="1", mlvl="65-69", behavior="0", aggro="H,M", links="N", spawntype="128", weak="Dark", note="" }
 	mb_data[145] = { nm="N", id="17396143", name="Yagudo_Muralist", mj="4", sj="4", mlvl="75-75", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[146] = { nm="N", id="17396142", name="Tebhi", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="Sc", links="N", spawntype="0", weak="Ice", note="" }
-	mb_data[147] = { nm="N", id="17396141", name="Odontotyrannus", mj="1", sj="1", mlvl="52-52", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[147] = { nm="N", id="17396141", name="Odontotyrannus", mj="1", sj="1", mlvl="52-52", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[148] = { nm="N", id="17396140", name="Huu_Xalmo_the_Savage", mj="2", sj="2", mlvl="63-63", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[149] = { nm="N", id="17396139", name="Yagudo_s_Avatar", mj="4", sj="4", mlvl="60-60", behavior="0", aggro="NA", links="N", spawntype="128", weak="???", note="" }
 	mb_data[150] = { nm="N", id="17396138", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
@@ -182,7 +182,7 @@
 	mb_data[174] = { nm="N", id="17396057", name="Yagudo_Lutenist", mj="10", sj="10", mlvl="42-48", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[175] = { nm="N", id="17396056", name="Yagudo_Conquistador", mj="13", sj="13", mlvl="43-47", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[176] = { nm="N", id="17396055", name="Yagudo_Zealot", mj="2", sj="2", mlvl="42-46", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[177] = { nm="N", id="17396054", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[177] = { nm="N", id="17396054", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[178] = { nm="N", id="17396053", name="Yagudo_Prior", mj="4", sj="4", mlvl="45-49", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[179] = { nm="N", id="17396052", name="Yagudo_Lutenist", mj="10", sj="10", mlvl="42-48", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[180] = { nm="N", id="17396051", name="Ooze", mj="1", sj="1", mlvl="38-40", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
@@ -209,7 +209,7 @@
 	mb_data[201] = { nm="N", id="17396085", name="Yagudo_Inquisitor", mj="12", sj="12", mlvl="54-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[202] = { nm="N", id="17396084", name="Yagudo_Chanter", mj="10", sj="10", mlvl="53-57", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[203] = { nm="N", id="17396083", name="Yagudo_Sentinel", mj="2", sj="2", mlvl="51-56", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[204] = { nm="N", id="17396041", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[204] = { nm="N", id="17396041", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[205] = { nm="N", id="17396082", name="Yagudo_Parasite", mj="1", sj="1", mlvl="45-48", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[206] = { nm="N", id="17396080", name="Yagudo_Parasite", mj="1", sj="1", mlvl="45-48", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[207] = { nm="N", id="17396079", name="Yagudo_Parasite", mj="1", sj="1", mlvl="45-48", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Light", note="" }
@@ -227,28 +227,28 @@
 	mb_data[219] = { nm="N", id="17395992", name="Yagudo_Conquistador", mj="13", sj="13", mlvl="43-47", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[220] = { nm="N", id="17395929", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[221] = { nm="N", id="17395810", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[222] = { nm="N", id="17395811", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[222] = { nm="N", id="17395811", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[223] = { nm="N", id="17395812", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[224] = { nm="N", id="17395813", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[225] = { nm="N", id="17395814", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[226] = { nm="N", id="17395815", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[226] = { nm="N", id="17395815", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[227] = { nm="Y", id="17395816", name="Moo_Ouzi_the_Swiftblade", mj="12", sj="12", mlvl="30-30", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[228] = { nm="N", id="17395817", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[229] = { nm="N", id="17395818", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[230] = { nm="N", id="17395819", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[231] = { nm="N", id="17395820", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[232] = { nm="N", id="17395821", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[233] = { nm="N", id="17395822", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[233] = { nm="N", id="17395822", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[234] = { nm="N", id="17395823", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[235] = { nm="N", id="17395824", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[236] = { nm="N", id="17395809", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[237] = { nm="N", id="17395825", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[238] = { nm="N", id="17395808", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[239] = { nm="N", id="17395806", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[240] = { nm="N", id="17395791", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[241] = { nm="N", id="17395792", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[242] = { nm="N", id="17395793", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[243] = { nm="N", id="17395794", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[240] = { nm="N", id="17395791", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[241] = { nm="N", id="17395792", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[242] = { nm="N", id="17395793", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[243] = { nm="N", id="17395794", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[244] = { nm="N", id="17395795", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[245] = { nm="N", id="17395796", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[246] = { nm="N", id="17395797", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
@@ -260,26 +260,26 @@
 	mb_data[252] = { nm="N", id="17395803", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[253] = { nm="N", id="17395804", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[254] = { nm="N", id="17395805", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[255] = { nm="N", id="17395807", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[255] = { nm="N", id="17395807", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[256] = { nm="N", id="17395826", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[257] = { nm="N", id="17395827", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[258] = { nm="N", id="17395828", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[259] = { nm="N", id="17395849", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[258] = { nm="N", id="17395828", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[259] = { nm="N", id="17395849", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[260] = { nm="N", id="17395850", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[261] = { nm="N", id="17395851", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[262] = { nm="N", id="17395852", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[263] = { nm="N", id="17395853", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[264] = { nm="N", id="17395854", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[265] = { nm="N", id="17395855", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[266] = { nm="N", id="17395856", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[267] = { nm="N", id="17395857", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[266] = { nm="N", id="17395856", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[267] = { nm="N", id="17395857", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[268] = { nm="N", id="17395858", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[269] = { nm="N", id="17395859", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
-	mb_data[270] = { nm="N", id="17395860", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[271] = { nm="N", id="17395861", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[272] = { nm="N", id="17395862", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[273] = { nm="N", id="17395863", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[274] = { nm="N", id="17395848", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[270] = { nm="N", id="17395860", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[271] = { nm="N", id="17395861", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[272] = { nm="N", id="17395862", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[273] = { nm="N", id="17395863", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[274] = { nm="N", id="17395848", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[275] = { nm="N", id="17395847", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[276] = { nm="N", id="17395846", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[277] = { nm="N", id="17395845", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -287,51 +287,51 @@
 	mb_data[279] = { nm="N", id="17395830", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[280] = { nm="N", id="17395831", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[281] = { nm="N", id="17395832", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[282] = { nm="N", id="17395833", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[283] = { nm="N", id="17395834", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[282] = { nm="N", id="17395833", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[283] = { nm="N", id="17395834", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[284] = { nm="N", id="17395835", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
-	mb_data[285] = { nm="N", id="17395790", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[285] = { nm="N", id="17395790", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[286] = { nm="N", id="17395836", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[287] = { nm="N", id="17395838", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[288] = { nm="N", id="17395839", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[289] = { nm="N", id="17395840", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[290] = { nm="N", id="17395841", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[289] = { nm="N", id="17395840", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[290] = { nm="N", id="17395841", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[291] = { nm="N", id="17395842", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[292] = { nm="N", id="17395843", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[293] = { nm="N", id="17395844", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[294] = { nm="N", id="17395837", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[295] = { nm="N", id="17395864", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[296] = { nm="N", id="17395789", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[295] = { nm="N", id="17395864", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[296] = { nm="N", id="17395789", name="Cutter", mj="7", sj="7", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[297] = { nm="N", id="17395787", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[298] = { nm="N", id="17395733", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[299] = { nm="N", id="17395734", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[300] = { nm="N", id="17395735", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[301] = { nm="N", id="17395736", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[302] = { nm="N", id="17395737", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[302] = { nm="N", id="17395737", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[303] = { nm="N", id="17395738", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[304] = { nm="N", id="17395739", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[305] = { nm="N", id="17395740", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[306] = { nm="N", id="17395741", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[307] = { nm="N", id="17395742", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[308] = { nm="N", id="17395743", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[308] = { nm="N", id="17395743", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[309] = { nm="N", id="17395744", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[310] = { nm="N", id="17395745", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[311] = { nm="N", id="17395746", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[312] = { nm="N", id="17395747", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[311] = { nm="N", id="17395746", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[312] = { nm="N", id="17395747", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[313] = { nm="N", id="17395732", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[314] = { nm="N", id="17395748", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[315] = { nm="N", id="17395730", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[315] = { nm="N", id="17395730", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[316] = { nm="N", id="17395728", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[317] = { nm="N", id="17395713", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[318] = { nm="N", id="17395714", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[319] = { nm="N", id="17395715", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[320] = { nm="N", id="17395716", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[319] = { nm="N", id="17395715", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[320] = { nm="N", id="17395716", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[321] = { nm="N", id="17395717", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[322] = { nm="N", id="17395718", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[323] = { nm="N", id="17395719", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[324] = { nm="N", id="17395720", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[325] = { nm="N", id="17395721", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[326] = { nm="N", id="17395722", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[325] = { nm="N", id="17395721", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[326] = { nm="N", id="17395722", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[327] = { nm="N", id="17395723", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[328] = { nm="N", id="17395724", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[329] = { nm="N", id="17395725", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -340,24 +340,24 @@
 	mb_data[332] = { nm="N", id="17395729", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[333] = { nm="N", id="17395749", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[334] = { nm="N", id="17395750", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[335] = { nm="N", id="17395751", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[335] = { nm="N", id="17395751", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[336] = { nm="N", id="17395772", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[337] = { nm="N", id="17395773", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[338] = { nm="N", id="17395774", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[339] = { nm="N", id="17395775", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[340] = { nm="N", id="17395776", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[341] = { nm="N", id="17395777", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[342] = { nm="N", id="17395778", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[343] = { nm="N", id="17395779", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[342] = { nm="N", id="17395778", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[343] = { nm="N", id="17395779", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[344] = { nm="N", id="17395930", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[345] = { nm="N", id="17395781", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[346] = { nm="N", id="17395782", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[347] = { nm="N", id="17395783", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[348] = { nm="N", id="17395784", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[349] = { nm="N", id="17395785", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[350] = { nm="N", id="17395786", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[351] = { nm="N", id="17395771", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[352] = { nm="N", id="17395770", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[349] = { nm="N", id="17395785", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[350] = { nm="N", id="17395786", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[351] = { nm="N", id="17395771", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[352] = { nm="N", id="17395770", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[353] = { nm="N", id="17395769", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[354] = { nm="N", id="17395768", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[355] = { nm="N", id="17395752", name="Yagudo_Votary", mj="2", sj="2", mlvl="22-26", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -365,13 +365,13 @@
 	mb_data[357] = { nm="N", id="17395754", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[358] = { nm="N", id="17395755", name="Yagudo_Theologist", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[359] = { nm="N", id="17395756", name="Yagudo_Priest", mj="3", sj="3", mlvl="24-28", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[360] = { nm="N", id="17395757", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[360] = { nm="N", id="17395757", name="Bastion_Bats", mj="1", sj="1", mlvl="18-21", behavior="0", aggro="H", links="Y", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[361] = { nm="N", id="17395758", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[362] = { nm="N", id="17395788", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[363] = { nm="N", id="17395759", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[364] = { nm="N", id="17395761", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[365] = { nm="N", id="17395762", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
-	mb_data[366] = { nm="N", id="17395763", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Lightning,Light,Dark", note="" }
+	mb_data[365] = { nm="N", id="17395762", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
+	mb_data[366] = { nm="N", id="17395763", name="Meat_Maggot", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H,Sc", links="Y", spawntype="0", weak="Ice,Ltng.,Light,Dark", note="" }
 	mb_data[367] = { nm="N", id="17395764", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[368] = { nm="N", id="17395765", name="Earth_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Wind", note="" }
 	mb_data[369] = { nm="N", id="17395766", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -380,14 +380,14 @@
 	mb_data[372] = { nm="N", id="17395865", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[373] = { nm="N", id="17395780", name="Fire_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[374] = { nm="N", id="17395878", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[375] = { nm="N", id="17395891", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[376] = { nm="N", id="17395879", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[375] = { nm="N", id="17395891", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[376] = { nm="N", id="17395879", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[377] = { nm="N", id="17395880", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[378] = { nm="N", id="17395881", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[379] = { nm="N", id="17395882", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[380] = { nm="N", id="17395883", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[381] = { nm="N", id="17395884", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[382] = { nm="N", id="17395885", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[382] = { nm="N", id="17395885", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[383] = { nm="N", id="17395886", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[384] = { nm="N", id="17395887", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[385] = { nm="N", id="17395888", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
@@ -398,7 +398,7 @@
 	mb_data[390] = { nm="N", id="17395901", name="Yagudo_Conquistador", mj="13", sj="13", mlvl="43-47", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[391] = { nm="N", id="17395927", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[392] = { nm="N", id="17395928", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[393] = { nm="N", id="17395900", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[393] = { nm="N", id="17395900", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[394] = { nm="N", id="17395899", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[395] = { nm="N", id="17395898", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[396] = { nm="N", id="17395897", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -423,7 +423,7 @@
 	mb_data[415] = { nm="N", id="17395912", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[416] = { nm="N", id="17395913", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[417] = { nm="N", id="17395914", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[418] = { nm="N", id="17395875", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[418] = { nm="N", id="17395875", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[419] = { nm="N", id="17395916", name="Yagudo_s_Elemental", mj="4", sj="4", mlvl="25-29", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[420] = { nm="N", id="17395917", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[421] = { nm="N", id="17395915", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
@@ -436,10 +436,10 @@
 	mb_data[428] = { nm="N", id="17395868", name="Yagudo_Oracle", mj="15", sj="15", mlvl="34-38", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[429] = { nm="N", id="17395924", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[430] = { nm="N", id="17395867", name="Yagudo_Herald", mj="13", sj="13", mlvl="32-36", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[431] = { nm="N", id="17395923", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[432] = { nm="N", id="17395922", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[431] = { nm="N", id="17395923", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[432] = { nm="N", id="17395922", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[433] = { nm="N", id="17395921", name="Yagudo_Interrogator", mj="12", sj="12", mlvl="35-39", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[434] = { nm="N", id="17395920", name="Yagudo_Drummer", mj="10", sj="10", mlvl="33-37", behavior="0", aggro="S", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[435] = { nm="N", id="17395918", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[435] = { nm="N", id="17395918", name="Bulwark_Bat", mj="1", sj="1", mlvl="29-31", behavior="0", aggro="H", links="N", spawntype="0", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 
 	return mb_data;

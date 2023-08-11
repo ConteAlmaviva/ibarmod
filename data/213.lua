@@ -9,9 +9,9 @@
 	mb_data[1] = { nm="N", id="17649669", name="Labyrinth_Leech", mj="1", sj="1", mlvl="45-48", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[2] = { nm="N", id="17649805", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[3] = { nm="N", id="17649794", name="Goblin_Miner", mj="6", sj="6", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[4] = { nm="Y", id="17649795", name="Hellion", mj="1", sj="1", mlvl="66-66", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="Slashing,Fire,Light", note="" }
-	mb_data[5] = { nm="N", id="17649796", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[6] = { nm="N", id="17649797", name="Tainted_Flesh", mj="1", sj="1", mlvl="60-63", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[4] = { nm="Y", id="17649795", name="Hellion", mj="1", sj="1", mlvl="66-66", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="Slsh.,Fire,Light", note="" }
+	mb_data[5] = { nm="N", id="17649796", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[6] = { nm="N", id="17649797", name="Tainted_Flesh", mj="1", sj="1", mlvl="60-63", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[7] = { nm="N", id="17649798", name="Goblin_Bouncer", mj="1", sj="1", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[8] = { nm="N", id="17649802", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[9] = { nm="N", id="17649800", name="Goblin_Miner", mj="6", sj="6", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -21,8 +21,8 @@
 	mb_data[13] = { nm="N", id="17649806", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[14] = { nm="N", id="17649721", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[15] = { nm="N", id="17649807", name="Air_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
-	mb_data[16] = { nm="N", id="17649809", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[17] = { nm="N", id="17649810", name="Tainted_Flesh", mj="1", sj="1", mlvl="60-63", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slashing,Fire,Light", note="" }
+	mb_data[16] = { nm="N", id="17649809", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[17] = { nm="N", id="17649810", name="Tainted_Flesh", mj="1", sj="1", mlvl="60-63", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Slsh.,Fire,Light", note="" }
 	mb_data[18] = { nm="N", id="17649811", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[19] = { nm="N", id="17649812", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[20] = { nm="N", id="17649813", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
@@ -32,15 +32,15 @@
 	mb_data[24] = { nm="N", id="17649790", name="Labyrinth_Manticore", mj="1", sj="1", mlvl="71-74", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[25] = { nm="N", id="17649789", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[26] = { nm="N", id="17649772", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[27] = { nm="N", id="17649769", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[28] = { nm="N", id="17649770", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[27] = { nm="N", id="17649769", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[28] = { nm="N", id="17649770", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[29] = { nm="N", id="17649771", name="Goblin_Miner", mj="6", sj="6", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[30] = { nm="N", id="17649799", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[31] = { nm="N", id="17649773", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[32] = { nm="N", id="17649774", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[31] = { nm="N", id="17649773", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[32] = { nm="N", id="17649774", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[33] = { nm="N", id="17649792", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[34] = { nm="N", id="17649776", name="Goblin_Bouncer", mj="1", sj="1", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[35] = { nm="N", id="17649777", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
+	mb_data[35] = { nm="N", id="17649777", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
 	mb_data[36] = { nm="N", id="17649778", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[37] = { nm="N", id="17649779", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[38] = { nm="N", id="17649780", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
@@ -48,7 +48,7 @@
 	mb_data[40] = { nm="N", id="17649782", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[41] = { nm="N", id="17649783", name="Labyrinth_Manticore", mj="1", sj="1", mlvl="71-74", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[42] = { nm="Y", id="17649784", name="Narasimha", mj="1", sj="1", mlvl="75-77", behavior="0", aggro="S,Sc", links="N", spawntype="128", weak="Water", note="" }
-	mb_data[43] = { nm="N", id="17649785", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
+	mb_data[43] = { nm="N", id="17649785", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
 	mb_data[44] = { nm="N", id="17649786", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[45] = { nm="N", id="17649787", name="Labyrinth_Manticore", mj="1", sj="1", mlvl="71-74", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[46] = { nm="N", id="17649788", name="Air_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
@@ -58,25 +58,25 @@
 	mb_data[50] = { nm="N", id="17649819", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[51] = { nm="N", id="17649845", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[52] = { nm="Y", id="17649818", name="Soulstealer_Skullnix", mj="6", sj="6", mlvl="69-71", behavior="0", aggro="S", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[53] = { nm="N", id="17649859", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[54] = { nm="N", id="17649860", name="Ubume", mj="1", sj="10", mlvl="60-65", behavior="0", aggro="S", links="N", spawntype="128", weak="Piercing,Ice", note="" }
-	mb_data[55] = { nm="N", id="17649861", name="Megapod_Megalops", mj="7", sj="7", mlvl="80-80", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[53] = { nm="N", id="17649859", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[54] = { nm="N", id="17649860", name="Ubume", mj="1", sj="10", mlvl="60-65", behavior="0", aggro="S", links="N", spawntype="128", weak="Prc.,Ice", note="" }
+	mb_data[55] = { nm="N", id="17649861", name="Megapod_Megalops", mj="7", sj="7", mlvl="80-80", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[56] = { nm="N", id="17649667", name="Goblin_Reaper", mj="8", sj="8", mlvl="46-49", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[57] = { nm="N", id="17649847", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[58] = { nm="N", id="17649848", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[59] = { nm="N", id="17649849", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[57] = { nm="N", id="17649847", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[58] = { nm="N", id="17649848", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[59] = { nm="N", id="17649849", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[60] = { nm="N", id="17649837", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[61] = { nm="N", id="17649850", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[62] = { nm="N", id="17649852", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[63] = { nm="N", id="17649853", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[64] = { nm="N", id="17649854", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[65] = { nm="N", id="17649855", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[66] = { nm="N", id="17649856", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
-	mb_data[67] = { nm="N", id="17649857", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[61] = { nm="N", id="17649850", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[62] = { nm="N", id="17649852", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[63] = { nm="N", id="17649853", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[64] = { nm="N", id="17649854", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[65] = { nm="N", id="17649855", name="Babaulas", mj="8", sj="8", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[66] = { nm="N", id="17649856", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
+	mb_data[67] = { nm="N", id="17649857", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[68] = { nm="N", id="17649666", name="Goblin_Robber", mj="6", sj="6", mlvl="46-49", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[69] = { nm="N", id="17649665", name="Goblin_Poacher", mj="11", sj="11", mlvl="46-49", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[70] = { nm="N", id="17649668", name="Labyrinth_Leech", mj="1", sj="1", mlvl="45-48", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[71] = { nm="N", id="17649851", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Hand-To-Hand,Impact,Fire,Light", note="" }
+	mb_data[71] = { nm="N", id="17649851", name="Boribaba", mj="4", sj="4", mlvl="81-84", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="H2H,Impact,Fire,Light", note="" }
 	mb_data[72] = { nm="N", id="17649827", name="Wyvern", mj="1", sj="1", mlvl="72-75", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[73] = { nm="N", id="17649858", name="Air_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[74] = { nm="N", id="17649840", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -87,22 +87,22 @@
 	mb_data[79] = { nm="N", id="17649824", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
 	mb_data[80] = { nm="N", id="17649826", name="Labyrinth_Manticore", mj="1", sj="1", mlvl="71-74", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[81] = { nm="N", id="17649825", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[82] = { nm="N", id="17649828", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[83] = { nm="N", id="17649830", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
+	mb_data[82] = { nm="N", id="17649828", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[83] = { nm="N", id="17649830", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
 	mb_data[84] = { nm="N", id="17649831", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[85] = { nm="N", id="17649832", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[86] = { nm="N", id="17649833", name="Goblin_s_Leech", mj="1", sj="1", mlvl="33-35", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[87] = { nm="N", id="17649835", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
+	mb_data[87] = { nm="N", id="17649835", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
 	mb_data[88] = { nm="N", id="17649838", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[89] = { nm="N", id="17649839", name="Goblin_s_Leech", mj="1", sj="1", mlvl="33-35", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[90] = { nm="N", id="17649834", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[91] = { nm="N", id="17649841", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
+	mb_data[91] = { nm="N", id="17649841", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
 	mb_data[92] = { nm="N", id="17649843", name="Goblin_Shepherd", mj="9", sj="9", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[93] = { nm="N", id="17649844", name="Goblin_s_Leech", mj="1", sj="1", mlvl="33-35", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[94] = { nm="N", id="17649846", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
+	mb_data[94] = { nm="N", id="17649846", name="Water_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
 	mb_data[95] = { nm="N", id="17649836", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[96] = { nm="N", id="17649817", name="Torama", mj="1", sj="1", mlvl="70-73", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Earth", note="" }
-	mb_data[97] = { nm="N", id="17649766", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[97] = { nm="N", id="17649766", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[98] = { nm="N", id="17649829", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[99] = { nm="N", id="17649775", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[100] = { nm="N", id="17649695", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -117,13 +117,13 @@
 	mb_data[109] = { nm="N", id="17649702", name="Cockatrice", mj="1", sj="1", mlvl="50-53", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[110] = { nm="N", id="17649706", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[111] = { nm="N", id="17649707", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[112] = { nm="N", id="17649708", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[112] = { nm="N", id="17649708", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[113] = { nm="N", id="17649705", name="Cockatrice", mj="1", sj="1", mlvl="50-53", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[114] = { nm="N", id="17649710", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[115] = { nm="N", id="17649709", name="Cockatrice", mj="1", sj="1", mlvl="50-53", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[116] = { nm="N", id="17649716", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[117] = { nm="N", id="17649717", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[118] = { nm="N", id="17649711", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[118] = { nm="N", id="17649711", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[119] = { nm="N", id="17649712", name="Goblin_Miner", mj="6", sj="6", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[120] = { nm="N", id="17649713", name="Air_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[121] = { nm="N", id="17649694", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -166,16 +166,16 @@
 	mb_data[158] = { nm="N", id="17649764", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[159] = { nm="N", id="17649753", name="Goblin_Bouncer", mj="1", sj="1", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[160] = { nm="N", id="17649754", name="Goblin_Miner", mj="6", sj="6", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[161] = { nm="N", id="17649755", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[161] = { nm="N", id="17649755", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[162] = { nm="N", id="17649756", name="Mushussu", mj="1", sj="1", mlvl="51-57", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[163] = { nm="N", id="17649757", name="Mushussu", mj="1", sj="1", mlvl="51-57", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[164] = { nm="N", id="17649758", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[165] = { nm="N", id="17649759", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[166] = { nm="N", id="17649760", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[167] = { nm="Y", id="17649761", name="Peg_Powler", mj="2", sj="2", mlvl="61-61", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[168] = { nm="N", id="17649762", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[164] = { nm="N", id="17649758", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[165] = { nm="N", id="17649759", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[166] = { nm="N", id="17649760", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[167] = { nm="Y", id="17649761", name="Peg_Powler", mj="2", sj="2", mlvl="61-61", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[168] = { nm="N", id="17649762", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[169] = { nm="N", id="17649720", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[170] = { nm="N", id="17649763", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[170] = { nm="N", id="17649763", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[171] = { nm="N", id="17649742", name="Mushussu", mj="1", sj="1", mlvl="51-57", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[172] = { nm="N", id="17649741", name="Cockatrice", mj="1", sj="1", mlvl="50-53", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[173] = { nm="N", id="17649768", name="Goblin_Enchanter", mj="5", sj="5", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
@@ -192,13 +192,13 @@
 	mb_data[184] = { nm="N", id="17649729", name="Goblin_Miner", mj="6", sj="6", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[185] = { nm="N", id="17649725", name="Air_Elemental", mj="4", sj="5", mlvl="60-62", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[186] = { nm="N", id="17649719", name="Goblin_Bouncer", mj="1", sj="1", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[187] = { nm="Y", id="17649731", name="Lord_of_Onzozo", mj="2", sj="4", mlvl="74-77", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[187] = { nm="Y", id="17649731", name="Lord_of_Onzozo", mj="2", sj="4", mlvl="74-77", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[188] = { nm="N", id="17649751", name="Goblin_Hunter", mj="11", sj="11", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[189] = { nm="N", id="17649733", name="Goblin_Bouncer", mj="1", sj="1", mlvl="51-58", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[190] = { nm="N", id="17649734", name="Cockatrice", mj="1", sj="1", mlvl="50-53", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[191] = { nm="N", id="17649735", name="Mushussu", mj="1", sj="1", mlvl="51-57", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 	mb_data[192] = { nm="N", id="17649736", name="Cockatrice", mj="1", sj="1", mlvl="50-53", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[193] = { nm="N", id="17649730", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[193] = { nm="N", id="17649730", name="Flying_Manta", mj="2", sj="2", mlvl="55-59", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[194] = { nm="N", id="17649738", name="Cockatrice", mj="1", sj="1", mlvl="50-53", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[195] = { nm="N", id="17649737", name="Mushussu", mj="1", sj="1", mlvl="51-57", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
 

@@ -417,7 +417,7 @@ ashita.register_event('render', function()
 					end
                     
                         
-					if mb_data[i].aggro ~= "NA" then
+					if mb_data[i].aggro ~= "NA" and mb_data[i].aggro ~= "Sc" then
                         local fcolor;
                         if mobrange ~= nil then
                             local maxlvl = tonumber(string.sub(mobrange, -2))
@@ -500,7 +500,7 @@ ashita.register_event('render', function()
 						end
 					end
                                            
-					if mb_data[i].aggro ~= "NA" then
+					if mb_data[i].aggro ~= "NA" and mb_data[i].aggro ~= "Sc" then
                         local fcolor;
                         if mobrange ~= nil then
                             local maxlvl = tonumber(string.sub(mobrange, -2))
@@ -572,22 +572,17 @@ ashita.register_event('render', function()
             if not tindex then
                 currIndex = target:GetTargetIndex();
             end
-            
-            local claimId = AshitaCore:GetDataManager():GetEntity():GetClaimServerId(target:GetTargetIndex());
-            
-            local m_assist = nil;
-                    
-            if player_table[tostring(claimId)] ~= nil then m_assist = player_table[tostring(claimId)]; end   
+           
 			
-            --f moblvl ~= "" then mlvl = moblvl; else mlvl = nil; end
+            
             
 			if (name ~= nil) then m_target = string.gsub(m_target,'$target',tentity.Name); end
 			if (m_id ~= nil) then m_target = string.gsub(m_target,'$id',target:GetTargetServerId()); end
 			if (m_ix ~= nil) then m_target = string.gsub(m_target,'$m_index',target:GetTargetIndex()); end
-            if (moblvl ~= "") then m_target = string.gsub(m_target,'$level',"[" .. moblvl .. "]"); else m_target = string.gsub(m_target,'$level',""); end
+            if (moblvl ~= "") then if (moblvl ~= "(NM)") then if string.sub(moblvl, 1, 1) == " " then moblvl = moblvl:sub(2); end; end; m_target = string.gsub(m_target,'$level',"[" .. moblvl .. "]"); else m_target = string.gsub(m_target,'$level',""); end
 			if (gpos ~= nil) then m_target = string.gsub(m_target,'$position', pX .. ',' .. pY .. ',' .. pZ); end
 			if (n_hp ~= nil) then m_target = string.gsub(m_target,'$hpp',tentity.HealthPercent); end
-            if (m_assist ~= nil) then m_target = m_target .. " [" .. "Claim: " .. m_assist .. "]"; end
+			if (n_hp ~= nil) then m_target = string.gsub(m_target,'$hpp',tentity.HealthPercent); end
            
             local a,r,g,b = ibar_config.font.color:match("([^,]+),([^,]+),([^,]+),([^,]+)");
             local fcolor = math.d3dcolor(a,r,g,b);

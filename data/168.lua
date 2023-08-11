@@ -78,17 +78,17 @@
 	mb_data[70] = { nm="N", id="17465392", name="Armoury_Crate", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(H),M", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[71] = { nm="N", id="17465393", name="Radiant_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[72] = { nm="N", id="17465394", name="Blizzard_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[73] = { nm="N", id="17465395", name="Lightning_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
+	mb_data[73] = { nm="N", id="17465395", name="Ltng._Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[74] = { nm="N", id="17465396", name="Chaos_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[75] = { nm="N", id="17465408", name="Purson", mj="8", sj="8", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[76] = { nm="N", id="17465397", name="Armoury_Crate", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(H),M", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[77] = { nm="N", id="17465399", name="Blizzard_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[78] = { nm="N", id="17465400", name="Lightning_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
+	mb_data[78] = { nm="N", id="17465400", name="Ltng._Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[79] = { nm="N", id="17465401", name="Chaos_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[80] = { nm="N", id="17465402", name="Armoury_Crate", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(H),M", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[81] = { nm="N", id="17465403", name="Radiant_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[82] = { nm="N", id="17465404", name="Blizzard_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[83] = { nm="N", id="17465405", name="Lightning_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
+	mb_data[83] = { nm="N", id="17465405", name="Ltng._Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[84] = { nm="N", id="17465406", name="Chaos_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[85] = { nm="N", id="17465398", name="Radiant_Wyvern", mj="1", sj="1", mlvl="75-75", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[86] = { nm="N", id="17465426", name="Nanaa_Mihgo", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(S)", links="Y", spawntype="0", weak="???", note="" }

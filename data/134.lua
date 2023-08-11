@@ -12,10 +12,10 @@
 	mb_data[4] = { nm="N", id="17326646", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[5] = { nm="N", id="17326463", name="Shisox_Widebrow", mj="12", sj="12", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[6] = { nm="N", id="17326461", name="Vanguard_Ronin", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[7] = { nm="N", id="17326464", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[8] = { nm="N", id="17326465", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[9] = { nm="N", id="17326466", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[10] = { nm="N", id="17326467", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[7] = { nm="N", id="17326464", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[8] = { nm="N", id="17326465", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[9] = { nm="N", id="17326466", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[10] = { nm="N", id="17326467", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[11] = { nm="N", id="17326645", name="Hydra_Bard", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[12] = { nm="N", id="17326474", name="Hydra_Monk", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[13] = { nm="N", id="17326469", name="Hydra_Warrior", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -31,13 +31,13 @@
 	mb_data[23] = { nm="N", id="17326460", name="Vanguard_Hitman", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[24] = { nm="N", id="17326480", name="Hydra_Paladin", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[25] = { nm="N", id="17326481", name="Hydra_Dark_Knight", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[26] = { nm="N", id="17326468", name="Dynamis_Statue", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[26] = { nm="N", id="17326468", name="Dynamis_Statue", mj="3", sj="3", mlvl="80-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[27] = { nm="N", id="17326459", name="Vanguard_Pitfighter", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[28] = { nm="N", id="17326444", name="Vanguard_Necromancer", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[29] = { nm="N", id="17326457", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[30] = { nm="N", id="17326432", name="Vanguard_Alchemist", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[31] = { nm="N", id="17326433", name="Vanguard_Alchemist", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[32] = { nm="N", id="17326483", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[32] = { nm="N", id="17326483", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[33] = { nm="N", id="17326431", name="Vanguard_Alchemist", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[34] = { nm="N", id="17326434", name="Vanguard_Maestro", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[35] = { nm="N", id="17326436", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
@@ -116,12 +116,12 @@
 	mb_data[108] = { nm="N", id="17326503", name="Hydra_Dragoon", mj="14", sj="14", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[109] = { nm="N", id="17326504", name="Hydra_s_Wyvern", mj="14", sj="14", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[110] = { nm="N", id="17326505", name="Hydra_Summoner", mj="15", sj="15", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[111] = { nm="N", id="17326837", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[111] = { nm="N", id="17326837", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[112] = { nm="N", id="17326506", name="Hydra_s_Avatar", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[113] = { nm="N", id="17326507", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[114] = { nm="N", id="17326508", name="Hydra_Warrior", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[115] = { nm="N", id="17326509", name="Hydra_Beastmaster", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[116] = { nm="N", id="17326510", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[116] = { nm="N", id="17326510", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[117] = { nm="N", id="17326511", name="Hydra_Samurai", mj="12", sj="12", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[118] = { nm="N", id="17326512", name="Hydra_Warrior", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[119] = { nm="N", id="17326514", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
@@ -142,19 +142,19 @@
 	mb_data[134] = { nm="N", id="17326414", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[135] = { nm="N", id="17326401", name="Gibberox_Pimplebeak", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[136] = { nm="N", id="17326415", name="Ruffbix_Jumbolobes", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[137] = { nm="N", id="17326900", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[138] = { nm="N", id="17326899", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[139] = { nm="N", id="17326898", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[140] = { nm="N", id="17326897", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[141] = { nm="N", id="17326896", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[142] = { nm="N", id="17326895", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[143] = { nm="N", id="17326894", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[144] = { nm="N", id="17326893", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[145] = { nm="N", id="17326892", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[146] = { nm="N", id="17326891", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[147] = { nm="N", id="17326890", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[148] = { nm="N", id="17326889", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[149] = { nm="N", id="17326901", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[137] = { nm="N", id="17326900", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[138] = { nm="N", id="17326899", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[139] = { nm="N", id="17326898", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[140] = { nm="N", id="17326897", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[141] = { nm="N", id="17326896", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[142] = { nm="N", id="17326895", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[143] = { nm="N", id="17326894", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[144] = { nm="N", id="17326893", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[145] = { nm="N", id="17326892", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[146] = { nm="N", id="17326891", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[147] = { nm="N", id="17326890", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[148] = { nm="N", id="17326889", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[149] = { nm="N", id="17326901", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[150] = { nm="N", id="17326400", name="Vanguard_Enchanter", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[151] = { nm="N", id="17326399", name="Vanguard_Enchanter", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[152] = { nm="N", id="17326398", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -185,26 +185,26 @@
 	mb_data[177] = { nm="N", id="17326395", name="Vanguard_Shaman", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[178] = { nm="N", id="17326396", name="Vanguard_Shaman", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[179] = { nm="N", id="17326397", name="Ascetox_Ratgums", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[180] = { nm="N", id="17326888", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[180] = { nm="N", id="17326888", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[181] = { nm="N", id="17326428", name="Vanguard_Pitfighter", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[182] = { nm="N", id="17326887", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[183] = { nm="N", id="17326885", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[184] = { nm="N", id="17326853", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[185] = { nm="N", id="17326852", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[186] = { nm="N", id="17326851", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[187] = { nm="N", id="17326850", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[188] = { nm="N", id="17326849", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[189] = { nm="N", id="17326848", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[190] = { nm="N", id="17326847", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[191] = { nm="N", id="17326846", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[192] = { nm="N", id="17326845", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[193] = { nm="N", id="17326844", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[194] = { nm="N", id="17326843", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[195] = { nm="N", id="17326842", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[196] = { nm="N", id="17326854", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[197] = { nm="N", id="17326841", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[198] = { nm="N", id="17326839", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[199] = { nm="N", id="17326838", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[182] = { nm="N", id="17326887", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[183] = { nm="N", id="17326885", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[184] = { nm="N", id="17326853", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[185] = { nm="N", id="17326852", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[186] = { nm="N", id="17326851", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[187] = { nm="N", id="17326850", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[188] = { nm="N", id="17326849", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[189] = { nm="N", id="17326848", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[190] = { nm="N", id="17326847", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[191] = { nm="N", id="17326846", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[192] = { nm="N", id="17326845", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[193] = { nm="N", id="17326844", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[194] = { nm="N", id="17326843", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[195] = { nm="N", id="17326842", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[196] = { nm="N", id="17326854", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[197] = { nm="N", id="17326841", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[198] = { nm="N", id="17326839", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[199] = { nm="N", id="17326838", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[200] = { nm="N", id="17326416", name="Vanguard_Maestro", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[201] = { nm="N", id="17326417", name="Vanguard_Pathfinder", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[202] = { nm="N", id="17326418", name="Vanguard_s_Slime", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(H),Sc", links="Y", spawntype="128", weak="Fire", note="" }
@@ -215,38 +215,38 @@
 	mb_data[207] = { nm="N", id="17326424", name="Vanguard_Pitfighter", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[208] = { nm="N", id="17326425", name="Vanguard_Tinkerer", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[209] = { nm="N", id="17326426", name="Vanguard_Tinkerer", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[210] = { nm="N", id="17326840", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[211] = { nm="N", id="17326855", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[212] = { nm="N", id="17326856", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[213] = { nm="N", id="17326857", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[214] = { nm="N", id="17326884", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[215] = { nm="N", id="17326883", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[216] = { nm="N", id="17326882", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[217] = { nm="N", id="17326881", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[218] = { nm="N", id="17326880", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[219] = { nm="N", id="17326879", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[220] = { nm="N", id="17326878", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[221] = { nm="N", id="17326877", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[222] = { nm="N", id="17326876", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[223] = { nm="N", id="17326875", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[224] = { nm="N", id="17326874", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[225] = { nm="N", id="17326873", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[226] = { nm="N", id="17326872", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[227] = { nm="N", id="17326871", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[228] = { nm="N", id="17326870", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[229] = { nm="N", id="17326869", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[230] = { nm="N", id="17326868", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[231] = { nm="N", id="17326867", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[232] = { nm="N", id="17326866", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[233] = { nm="N", id="17326865", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[234] = { nm="N", id="17326864", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[235] = { nm="N", id="17326863", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[236] = { nm="N", id="17326862", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[237] = { nm="N", id="17326861", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[238] = { nm="N", id="17326860", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[239] = { nm="N", id="17326859", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[240] = { nm="N", id="17326858", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[241] = { nm="N", id="17326886", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[210] = { nm="N", id="17326840", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[211] = { nm="N", id="17326855", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[212] = { nm="N", id="17326856", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[213] = { nm="N", id="17326857", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[214] = { nm="N", id="17326884", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[215] = { nm="N", id="17326883", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[216] = { nm="N", id="17326882", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[217] = { nm="N", id="17326881", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[218] = { nm="N", id="17326880", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[219] = { nm="N", id="17326879", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[220] = { nm="N", id="17326878", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[221] = { nm="N", id="17326877", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[222] = { nm="N", id="17326876", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[223] = { nm="N", id="17326875", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[224] = { nm="N", id="17326874", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[225] = { nm="N", id="17326873", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[226] = { nm="N", id="17326872", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[227] = { nm="N", id="17326871", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[228] = { nm="N", id="17326870", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[229] = { nm="N", id="17326869", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[230] = { nm="N", id="17326868", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[231] = { nm="N", id="17326867", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[232] = { nm="N", id="17326866", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[233] = { nm="N", id="17326865", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[234] = { nm="N", id="17326864", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[235] = { nm="N", id="17326863", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[236] = { nm="N", id="17326862", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[237] = { nm="N", id="17326861", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[238] = { nm="N", id="17326860", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[239] = { nm="N", id="17326859", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[240] = { nm="N", id="17326858", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[241] = { nm="N", id="17326886", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[242] = { nm="N", id="17326669", name="Hydra_Ranger", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[243] = { nm="N", id="17326734", name="Hydra_Dragoon", mj="14", sj="14", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[244] = { nm="N", id="17326671", name="Hydra_Dark_Knight", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -291,9 +291,9 @@
 	mb_data[283] = { nm="N", id="17326599", name="Hydra_Thief", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[284] = { nm="N", id="17326600", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[285] = { nm="N", id="17326601", name="Hydra_Beastmaster", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[286] = { nm="N", id="17326602", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[286] = { nm="N", id="17326602", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[287] = { nm="N", id="17326603", name="Hydra_Beastmaster", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[288] = { nm="N", id="17326604", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[288] = { nm="N", id="17326604", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[289] = { nm="N", id="17326605", name="Hydra_Thief", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[290] = { nm="N", id="17326606", name="Hydra_Dark_Knight", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[291] = { nm="N", id="17326607", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
@@ -311,11 +311,11 @@
 	mb_data[303] = { nm="N", id="17326590", name="Hydra_Ranger", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[304] = { nm="N", id="17326758", name="Hydra_Beastmaster", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[305] = { nm="N", id="17326761", name="Hydra_Black_Mage", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[306] = { nm="N", id="17326832", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[307] = { nm="N", id="17326833", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[308] = { nm="N", id="17326834", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[309] = { nm="N", id="17326835", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[310] = { nm="N", id="17326836", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[306] = { nm="N", id="17326832", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[307] = { nm="N", id="17326833", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[308] = { nm="N", id="17326834", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[309] = { nm="N", id="17326835", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[310] = { nm="N", id="17326836", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[311] = { nm="N", id="17326638", name="Hydra_Samurai", mj="12", sj="12", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[312] = { nm="N", id="17326637", name="Hydra_White_Mage", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[313] = { nm="N", id="17326636", name="Hydra_Thief", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -323,7 +323,7 @@
 	mb_data[315] = { nm="N", id="17326634", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[316] = { nm="N", id="17326619", name="Hydra_Monk", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[317] = { nm="N", id="17326633", name="Hydra_Monk", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[318] = { nm="N", id="17326831", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[318] = { nm="N", id="17326831", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[319] = { nm="N", id="17326632", name="Hydra_Paladin", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[320] = { nm="N", id="17326630", name="Hydra_Red_Mage", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[321] = { nm="N", id="17326629", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
@@ -338,7 +338,7 @@
 	mb_data[330] = { nm="N", id="17326620", name="Hydra_Ninja", mj="13", sj="13", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[331] = { nm="N", id="17326371", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[332] = { nm="N", id="17326631", name="Hydra_Red_Mage", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[333] = { nm="N", id="17326830", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[333] = { nm="N", id="17326830", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[334] = { nm="N", id="17326790", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[335] = { nm="N", id="17326789", name="Hydra_Dark_Knight", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[336] = { nm="N", id="17326762", name="Hydra_Dark_Knight", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -363,14 +363,14 @@
 	mb_data[355] = { nm="N", id="17326781", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[356] = { nm="N", id="17326782", name="Hydra_Warrior", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[357] = { nm="N", id="17326783", name="Hydra_Beastmaster", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[358] = { nm="N", id="17326784", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[358] = { nm="N", id="17326784", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[359] = { nm="N", id="17326785", name="Hydra_Monk", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[360] = { nm="N", id="17326786", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[361] = { nm="N", id="17326787", name="Hydra_Black_Mage", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[362] = { nm="N", id="17326788", name="Hydra_Red_Mage", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[363] = { nm="N", id="17326759", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[363] = { nm="N", id="17326759", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[364] = { nm="N", id="17326589", name="Hydra_Bard", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[365] = { nm="N", id="17326588", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[365] = { nm="N", id="17326588", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[366] = { nm="N", id="17326587", name="Hydra_Beastmaster", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[367] = { nm="N", id="17326702", name="Hydra_Red_Mage", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[368] = { nm="N", id="17326703", name="Hydra_Bard", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -386,7 +386,7 @@
 	mb_data[378] = { nm="N", id="17326713", name="Hydra_Paladin", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[379] = { nm="N", id="17326701", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[380] = { nm="N", id="17326714", name="Hydra_Dark_Knight", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[381] = { nm="N", id="17326716", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[381] = { nm="N", id="17326716", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[382] = { nm="N", id="17326717", name="Hydra_Warrior", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[383] = { nm="N", id="17326718", name="Hydra_Thief", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[384] = { nm="N", id="17326719", name="Hydra_Bard", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -416,7 +416,7 @@
 	mb_data[408] = { nm="N", id="17326683", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[409] = { nm="N", id="17326684", name="Hydra_Thief", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[410] = { nm="N", id="17326685", name="Hydra_Beastmaster", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[411] = { nm="N", id="17326686", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[411] = { nm="N", id="17326686", name="Hydra_s_Hound", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[412] = { nm="N", id="17326687", name="Hydra_Ranger", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[413] = { nm="N", id="17326688", name="Vanguard_Eye", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[414] = { nm="N", id="17326689", name="Hydra_Black_Mage", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -521,7 +521,7 @@
 	mb_data[513] = { nm="N", id="17326083", name="Poison_Pukis", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[514] = { nm="N", id="17326084", name="Wind_Pukis", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[515] = { nm="N", id="17326085", name="Petro_Pukis", mj="1", sj="1", mlvl="82-82", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[516] = { nm="N", id="17154542", name="GoBhusElite", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[516] = { nm="N", id="17154542", name="GoBhusElite", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[517] = { nm="N", id="17154527", name="QulunHeavyshel", mj="13", sj="13", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[518] = { nm="N", id="17154526", name="BiGhoHeadtake", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[519] = { nm="N", id="17154525", name="BeadeauxVangua", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -547,7 +547,7 @@
 	mb_data[539] = { nm="N", id="17154517", name="BeadeauxVangua", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[540] = { nm="N", id="17154518", name="BeadeauxVangua", mj="5", sj="5", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[541] = { nm="N", id="17154519", name="BeadeauxVangua", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[542] = { nm="N", id="17154520", name="BeadeauxVangua", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[542] = { nm="N", id="17154520", name="BeadeauxVangua", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[543] = { nm="N", id="17154521", name="BeadeauxVangua", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[544] = { nm="N", id="17154522", name="BeadeauxVangua", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[545] = { nm="N", id="17154523", name="BeadeauxVangua", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -556,65 +556,65 @@
 	mb_data[548] = { nm="N", id="17326087", name="Quiebitiel", mj="1", sj="1", mlvl="81-83", behavior="0", aggro="HP,T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[549] = { nm="N", id="17326088", name="Mildaunegeux", mj="1", sj="1", mlvl="81-83", behavior="0", aggro="HP,T(S)", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[550] = { nm="N", id="17326089", name="Velosareon", mj="1", sj="1", mlvl="81-83", behavior="0", aggro="HP,T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[551] = { nm="N", id="17326129", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[552] = { nm="N", id="17326130", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[553] = { nm="N", id="17154372", name="ZaDhaAdamantk", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[554] = { nm="N", id="17326131", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[555] = { nm="N", id="17326132", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[556] = { nm="N", id="17326133", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[557] = { nm="N", id="17326134", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[551] = { nm="N", id="17326129", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[552] = { nm="N", id="17326130", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[553] = { nm="N", id="17154372", name="ZaDhaAdamantk", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[554] = { nm="N", id="17326131", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[555] = { nm="N", id="17326132", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[556] = { nm="N", id="17326133", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[557] = { nm="N", id="17326134", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[558] = { nm="N", id="17326135", name="Ga_Fho_Venomtouch", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[559] = { nm="N", id="17326136", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[560] = { nm="N", id="17326137", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[561] = { nm="N", id="17326138", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[562] = { nm="N", id="17326139", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[563] = { nm="N", id="17326140", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[564] = { nm="N", id="17326141", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[565] = { nm="N", id="17326142", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[566] = { nm="N", id="17326143", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[559] = { nm="N", id="17326136", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[560] = { nm="N", id="17326137", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[561] = { nm="N", id="17326138", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[562] = { nm="N", id="17326139", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[563] = { nm="N", id="17326140", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[564] = { nm="N", id="17326141", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[565] = { nm="N", id="17326142", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[566] = { nm="N", id="17326143", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[567] = { nm="N", id="17326144", name="Vanguard_s_Scorpion", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[568] = { nm="N", id="17326145", name="Ta_Hyu_Gallanthunter", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[569] = { nm="N", id="17326146", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[568] = { nm="N", id="17326145", name="Ta_Hyu_Gallanthunter", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[569] = { nm="N", id="17326146", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[570] = { nm="N", id="17326147", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[571] = { nm="N", id="17326148", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[572] = { nm="N", id="17326149", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[573] = { nm="N", id="17326150", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[574] = { nm="N", id="17326151", name="Nu_Bhi_Spiraleye", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[575] = { nm="N", id="17326152", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[576] = { nm="N", id="17326153", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[577] = { nm="N", id="17326154", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[578] = { nm="N", id="17326128", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[571] = { nm="N", id="17326148", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[572] = { nm="N", id="17326149", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[573] = { nm="N", id="17326150", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[574] = { nm="N", id="17326151", name="Nu_Bhi_Spiraleye", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[575] = { nm="N", id="17326152", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[576] = { nm="N", id="17326153", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[577] = { nm="N", id="17326154", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[578] = { nm="N", id="17326128", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[579] = { nm="N", id="17154497", name="DiDhasElite", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[580] = { nm="N", id="17326127", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[580] = { nm="N", id="17326127", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[581] = { nm="N", id="17326125", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[582] = { nm="N", id="17326090", name="Dagourmarche", mj="1", sj="1", mlvl="82-84", behavior="0", aggro="HP,T(H)", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[583] = { nm="N", id="17326099", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[584] = { nm="N", id="17326100", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[585] = { nm="N", id="17326101", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[586] = { nm="N", id="17326102", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[587] = { nm="N", id="17326103", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[583] = { nm="N", id="17326099", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[584] = { nm="N", id="17326100", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[585] = { nm="N", id="17326101", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[586] = { nm="N", id="17326102", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[587] = { nm="N", id="17326103", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[588] = { nm="N", id="17326104", name="Vanguard_s_Scorpion", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[589] = { nm="N", id="17326105", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[590] = { nm="N", id="17326106", name="Gu_Nha_Wallstormer", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[591] = { nm="N", id="17326107", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[592] = { nm="N", id="17326108", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[593] = { nm="N", id="17326109", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[594] = { nm="N", id="17326110", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[595] = { nm="N", id="17326111", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[589] = { nm="N", id="17326105", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[590] = { nm="N", id="17326106", name="Gu_Nha_Wallstormer", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[591] = { nm="N", id="17326107", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[592] = { nm="N", id="17326108", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[593] = { nm="N", id="17326109", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[594] = { nm="N", id="17326110", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[595] = { nm="N", id="17326111", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[596] = { nm="N", id="17326112", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[597] = { nm="N", id="17326113", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[598] = { nm="N", id="17326114", name="Na_Hya_Floodmaker", mj="5", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[599] = { nm="N", id="17326115", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[600] = { nm="N", id="17326116", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[601] = { nm="N", id="17326117", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[602] = { nm="N", id="17326118", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[603] = { nm="N", id="17326119", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[604] = { nm="N", id="17326120", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[605] = { nm="N", id="17326121", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[606] = { nm="N", id="17326122", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[607] = { nm="N", id="17326123", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[608] = { nm="N", id="17326124", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[609] = { nm="N", id="17326126", name="Ji_Fhu_Infiltrator", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[597] = { nm="N", id="17326113", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[598] = { nm="N", id="17326114", name="Na_Hya_Floodmaker", mj="5", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[599] = { nm="N", id="17326115", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[600] = { nm="N", id="17326116", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[601] = { nm="N", id="17326117", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[602] = { nm="N", id="17326118", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[603] = { nm="N", id="17326119", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[604] = { nm="N", id="17326120", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[605] = { nm="N", id="17326121", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[606] = { nm="N", id="17326122", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[607] = { nm="N", id="17326123", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[608] = { nm="N", id="17326124", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[609] = { nm="N", id="17326126", name="Ji_Fhu_Infiltrator", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[610] = { nm="N", id="17154496", name="DiDhaAdamantf", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[611] = { nm="N", id="17154495", name="RepublicSuppli", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[612] = { nm="N", id="17154494", name="RepublicSuppli", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -651,7 +651,7 @@
 	mb_data[643] = { nm="N", id="17154401", name="ZaDhasBiogra", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[644] = { nm="N", id="17154374", name="DiMhoPlatekee", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[645] = { nm="N", id="17154375", name="ZiBheGauntlet", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[646] = { nm="N", id="17154376", name="ZoBhaHelmkeep", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[646] = { nm="N", id="17154376", name="ZoBhaHelmkeep", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[647] = { nm="N", id="17154377", name="ZaDhaAdamantk", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[648] = { nm="N", id="17154378", name="ArmouryCrate", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[649] = { nm="N", id="17154379", name="DiMhoPlatekee", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -677,7 +677,7 @@
 	mb_data[669] = { nm="N", id="17154399", name="ZaDhaAdamantk", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[670] = { nm="N", id="17154400", name="ZaDhasBiogra", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[671] = { nm="N", id="17154402", name="ZaDhasMinist", mj="12", sj="12", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[672] = { nm="N", id="17326155", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[672] = { nm="N", id="17326155", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[673] = { nm="N", id="17154433", name="2ndLegionnaire", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[674] = { nm="N", id="17154435", name="Elivira", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[675] = { nm="N", id="17154467", name="NailBomb", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -693,7 +693,7 @@
 	mb_data[685] = { nm="N", id="17154477", name="1stLegionAidm", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[686] = { nm="N", id="17154478", name="1stLegionAidm", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[687] = { nm="N", id="17154479", name="1stLegionAidm", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[688] = { nm="N", id="17154480", name="AlliedArmored", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[688] = { nm="N", id="17154480", name="AlliedArmored", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[689] = { nm="N", id="17154481", name="1stLegionMerc", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[690] = { nm="N", id="17154482", name="1stLegionMerc", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[691] = { nm="N", id="17154483", name="1stLegionMerc", mj="10", sj="10", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -725,7 +725,7 @@
 	mb_data[717] = { nm="N", id="17154447", name="8thIronMusket", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[718] = { nm="N", id="17154448", name="8thIronMusket", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[719] = { nm="N", id="17154449", name="8thIronMusket", mj="9", sj="9", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[720] = { nm="N", id="17154450", name="8thIronMusket", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slashing,Fire,Light", note="" }
+	mb_data[720] = { nm="N", id="17154450", name="8thIronMusket", mj="5", sj="5", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Slsh.,Fire,Light", note="" }
 	mb_data[721] = { nm="N", id="17154451", name="8thIronMusket", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[722] = { nm="N", id="17154452", name="8thIronMusket", mj="4", sj="5", mlvl="80-80", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[723] = { nm="N", id="17154453", name="8thIronMusket", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
@@ -740,7 +740,7 @@
 	mb_data[732] = { nm="N", id="17154462", name="AlliedMantelet", mj="8", sj="8", mlvl="78-80", behavior="0", aggro="S,H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[733] = { nm="N", id="17154464", name="AlliedMantelet", mj="4", sj="4", mlvl="73-75", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[734] = { nm="N", id="17326369", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[735] = { nm="N", id="17326156", name="De_Bho_Pyrohand", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[735] = { nm="N", id="17326156", name="De_Bho_Pyrohand", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[736] = { nm="N", id="17326158", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[737] = { nm="N", id="17326313", name="Ryy_Qihi_the_Idolrobber", mj="6", sj="6", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[738] = { nm="N", id="17326314", name="Vanguard_Salvager", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -756,9 +756,9 @@
 	mb_data[748] = { nm="N", id="17326324", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[749] = { nm="N", id="17326325", name="Kuu_Xuka_the_Nimble", mj="13", sj="13", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[750] = { nm="N", id="17326326", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[751] = { nm="N", id="17326327", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[751] = { nm="N", id="17326327", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[752] = { nm="N", id="17326328", name="Soo_Jopo_the_Fiendking", mj="9", sj="1", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[753] = { nm="N", id="17326329", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[753] = { nm="N", id="17326329", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[754] = { nm="N", id="17326330", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[755] = { nm="N", id="17326331", name="Vanguard_Partisan", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[756] = { nm="N", id="17326332", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
@@ -783,7 +783,7 @@
 	mb_data[775] = { nm="N", id="17326289", name="Xaa_Chau_the_Roctalon", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[776] = { nm="N", id="17326290", name="Vanguard_Exemplar", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[777] = { nm="N", id="17326291", name="Vanguard_Ogresoother", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[778] = { nm="N", id="17326292", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Piercing,Ice", note="" }
+	mb_data[778] = { nm="N", id="17326292", name="Vanguard_s_Crow", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Prc.,Ice", note="" }
 	mb_data[779] = { nm="N", id="17326293", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[780] = { nm="N", id="17326294", name="Vanguard_Priest", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[781] = { nm="N", id="17326295", name="Koo_Saxu_the_Everfast", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
@@ -804,47 +804,47 @@
 	mb_data[796] = { nm="N", id="17326281", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[797] = { nm="N", id="17326341", name="Vanguard_Assassin", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[798] = { nm="N", id="17326343", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[799] = { nm="N", id="17326927", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[800] = { nm="N", id="17326926", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[801] = { nm="N", id="17326925", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[802] = { nm="N", id="17326924", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[803] = { nm="N", id="17326923", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[804] = { nm="N", id="17326922", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[805] = { nm="N", id="17326921", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[806] = { nm="N", id="17326920", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[807] = { nm="N", id="17326919", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[808] = { nm="N", id="17326918", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[809] = { nm="N", id="17326917", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[810] = { nm="N", id="17326916", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[811] = { nm="N", id="17326915", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[812] = { nm="N", id="17326914", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[813] = { nm="N", id="17326913", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[814] = { nm="N", id="17326912", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[815] = { nm="N", id="17326911", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[816] = { nm="N", id="17326910", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[817] = { nm="N", id="17326909", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[818] = { nm="N", id="17326908", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[819] = { nm="N", id="17326907", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[820] = { nm="N", id="17326906", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[821] = { nm="N", id="17326905", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[822] = { nm="N", id="17326904", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[823] = { nm="N", id="17326903", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[824] = { nm="N", id="17326902", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[799] = { nm="N", id="17326927", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[800] = { nm="N", id="17326926", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[801] = { nm="N", id="17326925", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[802] = { nm="N", id="17326924", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[803] = { nm="N", id="17326923", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[804] = { nm="N", id="17326922", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[805] = { nm="N", id="17326921", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[806] = { nm="N", id="17326920", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[807] = { nm="N", id="17326919", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[808] = { nm="N", id="17326918", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[809] = { nm="N", id="17326917", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[810] = { nm="N", id="17326916", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[811] = { nm="N", id="17326915", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[812] = { nm="N", id="17326914", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[813] = { nm="N", id="17326913", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[814] = { nm="N", id="17326912", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[815] = { nm="N", id="17326911", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[816] = { nm="N", id="17326910", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[817] = { nm="N", id="17326909", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[818] = { nm="N", id="17326908", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[819] = { nm="N", id="17326907", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[820] = { nm="N", id="17326906", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[821] = { nm="N", id="17326905", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[822] = { nm="N", id="17326904", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[823] = { nm="N", id="17326903", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[824] = { nm="N", id="17326902", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[825] = { nm="N", id="17326367", name="Vanguard_Ambusher", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[826] = { nm="N", id="17326928", name="Adamantking_Effigy", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[826] = { nm="N", id="17326928", name="Adamantking_Effigy", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[827] = { nm="N", id="17326342", name="Vanguard_Persecutor", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[828] = { nm="N", id="17326929", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[829] = { nm="N", id="17326931", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[828] = { nm="N", id="17326929", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[829] = { nm="N", id="17326931", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[830] = { nm="N", id="17326344", name="Knii_Hoqo_the_Bisector", mj="12", sj="12", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[831] = { nm="N", id="17326345", name="Vanguard_Oracle", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[832] = { nm="N", id="17326346", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[833] = { nm="N", id="17326347", name="Puu_Timu_the_Phantasmal", mj="15", sj="15", mlvl="78-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[834] = { nm="N", id="17326348", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[835] = { nm="N", id="17326349", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[836] = { nm="N", id="17326350", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[837] = { nm="N", id="17326351", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[838] = { nm="N", id="17326352", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[839] = { nm="N", id="17326353", name="Dynamis_Icon", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[835] = { nm="N", id="17326349", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[836] = { nm="N", id="17326350", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[837] = { nm="N", id="17326351", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[838] = { nm="N", id="17326352", name="Avatar_Icon", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[839] = { nm="N", id="17326353", name="Dynamis_Icon", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[840] = { nm="N", id="17326354", name="Vanguard_Smithy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[841] = { nm="N", id="17326355", name="Vanguard_Pitfighter", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[842] = { nm="N", id="17326356", name="Vanguard_Shaman", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
@@ -858,32 +858,32 @@
 	mb_data[850] = { nm="N", id="17326364", name="Vanguard_Shaman", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[851] = { nm="N", id="17326365", name="Vanguard_Armorer", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
 	mb_data[852] = { nm="N", id="17326366", name="Vanguard_Maestro", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Light", note="" }
-	mb_data[853] = { nm="N", id="17326935", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[854] = { nm="N", id="17326934", name="Serjeant_Tombstone", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[855] = { nm="N", id="17326933", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[856] = { nm="N", id="17326932", name="Adamantking_Effigy", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[857] = { nm="N", id="17326930", name="Serjeant_Tombstone", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[858] = { nm="N", id="17326157", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[853] = { nm="N", id="17326935", name="Avatar_Icon", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[854] = { nm="N", id="17326934", name="Serjeant_Tombstone", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[855] = { nm="N", id="17326933", name="Goblin_Statue", mj="3", sj="3", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[856] = { nm="N", id="17326932", name="Adamantking_Effigy", mj="4", sj="4", mlvl="78-80", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[857] = { nm="N", id="17326930", name="Serjeant_Tombstone", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[858] = { nm="N", id="17326157", name="Vanguard_Drakekeeper", mj="14", sj="14", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[859] = { nm="N", id="17326280", name="Vanguard_Sentinel", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ice", note="" }
-	mb_data[860] = { nm="N", id="17326278", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[861] = { nm="N", id="17326190", name="Ji_Khu_Towercleaver", mj="12", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[862] = { nm="N", id="17326191", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[863] = { nm="N", id="17326192", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[864] = { nm="N", id="17326193", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[865] = { nm="N", id="17326194", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[866] = { nm="N", id="17326195", name="Mi_Rhe_Whisperblade", mj="13", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[867] = { nm="N", id="17326196", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[868] = { nm="N", id="17326197", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[869] = { nm="N", id="17326198", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[870] = { nm="N", id="17326199", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[860] = { nm="N", id="17326278", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[861] = { nm="N", id="17326190", name="Ji_Khu_Towercleaver", mj="12", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[862] = { nm="N", id="17326191", name="Vanguard_Protector", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[863] = { nm="N", id="17326192", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[864] = { nm="N", id="17326193", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[865] = { nm="N", id="17326194", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[866] = { nm="N", id="17326195", name="Mi_Rhe_Whisperblade", mj="13", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[867] = { nm="N", id="17326196", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[868] = { nm="N", id="17326197", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[869] = { nm="N", id="17326198", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[870] = { nm="N", id="17326199", name="Vanguard_Undertaker", mj="15", sj="15", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[871] = { nm="N", id="17326200", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[872] = { nm="N", id="17326201", name="Be_Zhe_Keeprazer", mj="15", sj="15", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[872] = { nm="N", id="17326201", name="Be_Zhe_Keeprazer", mj="15", sj="15", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[873] = { nm="N", id="17326202", name="Vanguard_s_Avatar", mj="4", sj="4", mlvl="72-74", behavior="0", aggro="NA", links="Y", spawntype="128", weak="???", note="" }
-	mb_data[874] = { nm="N", id="17326203", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[875] = { nm="N", id="17326204", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[876] = { nm="N", id="17326205", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[877] = { nm="N", id="17326206", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[878] = { nm="N", id="17326207", name="Dynamis_Effigy", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[874] = { nm="N", id="17326203", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[875] = { nm="N", id="17326204", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[876] = { nm="N", id="17326205", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[877] = { nm="N", id="17326206", name="Adamantking_Effigy", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,H", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[878] = { nm="N", id="17326207", name="Dynamis_Effigy", mj="4", sj="4", mlvl="80-80", behavior="0", aggro="T(H)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[879] = { nm="N", id="17326208", name="Vanguard_Trooper", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[880] = { nm="N", id="17326209", name="Vanguard_Neckchopper", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[881] = { nm="N", id="17326210", name="Vanguard_Footsoldier", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
@@ -893,39 +893,39 @@
 	mb_data[885] = { nm="N", id="17326214", name="Vanguard_Vexer", mj="5", sj="5", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[886] = { nm="N", id="17326215", name="Vanguard_Backstabber", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[887] = { nm="N", id="17326216", name="Jeunoraider_Gepkzip", mj="13", sj="13", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[888] = { nm="N", id="17326189", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[888] = { nm="N", id="17326189", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[889] = { nm="N", id="17326217", name="Vanguard_Grappler", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
-	mb_data[890] = { nm="N", id="17326188", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[891] = { nm="N", id="17326186", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[892] = { nm="N", id="17326159", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[893] = { nm="N", id="17326160", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[894] = { nm="N", id="17326161", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[895] = { nm="N", id="17326162", name="Go_Tyo_Magenapper", mj="14", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[890] = { nm="N", id="17326188", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[891] = { nm="N", id="17326186", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[892] = { nm="N", id="17326159", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[893] = { nm="N", id="17326160", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[894] = { nm="N", id="17326161", name="Vanguard_Kusa", mj="13", sj="13", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[895] = { nm="N", id="17326162", name="Go_Tyo_Magenapper", mj="14", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[896] = { nm="N", id="17326163", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[897] = { nm="N", id="17326164", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[898] = { nm="N", id="17326165", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[899] = { nm="N", id="17326166", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[900] = { nm="N", id="17326167", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[901] = { nm="N", id="17326168", name="So_Zho_Metalbender", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[902] = { nm="N", id="17326169", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[903] = { nm="N", id="17326170", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[904] = { nm="N", id="17326171", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[905] = { nm="N", id="17326172", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[906] = { nm="N", id="17326173", name="Mu_Gha_Legionkiller", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[907] = { nm="N", id="17326174", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[908] = { nm="N", id="17326175", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[909] = { nm="N", id="17326176", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[910] = { nm="N", id="17326177", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
+	mb_data[897] = { nm="N", id="17326164", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[898] = { nm="N", id="17326165", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[899] = { nm="N", id="17326166", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[900] = { nm="N", id="17326167", name="Vanguard_Militant", mj="2", sj="2", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[901] = { nm="N", id="17326168", name="So_Zho_Metalbender", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[902] = { nm="N", id="17326169", name="Vanguard_Vindicator", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[903] = { nm="N", id="17326170", name="Vanguard_Constable", mj="3", sj="3", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[904] = { nm="N", id="17326171", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[905] = { nm="N", id="17326172", name="Vanguard_Defender", mj="7", sj="7", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[906] = { nm="N", id="17326173", name="Mu_Gha_Legionkiller", mj="7", sj="7", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[907] = { nm="N", id="17326174", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[908] = { nm="N", id="17326175", name="Vanguard_Purloiner", mj="6", sj="6", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[909] = { nm="N", id="17326176", name="Vanguard_Minstrel", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[910] = { nm="N", id="17326177", name="Vanguard_Beasttender", mj="9", sj="9", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
 	mb_data[911] = { nm="N", id="17326178", name="Vanguard_s_Scorpion", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[912] = { nm="N", id="17326179", name="So_Gho_Adderhandler", mj="9", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[912] = { nm="N", id="17326179", name="So_Gho_Adderhandler", mj="9", sj="1", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[913] = { nm="N", id="17326180", name="Vanguard_s_Scorpion", mj="5", sj="5", mlvl="72-74", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[914] = { nm="N", id="17326181", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[915] = { nm="N", id="17326182", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[916] = { nm="N", id="17326183", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[917] = { nm="N", id="17326184", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[918] = { nm="N", id="17326185", name="Gu_Khu_Dukesniper", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[919] = { nm="N", id="17326187", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Piercing,Fire,Light", note="" }
-	mb_data[920] = { nm="N", id="17326279", name="Dynamis_Tombstone", mj="5", sj="5", mlvl="80-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[914] = { nm="N", id="17326181", name="Vanguard_Vigilante", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[915] = { nm="N", id="17326182", name="Vanguard_Hatamoto", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[916] = { nm="N", id="17326183", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[917] = { nm="N", id="17326184", name="Vanguard_Mason", mj="11", sj="11", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[918] = { nm="N", id="17326185", name="Gu_Khu_Dukesniper", mj="11", sj="11", mlvl="78-80", behavior="0", aggro="H,Sc", links="Y", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[919] = { nm="N", id="17326187", name="Vanguard_Thaumaturge", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="H", links="Y", spawntype="128", weak="Prc.,Fire,Light", note="" }
+	mb_data[920] = { nm="N", id="17326279", name="Dynamis_Tombstone", mj="5", sj="5", mlvl="80-80", behavior="0", aggro="T(S)", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[921] = { nm="N", id="17326218", name="Cobraclaw_Buchzvotch", mj="2", sj="2", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[922] = { nm="N", id="17326220", name="Vanguard_Gutslasher", mj="12", sj="12", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[923] = { nm="N", id="17326251", name="Vanguard_Bugler", mj="10", sj="10", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
@@ -952,9 +952,9 @@
 	mb_data[944] = { nm="N", id="17326272", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
 	mb_data[945] = { nm="N", id="17326273", name="Drakefeast_Wubmfub", mj="14", sj="14", mlvl="78-80", behavior="0", aggro="T(S),Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[946] = { nm="N", id="17326274", name="Vanguard_s_Wyvern", mj="14", sj="14", mlvl="72-74", behavior="0", aggro="S", links="Y", spawntype="128", weak="Dark", note="" }
-	mb_data[947] = { nm="N", id="17326275", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[948] = { nm="N", id="17326276", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
-	mb_data[949] = { nm="N", id="17326277", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Lightning", note="" }
+	mb_data[947] = { nm="N", id="17326275", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[948] = { nm="N", id="17326276", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
+	mb_data[949] = { nm="N", id="17326277", name="Serjeant_Tombstone", mj="4", sj="4", mlvl="77-79", behavior="0", aggro="S", links="Y", spawntype="128", weak="Ltng.", note="" }
 	mb_data[950] = { nm="N", id="17326250", name="Vanguard_Footsoldier", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[951] = { nm="N", id="17326219", name="Vanguard_Footsoldier", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }
 	mb_data[952] = { nm="N", id="17326249", name="Vanguard_Neckchopper", mj="8", sj="8", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="128", weak="Water", note="" }

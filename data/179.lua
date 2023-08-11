@@ -23,7 +23,7 @@
 	mb_data[15] = { nm="N", id="17510479", name="Kam_lanaut", mj="5", sj="5", mlvl="75-75", behavior="0", aggro="T(H),T(S)", links="Y", spawntype="128", weak="???", note="" }
 	mb_data[16] = { nm="N", id="17510482", name="Zeid", mj="8", sj="8", mlvl="0-0", behavior="0", aggro="T(S)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[17] = { nm="N", id="17510484", name="Eald_narche", mj="4", sj="1", mlvl="0-0", behavior="0", aggro="T(H),T(S)", links="N", spawntype="0", weak="???", note="" }
-	mb_data[18] = { nm="N", id="17510513", name="Zazarg", mj="2", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Lightning,Water,Light,Dark", note="" }
+	mb_data[18] = { nm="N", id="17510513", name="Zazarg", mj="2", sj="1", mlvl="0-0", behavior="0", aggro="NA", links="N", spawntype="0", weak="Fire,Ice,Wind,Earth,Ltng.,Water,Light,Dark", note="" }
 	mb_data[19] = { nm="N", id="17510519", name="Seed_Crystal", mj="4", sj="4", mlvl="0-0", behavior="0", aggro="T(H)", links="N", spawntype="0", weak="???", note="" }
 	mb_data[20] = { nm="N", id="17510458", name="Seed_Thrall", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(H),Sc", links="N", spawntype="0", weak="???", note="" }
 	mb_data[21] = { nm="N", id="17510469", name="Seed_Thrall", mj="1", sj="1", mlvl="0-0", behavior="0", aggro="T(H),Sc", links="N", spawntype="0", weak="???", note="" }

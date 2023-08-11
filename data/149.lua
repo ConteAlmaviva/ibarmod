@@ -7,13 +7,13 @@
 	mb_data = {}
 
 	mb_data[1] = { nm="N", id="17387821", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[2] = { nm="N", id="17387822", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[3] = { nm="N", id="17387823", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[2] = { nm="N", id="17387822", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[3] = { nm="N", id="17387823", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[4] = { nm="N", id="17387824", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[5] = { nm="N", id="17387826", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[6] = { nm="N", id="17387827", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[7] = { nm="N", id="17387828", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[8] = { nm="N", id="17387829", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[7] = { nm="N", id="17387828", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[8] = { nm="N", id="17387829", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[9] = { nm="N", id="17387830", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[10] = { nm="N", id="17387825", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[11] = { nm="N", id="17387820", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -22,18 +22,18 @@
 	mb_data[14] = { nm="N", id="17387816", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[15] = { nm="N", id="17387815", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[16] = { nm="N", id="17387831", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[17] = { nm="N", id="17387813", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[18] = { nm="N", id="17387812", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[17] = { nm="N", id="17387813", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[18] = { nm="N", id="17387812", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[19] = { nm="N", id="17387811", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[20] = { nm="N", id="17387810", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[21] = { nm="N", id="17387809", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[22] = { nm="N", id="17387808", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[23] = { nm="N", id="17387807", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[23] = { nm="N", id="17387807", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[24] = { nm="N", id="17387819", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[25] = { nm="N", id="17387814", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[26] = { nm="N", id="17387837", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[27] = { nm="N", id="17387833", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[28] = { nm="N", id="17387858", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[28] = { nm="N", id="17387858", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[29] = { nm="N", id="17387857", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[30] = { nm="N", id="17387856", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[31] = { nm="N", id="17387855", name="Orcish_Brawler", mj="2", sj="2", mlvl="35-39", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -45,7 +45,7 @@
 	mb_data[37] = { nm="N", id="17387849", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[38] = { nm="N", id="17387848", name="Orcish_Impaler", mj="14", sj="14", mlvl="32-36", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[39] = { nm="N", id="17387832", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[40] = { nm="N", id="17387847", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[40] = { nm="N", id="17387847", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[41] = { nm="N", id="17387845", name="Orcish_Brawler", mj="2", sj="2", mlvl="35-39", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[42] = { nm="N", id="17387844", name="Orcish_Nightraider", mj="11", sj="11", mlvl="34-38", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[43] = { nm="N", id="17387843", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -53,11 +53,11 @@
 	mb_data[45] = { nm="N", id="17387840", name="Orcish_Nightraider", mj="11", sj="11", mlvl="34-38", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[46] = { nm="N", id="17387839", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[47] = { nm="N", id="17387838", name="Orcish_Impaler", mj="14", sj="14", mlvl="32-36", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[48] = { nm="N", id="17387806", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[48] = { nm="N", id="17387806", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[49] = { nm="N", id="17387836", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[50] = { nm="N", id="17387835", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[51] = { nm="N", id="17387834", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[52] = { nm="N", id="17387846", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[52] = { nm="N", id="17387846", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[53] = { nm="N", id="17387805", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[54] = { nm="N", id="17387798", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[55] = { nm="N", id="17387803", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -93,7 +93,7 @@
 	mb_data[85] = { nm="N", id="17387801", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[86] = { nm="N", id="17387800", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[87] = { nm="N", id="17387799", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[88] = { nm="N", id="17387859", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[88] = { nm="N", id="17387859", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[89] = { nm="N", id="17387797", name="Geezard", mj="1", sj="1", mlvl="34-37", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[90] = { nm="N", id="17387796", name="Geezard", mj="1", sj="1", mlvl="34-37", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[91] = { nm="N", id="17387795", name="Geezard", mj="1", sj="1", mlvl="34-37", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -115,9 +115,9 @@
 	mb_data[107] = { nm="N", id="17387779", name="Orcish_Zerker", mj="8", sj="8", mlvl="54-58", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[108] = { nm="N", id="17387778", name="Orcish_Predator", mj="11", sj="11", mlvl="53-57", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[109] = { nm="N", id="17387804", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[110] = { nm="N", id="17387860", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[110] = { nm="N", id="17387860", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[111] = { nm="N", id="17387866", name="Morbol", mj="1", sj="1", mlvl="37-39", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[112] = { nm="N", id="17387862", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[112] = { nm="N", id="17387862", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[113] = { nm="N", id="17387944", name="Orcish_Warchief", mj="7", sj="7", mlvl="55-59", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[114] = { nm="N", id="17387943", name="Orcish_Warchief", mj="7", sj="7", mlvl="55-59", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[115] = { nm="N", id="17387942", name="Orcish_Champion", mj="2", sj="2", mlvl="64-68", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -175,35 +175,35 @@
 	mb_data[167] = { nm="N", id="17387919", name="Davoi_Mush", mj="1", sj="1", mlvl="33-36", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[168] = { nm="N", id="17387918", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[169] = { nm="N", id="17387917", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[170] = { nm="N", id="17387887", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[170] = { nm="N", id="17387887", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[171] = { nm="N", id="17387886", name="Davoi_Mush", mj="1", sj="1", mlvl="33-36", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[172] = { nm="N", id="17387885", name="Morbol", mj="1", sj="1", mlvl="37-39", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[173] = { nm="N", id="17387884", name="Davoi_Mush", mj="1", sj="1", mlvl="33-36", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Fire", note="" }
 	mb_data[174] = { nm="N", id="17387883", name="Morbol", mj="1", sj="1", mlvl="37-39", behavior="0", aggro="H", links="N", spawntype="0", weak="Fire", note="" }
-	mb_data[175] = { nm="N", id="17387882", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[176] = { nm="N", id="17387881", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[177] = { nm="N", id="17387880", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[178] = { nm="N", id="17387879", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[179] = { nm="N", id="17387878", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[180] = { nm="N", id="17387877", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[181] = { nm="N", id="17387876", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[182] = { nm="N", id="17387875", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[183] = { nm="N", id="17387874", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[184] = { nm="N", id="17387873", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[185] = { nm="N", id="17387872", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[186] = { nm="N", id="17387871", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[187] = { nm="N", id="17387870", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[188] = { nm="N", id="17387869", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[189] = { nm="N", id="17387868", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[190] = { nm="N", id="17387867", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[175] = { nm="N", id="17387882", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[176] = { nm="N", id="17387881", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[177] = { nm="N", id="17387880", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[178] = { nm="N", id="17387879", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[179] = { nm="N", id="17387878", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[180] = { nm="N", id="17387877", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[181] = { nm="N", id="17387876", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[182] = { nm="N", id="17387875", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[183] = { nm="N", id="17387874", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[184] = { nm="N", id="17387873", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[185] = { nm="N", id="17387872", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[186] = { nm="N", id="17387871", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[187] = { nm="N", id="17387870", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[188] = { nm="N", id="17387869", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[189] = { nm="N", id="17387868", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[190] = { nm="N", id="17387867", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[191] = { nm="N", id="17387749", name="Orcish_Warchief", mj="7", sj="7", mlvl="55-59", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[192] = { nm="N", id="17387865", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[193] = { nm="N", id="17387864", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[194] = { nm="N", id="17387863", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[195] = { nm="N", id="17387888", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[196] = { nm="N", id="17387861", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[197] = { nm="N", id="17387889", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[198] = { nm="N", id="17387891", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[192] = { nm="N", id="17387865", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[193] = { nm="N", id="17387864", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[194] = { nm="N", id="17387863", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[195] = { nm="N", id="17387888", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[196] = { nm="N", id="17387861", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[197] = { nm="N", id="17387889", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[198] = { nm="N", id="17387891", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[199] = { nm="N", id="17387916", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[200] = { nm="N", id="17387915", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[201] = { nm="N", id="17387914", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -218,23 +218,23 @@
 	mb_data[210] = { nm="N", id="17387905", name="Orcish_Impaler", mj="14", sj="14", mlvl="32-36", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[211] = { nm="N", id="17387904", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[212] = { nm="N", id="17387903", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[213] = { nm="N", id="17387902", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[214] = { nm="N", id="17387901", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[215] = { nm="N", id="17387900", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[216] = { nm="N", id="17387899", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[217] = { nm="N", id="17387898", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[218] = { nm="N", id="17387897", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[219] = { nm="N", id="17387896", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[220] = { nm="N", id="17387895", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[221] = { nm="N", id="17387894", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
-	mb_data[222] = { nm="N", id="17387893", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[223] = { nm="N", id="17387892", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[224] = { nm="N", id="17387890", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Lightning", note="" }
+	mb_data[213] = { nm="N", id="17387902", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[214] = { nm="N", id="17387901", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[215] = { nm="N", id="17387900", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[216] = { nm="N", id="17387899", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[217] = { nm="N", id="17387898", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[218] = { nm="N", id="17387897", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[219] = { nm="N", id="17387896", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[220] = { nm="N", id="17387895", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[221] = { nm="N", id="17387894", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
+	mb_data[222] = { nm="N", id="17387893", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[223] = { nm="N", id="17387892", name="Davoi_Pugil", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[224] = { nm="N", id="17387890", name="Water_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Ltng.", note="" }
 	mb_data[225] = { nm="N", id="17387748", name="Orcish_Zerker", mj="8", sj="8", mlvl="54-58", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[226] = { nm="N", id="17387841", name="Orcish_Brawler", mj="2", sj="2", mlvl="35-39", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[227] = { nm="N", id="17387746", name="Orcish_Veteran", mj="1", sj="1", mlvl="52-56", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[228] = { nm="N", id="17387601", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[229] = { nm="N", id="17387600", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[228] = { nm="N", id="17387601", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[229] = { nm="N", id="17387600", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[230] = { nm="N", id="17387599", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[231] = { nm="N", id="17387598", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[232] = { nm="N", id="17387597", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -264,8 +264,8 @@
 	mb_data[256] = { nm="N", id="17387630", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[257] = { nm="N", id="17387629", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[258] = { nm="N", id="17387628", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[259] = { nm="N", id="17387627", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[260] = { nm="N", id="17387626", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[259] = { nm="N", id="17387627", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[260] = { nm="N", id="17387626", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[261] = { nm="N", id="17387625", name="Orcish_Brawler", mj="2", sj="2", mlvl="35-39", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[262] = { nm="N", id="17387624", name="Orcish_Nightraider", mj="11", sj="11", mlvl="34-38", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[263] = { nm="N", id="17387623", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -282,7 +282,7 @@
 	mb_data[274] = { nm="N", id="17387612", name="Orcish_Nightraider", mj="11", sj="11", mlvl="34-38", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[275] = { nm="N", id="17387611", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[276] = { nm="N", id="17387610", name="Orcish_Impaler", mj="14", sj="14", mlvl="32-36", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[277] = { nm="N", id="17387609", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[277] = { nm="N", id="17387609", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[278] = { nm="N", id="17387608", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[279] = { nm="N", id="17387607", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[280] = { nm="N", id="17387606", name="Tigerbane_Bakdak", mj="8", sj="8", mlvl="31-32", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -290,30 +290,30 @@
 	mb_data[282] = { nm="N", id="17387631", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[283] = { nm="N", id="17387576", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[284] = { nm="N", id="17387574", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[285] = { nm="N", id="17387544", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[286] = { nm="N", id="17387543", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[287] = { nm="N", id="17387542", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[285] = { nm="N", id="17387544", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[286] = { nm="N", id="17387543", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[287] = { nm="N", id="17387542", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[288] = { nm="N", id="17387541", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[289] = { nm="N", id="17387540", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[290] = { nm="N", id="17387539", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[291] = { nm="N", id="17387538", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[292] = { nm="N", id="17387537", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[293] = { nm="N", id="17387536", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[292] = { nm="N", id="17387537", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[293] = { nm="N", id="17387536", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[294] = { nm="N", id="17387535", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[295] = { nm="N", id="17387534", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[296] = { nm="N", id="17387545", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[297] = { nm="N", id="17387747", name="Orcish_Predator", mj="11", sj="11", mlvl="53-57", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[298] = { nm="N", id="17387531", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[299] = { nm="N", id="17387530", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[298] = { nm="N", id="17387531", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[299] = { nm="N", id="17387530", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[300] = { nm="N", id="17387529", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[301] = { nm="N", id="17387528", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[302] = { nm="N", id="17387527", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[303] = { nm="N", id="17387526", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[304] = { nm="N", id="17387525", name="Oil_Spill", mj="1", sj="1", mlvl="45-47", behavior="0", aggro="H,Sc", links="N", spawntype="128", weak="Fire", note="" }
 	mb_data[305] = { nm="N", id="17387524", name="Gloop", mj="1", sj="1", mlvl="38-40", behavior="0", aggro="H,Sc", links="N", spawntype="128", weak="Fire", note="" }
-	mb_data[306] = { nm="N", id="17387523", name="Greater_Pugil", mj="1", sj="1", mlvl="30-32", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[307] = { nm="N", id="17387522", name="Ferocious_Pugil", mj="1", sj="1", mlvl="22-24", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[308] = { nm="N", id="17387521", name="Ferocious_Pugil", mj="1", sj="1", mlvl="22-24", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[306] = { nm="N", id="17387523", name="Greater_Pugil", mj="1", sj="1", mlvl="30-32", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[307] = { nm="N", id="17387522", name="Ferocious_Pugil", mj="1", sj="1", mlvl="22-24", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[308] = { nm="N", id="17387521", name="Ferocious_Pugil", mj="1", sj="1", mlvl="22-24", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[309] = { nm="N", id="17387532", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[310] = { nm="N", id="17387546", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[311] = { nm="N", id="17387547", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -325,40 +325,40 @@
 	mb_data[317] = { nm="N", id="17387569", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[318] = { nm="N", id="17387568", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[319] = { nm="N", id="17387567", name="Hawkeyed_Dnatbat", mj="11", sj="11", mlvl="26-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[320] = { nm="N", id="17387566", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[321] = { nm="N", id="17387565", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[320] = { nm="N", id="17387566", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[321] = { nm="N", id="17387565", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[322] = { nm="N", id="17387564", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[323] = { nm="N", id="17387563", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[324] = { nm="N", id="17387562", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[325] = { nm="N", id="17387561", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[324] = { nm="N", id="17387562", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[325] = { nm="N", id="17387561", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[326] = { nm="N", id="17387560", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[327] = { nm="N", id="17387559", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[328] = { nm="N", id="17387558", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[329] = { nm="N", id="17387557", name="Orcish_Fighter", mj="1", sj="1", mlvl="22-26", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[330] = { nm="N", id="17387556", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[331] = { nm="N", id="17387555", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[330] = { nm="N", id="17387556", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[331] = { nm="N", id="17387555", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[332] = { nm="N", id="17387554", name="Orcish_Serjeant", mj="7", sj="7", mlvl="24-28", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[333] = { nm="N", id="17387553", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[334] = { nm="N", id="17387552", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[335] = { nm="N", id="17387551", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[336] = { nm="N", id="17387550", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[337] = { nm="N", id="17387549", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[334] = { nm="N", id="17387552", name="Wood_Bats", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[335] = { nm="N", id="17387551", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[336] = { nm="N", id="17387550", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[337] = { nm="N", id="17387549", name="Davoi_Hornet", mj="1", sj="1", mlvl="20-23", behavior="0", aggro="Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[338] = { nm="N", id="17387575", name="War_Lizard", mj="1", sj="1", mlvl="29-32", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[339] = { nm="N", id="17387632", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[339] = { nm="N", id="17387632", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[340] = { nm="N", id="17387533", name="Orcish_Cursemaker", mj="4", sj="4", mlvl="23-27", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[341] = { nm="N", id="17387634", name="Orcish_Impaler", mj="14", sj="14", mlvl="32-36", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[342] = { nm="N", id="17387716", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[343] = { nm="N", id="17387715", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[344] = { nm="N", id="17387714", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[345] = { nm="N", id="17387713", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[346] = { nm="N", id="17387712", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[347] = { nm="N", id="17387711", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[346] = { nm="N", id="17387712", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[347] = { nm="N", id="17387711", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[348] = { nm="N", id="17387710", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[349] = { nm="N", id="17387709", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[350] = { nm="N", id="17387708", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[351] = { nm="N", id="17387707", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[352] = { nm="N", id="17387706", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[353] = { nm="N", id="17387717", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[353] = { nm="N", id="17387717", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[354] = { nm="N", id="17387705", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[355] = { nm="N", id="17387703", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[356] = { nm="N", id="17387702", name="Geezard", mj="1", sj="1", mlvl="34-37", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -375,9 +375,9 @@
 	mb_data[367] = { nm="N", id="17387719", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[368] = { nm="N", id="17387720", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[369] = { nm="N", id="17387721", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[370] = { nm="N", id="17387633", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[371] = { nm="N", id="17387745", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[372] = { nm="N", id="17387744", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[370] = { nm="N", id="17387633", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[371] = { nm="N", id="17387745", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[372] = { nm="N", id="17387744", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[373] = { nm="N", id="17387743", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[374] = { nm="N", id="17387742", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[375] = { nm="N", id="17387741", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -386,25 +386,25 @@
 	mb_data[378] = { nm="N", id="17387738", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[379] = { nm="N", id="17387737", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[380] = { nm="N", id="17387736", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[381] = { nm="N", id="17387735", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[381] = { nm="N", id="17387735", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[382] = { nm="N", id="17387734", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[383] = { nm="N", id="17387733", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[384] = { nm="N", id="17387732", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[385] = { nm="N", id="17387731", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[386] = { nm="N", id="17387730", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[387] = { nm="N", id="17387729", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[386] = { nm="N", id="17387730", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[387] = { nm="N", id="17387729", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[388] = { nm="N", id="17387728", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[389] = { nm="N", id="17387727", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[390] = { nm="N", id="17387726", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[391] = { nm="N", id="17387725", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[392] = { nm="N", id="17387724", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[393] = { nm="N", id="17387723", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[392] = { nm="N", id="17387724", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[393] = { nm="N", id="17387723", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[394] = { nm="N", id="17387722", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[395] = { nm="N", id="17387692", name="Thunder_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Earth", note="" }
-	mb_data[396] = { nm="N", id="17387691", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[397] = { nm="N", id="17387718", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[396] = { nm="N", id="17387691", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[397] = { nm="N", id="17387718", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[398] = { nm="N", id="17387689", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[399] = { nm="N", id="17387659", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[399] = { nm="N", id="17387659", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[400] = { nm="N", id="17387658", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[401] = { nm="N", id="17387657", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[402] = { nm="N", id="17387656", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -413,15 +413,15 @@
 	mb_data[405] = { nm="N", id="17387653", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[406] = { nm="N", id="17387652", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[407] = { nm="N", id="17387651", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[408] = { nm="N", id="17387650", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
-	mb_data[409] = { nm="N", id="17387649", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[408] = { nm="N", id="17387650", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
+	mb_data[409] = { nm="N", id="17387649", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[410] = { nm="N", id="17387648", name="Orcish_Brawler", mj="2", sj="2", mlvl="35-39", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[411] = { nm="N", id="17387647", name="Orcish_Nightraider", mj="11", sj="11", mlvl="34-38", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[412] = { nm="N", id="17387646", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[413] = { nm="N", id="17387645", name="Orcish_Impaler", mj="14", sj="14", mlvl="32-36", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[414] = { nm="N", id="17387644", name="Poisonhand_Gnadgad", mj="2", sj="2", mlvl="39-40", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[415] = { nm="N", id="17387643", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
-	mb_data[416] = { nm="N", id="17387642", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Piercing,Ice,Wind,Lightning,Light", note="" }
+	mb_data[415] = { nm="N", id="17387643", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
+	mb_data[416] = { nm="N", id="17387642", name="Wolf_Bat", mj="1", sj="1", mlvl="25-28", behavior="0", aggro="H", links="N", spawntype="2", weak="Prc.,Ice,Wind,Ltng.,Light", note="" }
 	mb_data[417] = { nm="N", id="17387641", name="Orcish_Firebelcher", mj="1", sj="1", mlvl="39-42", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[418] = { nm="N", id="17387640", name="Orcish_Nightraider", mj="11", sj="11", mlvl="34-38", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[419] = { nm="N", id="17387639", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -429,7 +429,7 @@
 	mb_data[421] = { nm="N", id="17387636", name="Orcish_Nightraider", mj="11", sj="11", mlvl="34-38", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[422] = { nm="N", id="17387690", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[423] = { nm="N", id="17387635", name="Orcish_Beastrider", mj="8", sj="8", mlvl="33-37", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[424] = { nm="N", id="17387660", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[424] = { nm="N", id="17387660", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[425] = { nm="N", id="17387661", name="Thunder_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Earth", note="" }
 	mb_data[426] = { nm="N", id="17387638", name="Orcish_Impaler", mj="14", sj="14", mlvl="32-36", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[427] = { nm="N", id="17387663", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -440,7 +440,7 @@
 	mb_data[432] = { nm="N", id="17387684", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[433] = { nm="N", id="17387683", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[434] = { nm="N", id="17387682", name="Thunder_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Earth", note="" }
-	mb_data[435] = { nm="N", id="17387681", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[435] = { nm="N", id="17387681", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[436] = { nm="N", id="17387680", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[437] = { nm="N", id="17387679", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[438] = { nm="N", id="17387678", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
@@ -453,11 +453,11 @@
 	mb_data[445] = { nm="N", id="17387668", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[446] = { nm="N", id="17387669", name="Orcish_Trooper", mj="7", sj="7", mlvl="45-49", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[447] = { nm="N", id="17387666", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[448] = { nm="N", id="17387671", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[448] = { nm="N", id="17387671", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[449] = { nm="N", id="17387672", name="Thunder_Elemental", mj="4", sj="5", mlvl="47-49", behavior="0", aggro="M", links="N", spawntype="4", weak="Earth", note="" }
 	mb_data[450] = { nm="N", id="17387673", name="Orcish_Bowshooter", mj="11", sj="11", mlvl="42-46", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 	mb_data[451] = { nm="N", id="17387674", name="Orcish_Footsoldier", mj="1", sj="1", mlvl="43-47", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
-	mb_data[452] = { nm="N", id="17387670", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Piercing,Ice", note="" }
+	mb_data[452] = { nm="N", id="17387670", name="Davoi_Wasp", mj="1", sj="1", mlvl="30-33", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Prc.,Ice", note="" }
 	mb_data[453] = { nm="N", id="17387664", name="Orcish_Gladiator", mj="2", sj="2", mlvl="44-48", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Water", note="" }
 
 	return mb_data;

@@ -6,13 +6,13 @@
 
 	mb_data = {}
 
-	mb_data[1] = { nm="N", id="17490052", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[2] = { nm="N", id="17490058", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[3] = { nm="N", id="17490053", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[4] = { nm="N", id="17490054", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[5] = { nm="N", id="17490055", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[1] = { nm="N", id="17490052", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[2] = { nm="N", id="17490058", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[3] = { nm="N", id="17490053", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[4] = { nm="N", id="17490054", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[5] = { nm="N", id="17490055", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[6] = { nm="N", id="17490056", name="Haunt", mj="4", sj="4", mlvl="63-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[7] = { nm="N", id="17490057", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[7] = { nm="N", id="17490057", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[8] = { nm="N", id="17490067", name="Air_Elemental", mj="4", sj="5", mlvl="68-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[9] = { nm="N", id="17490064", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[10] = { nm="N", id="17490060", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
@@ -21,80 +21,80 @@
 	mb_data[13] = { nm="N", id="17490063", name="Air_Elemental", mj="4", sj="5", mlvl="68-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[14] = { nm="N", id="17490065", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[15] = { nm="N", id="17490066", name="Fire_Elemental", mj="4", sj="5", mlvl="67-68", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
-	mb_data[16] = { nm="N", id="17490051", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[16] = { nm="N", id="17490051", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[17] = { nm="N", id="17490059", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[18] = { nm="N", id="17490050", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[18] = { nm="N", id="17490050", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[19] = { nm="N", id="17490035", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[20] = { nm="N", id="17490048", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[21] = { nm="N", id="17490068", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[20] = { nm="N", id="17490048", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[21] = { nm="N", id="17490068", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[22] = { nm="N", id="17490033", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[23] = { nm="N", id="17490034", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[24] = { nm="N", id="17490032", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[25] = { nm="N", id="17490036", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[26] = { nm="N", id="17490037", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[27] = { nm="N", id="17490038", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[28] = { nm="N", id="17490049", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[28] = { nm="N", id="17490049", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[29] = { nm="N", id="17490039", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[30] = { nm="N", id="17490041", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[30] = { nm="N", id="17490041", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[31] = { nm="N", id="17490042", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[32] = { nm="N", id="17490043", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[33] = { nm="N", id="17490044", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[34] = { nm="N", id="17490045", name="Fire_Elemental", mj="4", sj="5", mlvl="67-68", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[35] = { nm="N", id="17490046", name="Air_Elemental", mj="4", sj="5", mlvl="68-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
-	mb_data[36] = { nm="N", id="17490047", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[37] = { nm="N", id="17490040", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[38] = { nm="N", id="17490069", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[36] = { nm="N", id="17490047", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[37] = { nm="N", id="17490040", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[38] = { nm="N", id="17490069", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[39] = { nm="N", id="17490105", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[40] = { nm="N", id="17490071", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[40] = { nm="N", id="17490071", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[41] = { nm="N", id="17490093", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[42] = { nm="N", id="17490094", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[43] = { nm="N", id="17490095", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[44] = { nm="N", id="17490096", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[43] = { nm="N", id="17490095", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[44] = { nm="N", id="17490096", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[45] = { nm="N", id="17490097", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[46] = { nm="N", id="17490098", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[47] = { nm="N", id="17490099", name="Ladon", mj="1", sj="1", mlvl="80-82", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
-	mb_data[48] = { nm="N", id="17490092", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[48] = { nm="N", id="17490092", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[49] = { nm="N", id="17490100", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[50] = { nm="N", id="17490102", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[51] = { nm="N", id="17490103", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[50] = { nm="N", id="17490102", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[51] = { nm="N", id="17490103", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[52] = { nm="N", id="17490104", name="Ladon", mj="1", sj="1", mlvl="80-82", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[53] = { nm="N", id="17490106", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[54] = { nm="N", id="17490107", name="Greater_Cockatrice", mj="1", sj="1", mlvl="78-80", behavior="0", aggro="S", links="N", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[55] = { nm="N", id="17490108", name="Ladon", mj="1", sj="1", mlvl="80-82", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[56] = { nm="N", id="17490031", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[57] = { nm="Y", id="17490101", name="Pelican", mj="1", sj="1", mlvl="80-81", behavior="0", aggro="S", links="N", spawntype="128", weak="Ice,Wind", note="" }
-	mb_data[58] = { nm="N", id="17490091", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[59] = { nm="N", id="17490090", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[60] = { nm="N", id="17490089", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[61] = { nm="N", id="17490072", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[62] = { nm="N", id="17490073", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[63] = { nm="N", id="17490074", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[64] = { nm="N", id="17490075", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[65] = { nm="N", id="17490076", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[58] = { nm="N", id="17490091", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[59] = { nm="N", id="17490090", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[60] = { nm="N", id="17490089", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[61] = { nm="N", id="17490072", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[62] = { nm="N", id="17490073", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[63] = { nm="N", id="17490074", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[64] = { nm="N", id="17490075", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[65] = { nm="N", id="17490076", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[66] = { nm="N", id="17490077", name="Diplopod", mj="1", sj="1", mlvl="68-71", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Ice,Light", note="" }
-	mb_data[67] = { nm="N", id="17490078", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[68] = { nm="N", id="17490079", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[69] = { nm="N", id="17490080", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[70] = { nm="N", id="17490081", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[71] = { nm="N", id="17490082", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[72] = { nm="N", id="17490083", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[73] = { nm="N", id="17490084", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[74] = { nm="N", id="17490085", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[75] = { nm="N", id="17490086", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[76] = { nm="N", id="17490087", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[77] = { nm="N", id="17490088", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[78] = { nm="N", id="17490070", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[67] = { nm="N", id="17490078", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[68] = { nm="N", id="17490079", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[69] = { nm="N", id="17490080", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[70] = { nm="N", id="17490081", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[71] = { nm="N", id="17490082", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[72] = { nm="N", id="17490083", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[73] = { nm="N", id="17490084", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[74] = { nm="N", id="17490085", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[75] = { nm="N", id="17490086", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[76] = { nm="N", id="17490087", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[77] = { nm="N", id="17490088", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[78] = { nm="N", id="17490070", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[79] = { nm="N", id="17490030", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[80] = { nm="N", id="17489955", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[80] = { nm="N", id="17489955", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[81] = { nm="N", id="17490028", name="Haunt", mj="4", sj="4", mlvl="63-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[82] = { nm="N", id="17489971", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
-	mb_data[83] = { nm="N", id="17489972", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[84] = { nm="N", id="17489973", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[83] = { nm="N", id="17489972", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[84] = { nm="N", id="17489973", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[85] = { nm="N", id="17489974", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[86] = { nm="N", id="17489975", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
-	mb_data[87] = { nm="N", id="17489976", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[87] = { nm="N", id="17489976", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[88] = { nm="N", id="17489977", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
-	mb_data[89] = { nm="N", id="17489970", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[89] = { nm="N", id="17489970", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[90] = { nm="N", id="17489978", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[91] = { nm="Y", id="17489980", name="Sabotender_Mariachi", mj="2", sj="2", mlvl="68-70", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Dark", note="" }
 	mb_data[92] = { nm="N", id="17489981", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
@@ -107,19 +107,19 @@
 	mb_data[99] = { nm="N", id="17489969", name="Haunt", mj="4", sj="4", mlvl="63-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[100] = { nm="N", id="17489968", name="Air_Elemental", mj="4", sj="5", mlvl="68-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
 	mb_data[101] = { nm="N", id="17489967", name="Fire_Elemental", mj="4", sj="5", mlvl="67-68", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
-	mb_data[102] = { nm="N", id="17489950", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[103] = { nm="N", id="17489951", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[104] = { nm="N", id="17489952", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[105] = { nm="N", id="17489953", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[106] = { nm="N", id="17489954", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[107] = { nm="N", id="17490109", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[108] = { nm="N", id="17489956", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[102] = { nm="N", id="17489950", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[103] = { nm="N", id="17489951", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[104] = { nm="N", id="17489952", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[105] = { nm="N", id="17489953", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[106] = { nm="N", id="17489954", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[107] = { nm="N", id="17490109", name="Ovinnik", mj="1", sj="1", mlvl="77-79", behavior="0", aggro="S,Sc", links="Y", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[108] = { nm="N", id="17489956", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[109] = { nm="N", id="17489957", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[110] = { nm="N", id="17489958", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[111] = { nm="N", id="17489959", name="Fire_Elemental", mj="4", sj="5", mlvl="67-68", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[112] = { nm="N", id="17489960", name="Air_Elemental", mj="4", sj="5", mlvl="68-70", behavior="0", aggro="M", links="N", spawntype="4", weak="Ice", note="" }
-	mb_data[113] = { nm="N", id="17489961", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[114] = { nm="N", id="17489962", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[113] = { nm="N", id="17489961", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[114] = { nm="N", id="17489962", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[115] = { nm="N", id="17489963", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[116] = { nm="N", id="17489964", name="Sabotender_Sediendo", mj="2", sj="2", mlvl="64-67", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Dark", note="" }
 	mb_data[117] = { nm="N", id="17489965", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
@@ -129,8 +129,8 @@
 	mb_data[121] = { nm="N", id="17489988", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[122] = { nm="N", id="17489990", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[123] = { nm="N", id="17490012", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[124] = { nm="N", id="17490013", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[125] = { nm="N", id="17490014", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[124] = { nm="N", id="17490013", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[125] = { nm="N", id="17490014", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[126] = { nm="N", id="17490015", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[127] = { nm="Y", id="17490016", name="Amemet", mj="1", sj="1", mlvl="66-66", behavior="0", aggro="H", links="Y", spawntype="128", weak="Ice,Wind", note="" }
 	mb_data[128] = { nm="N", id="17490017", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
@@ -138,8 +138,8 @@
 	mb_data[130] = { nm="N", id="17490011", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[131] = { nm="N", id="17490019", name="Fire_Elemental", mj="4", sj="5", mlvl="67-68", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
 	mb_data[132] = { nm="N", id="17490021", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[133] = { nm="N", id="17490022", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[134] = { nm="N", id="17490023", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[133] = { nm="N", id="17490022", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[134] = { nm="N", id="17490023", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[135] = { nm="N", id="17490024", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[136] = { nm="N", id="17490025", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[137] = { nm="N", id="17490026", name="Fire_Elemental", mj="4", sj="5", mlvl="67-68", behavior="0", aggro="M", links="N", spawntype="4", weak="Water", note="" }
@@ -163,8 +163,8 @@
 	mb_data[155] = { nm="N", id="17490003", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[156] = { nm="N", id="17490004", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[157] = { nm="N", id="17490005", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[158] = { nm="N", id="17490006", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[159] = { nm="N", id="17490007", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[158] = { nm="N", id="17490006", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[159] = { nm="N", id="17490007", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[160] = { nm="N", id="17489989", name="Cave_Worm", mj="4", sj="5", mlvl="60-63", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[161] = { nm="N", id="17490110", name="Ladon", mj="1", sj="1", mlvl="80-82", behavior="0", aggro="S", links="Y", spawntype="0", weak="Dark", note="" }
 	mb_data[162] = { nm="N", id="17490186", name="Deinonychus", mj="6", sj="6", mlvl="65-68", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
@@ -184,9 +184,9 @@
 	mb_data[176] = { nm="N", id="17490228", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[177] = { nm="N", id="17490229", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[178] = { nm="N", id="17490230", name="Mimic", mj="1", sj="1", mlvl="65-68", behavior="0", aggro="H,M", links="N", spawntype="128", weak="Dark", note="" }
-	mb_data[179] = { nm="N", id="17490231", name="Cancer", mj="7", sj="7", mlvl="65-65", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[179] = { nm="N", id="17490231", name="Cancer", mj="7", sj="7", mlvl="65-65", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[180] = { nm="N", id="17490224", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
-	mb_data[181] = { nm="N", id="17490232", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[181] = { nm="N", id="17490232", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[182] = { nm="N", id="17490214", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[183] = { nm="N", id="17490212", name="Recluse_Spider", mj="1", sj="1", mlvl="63-66", behavior="0", aggro="H", links="Y", spawntype="0", weak="Ice", note="" }
 	mb_data[184] = { nm="N", id="17490196", name="Kuftal_Digger", mj="4", sj="5", mlvl="66-69", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
@@ -209,10 +209,10 @@
 	mb_data[201] = { nm="N", id="17490233", name="Phantom_Worm", mj="4", sj="5", mlvl="70-72", behavior="0", aggro="H", links="Y", spawntype="128", weak="Wind,Light", note="" }
 	mb_data[202] = { nm="Y", id="17490234", name="Guivre", mj="1", sj="1", mlvl="82-83", behavior="0", aggro="S,H", links="N", spawntype="128", weak="Light", note="" }
 	mb_data[203] = { nm="N", id="17490235", name="KettenKaefer", mj="8", sj="8", mlvl="75-75", behavior="0", aggro="S,Sc", links="N", spawntype="128", weak="Ice,Light", note="" }
-	mb_data[204] = { nm="N", id="17489938", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[205] = { nm="N", id="17489937", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[206] = { nm="N", id="17489936", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[207] = { nm="N", id="17489935", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[204] = { nm="N", id="17489938", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[205] = { nm="N", id="17489937", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[206] = { nm="N", id="17489936", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[207] = { nm="N", id="17489935", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[208] = { nm="N", id="17489934", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[209] = { nm="N", id="17489933", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[210] = { nm="N", id="17489931", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
@@ -220,27 +220,27 @@
 	mb_data[212] = { nm="N", id="17489929", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
 	mb_data[213] = { nm="N", id="17489927", name="Dervo_s_Ghost", mj="4", sj="4", mlvl="68-68", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="Fire,Light", note="" }
 	mb_data[214] = { nm="N", id="17489926", name="Gordov_s_Ghost", mj="4", sj="4", mlvl="68-68", behavior="0", aggro="H,HP", links="Y", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[215] = { nm="N", id="17489925", name="Devil_Manta", mj="2", sj="2", mlvl="66-68", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[216] = { nm="N", id="17489924", name="Stygian_Pugil", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[217] = { nm="N", id="17489923", name="Stygian_Pugil", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[218] = { nm="N", id="17489922", name="Scavenger_Crab", mj="7", sj="7", mlvl="60-62", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[219] = { nm="N", id="17489921", name="Scavenger_Crab", mj="7", sj="7", mlvl="60-62", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[215] = { nm="N", id="17489925", name="Devil_Manta", mj="2", sj="2", mlvl="66-68", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[216] = { nm="N", id="17489924", name="Stygian_Pugil", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[217] = { nm="N", id="17489923", name="Stygian_Pugil", mj="1", sj="1", mlvl="64-66", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[218] = { nm="N", id="17489922", name="Scavenger_Crab", mj="7", sj="7", mlvl="60-62", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[219] = { nm="N", id="17489921", name="Scavenger_Crab", mj="7", sj="7", mlvl="60-62", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[220] = { nm="N", id="17489928", name="Gizerl_s_Ghost", mj="4", sj="4", mlvl="68-68", behavior="0", aggro="H,HP", links="N", spawntype="128", weak="Fire,Light", note="" }
-	mb_data[221] = { nm="N", id="17489940", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[222] = { nm="N", id="17489941", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[221] = { nm="N", id="17489940", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[222] = { nm="N", id="17489941", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[223] = { nm="N", id="17489942", name="Haunt", mj="4", sj="4", mlvl="63-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
-	mb_data[224] = { nm="N", id="17490236", name="Tangaroa", mj="4", sj="4", mlvl="96-97", behavior="0", aggro="H", links="N", spawntype="128", weak="Lightning", note="" }
-	mb_data[225] = { nm="N", id="17490237", name="Koura", mj="7", sj="7", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[226] = { nm="N", id="17490238", name="PekaPeka", mj="2", sj="2", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[227] = { nm="N", id="17490239", name="Moki", mj="1", sj="1", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[228] = { nm="N", id="17490240", name="Tangaroa", mj="4", sj="4", mlvl="96-97", behavior="0", aggro="H", links="N", spawntype="128", weak="Lightning", note="" }
-	mb_data[229] = { nm="N", id="17490241", name="Koura", mj="7", sj="7", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[230] = { nm="N", id="17490242", name="PekaPeka", mj="2", sj="2", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[231] = { nm="N", id="17490243", name="Moki", mj="1", sj="1", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[232] = { nm="N", id="17490244", name="Tangaroa", mj="4", sj="4", mlvl="96-97", behavior="0", aggro="H", links="N", spawntype="128", weak="Lightning", note="" }
-	mb_data[233] = { nm="N", id="17490245", name="Koura", mj="7", sj="7", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[234] = { nm="N", id="17490246", name="PekaPeka", mj="2", sj="2", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
-	mb_data[235] = { nm="N", id="17490247", name="Moki", mj="1", sj="1", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Lightning", note="" }
+	mb_data[224] = { nm="N", id="17490236", name="Tangaroa", mj="4", sj="4", mlvl="96-97", behavior="0", aggro="H", links="N", spawntype="128", weak="Ltng.", note="" }
+	mb_data[225] = { nm="N", id="17490237", name="Koura", mj="7", sj="7", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[226] = { nm="N", id="17490238", name="PekaPeka", mj="2", sj="2", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[227] = { nm="N", id="17490239", name="Moki", mj="1", sj="1", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[228] = { nm="N", id="17490240", name="Tangaroa", mj="4", sj="4", mlvl="96-97", behavior="0", aggro="H", links="N", spawntype="128", weak="Ltng.", note="" }
+	mb_data[229] = { nm="N", id="17490241", name="Koura", mj="7", sj="7", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[230] = { nm="N", id="17490242", name="PekaPeka", mj="2", sj="2", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[231] = { nm="N", id="17490243", name="Moki", mj="1", sj="1", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[232] = { nm="N", id="17490244", name="Tangaroa", mj="4", sj="4", mlvl="96-97", behavior="0", aggro="H", links="N", spawntype="128", weak="Ltng.", note="" }
+	mb_data[233] = { nm="N", id="17490245", name="Koura", mj="7", sj="7", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[234] = { nm="N", id="17490246", name="PekaPeka", mj="2", sj="2", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
+	mb_data[235] = { nm="N", id="17490247", name="Moki", mj="1", sj="1", mlvl="92-93", behavior="0", aggro="H", links="N", spawntype="128", weak="Ice,Ltng.", note="" }
 	mb_data[236] = { nm="N", id="17489947", name="Haunt", mj="4", sj="4", mlvl="63-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[237] = { nm="N", id="17489946", name="Haunt", mj="4", sj="4", mlvl="63-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
 	mb_data[238] = { nm="N", id="17489945", name="Haunt", mj="4", sj="4", mlvl="63-66", behavior="0", aggro="H,HP", links="N", spawntype="0", weak="Fire,Light", note="" }
@@ -250,42 +250,42 @@
 	mb_data[242] = { nm="N", id="17490194", name="Kuftal_Digger", mj="4", sj="5", mlvl="66-69", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[243] = { nm="N", id="17490193", name="Kuftal_Digger", mj="4", sj="5", mlvl="66-69", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[244] = { nm="N", id="17490192", name="Kuftal_Digger", mj="4", sj="5", mlvl="66-69", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[245] = { nm="N", id="17490134", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[246] = { nm="N", id="17490135", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[247] = { nm="N", id="17490136", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[245] = { nm="N", id="17490134", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[246] = { nm="N", id="17490135", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[247] = { nm="N", id="17490136", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[248] = { nm="N", id="17490137", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[249] = { nm="N", id="17490138", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[250] = { nm="N", id="17490139", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[251] = { nm="N", id="17490140", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[250] = { nm="N", id="17490139", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[251] = { nm="N", id="17490140", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[252] = { nm="N", id="17490133", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[253] = { nm="N", id="17490141", name="Deinonychus", mj="6", sj="6", mlvl="65-68", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
-	mb_data[254] = { nm="N", id="17490143", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[254] = { nm="N", id="17490143", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 	mb_data[255] = { nm="N", id="17490144", name="Deinonychus", mj="6", sj="6", mlvl="65-68", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[256] = { nm="N", id="17490145", name="Goblin_Mercenary", mj="1", sj="1", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[257] = { nm="N", id="17490146", name="Deinonychus", mj="6", sj="6", mlvl="65-68", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[258] = { nm="N", id="17490147", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[259] = { nm="N", id="17490148", name="Deinonychus", mj="6", sj="6", mlvl="65-68", behavior="0", aggro="H,Sc", links="N", spawntype="0", weak="Water", note="" }
 	mb_data[260] = { nm="N", id="17490149", name="Goblin_Alchemist", mj="3", sj="3", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
-	mb_data[261] = { nm="N", id="17490142", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[262] = { nm="N", id="17490132", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[263] = { nm="N", id="17490131", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[261] = { nm="N", id="17490142", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[262] = { nm="N", id="17490132", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[263] = { nm="N", id="17490131", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[264] = { nm="N", id="17490130", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[265] = { nm="N", id="17490113", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[266] = { nm="N", id="17490114", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[265] = { nm="N", id="17490113", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[266] = { nm="N", id="17490114", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[267] = { nm="N", id="17490115", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[268] = { nm="N", id="17490116", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[269] = { nm="N", id="17490117", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[270] = { nm="N", id="17490118", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[271] = { nm="N", id="17490119", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[271] = { nm="N", id="17490119", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[272] = { nm="N", id="17490120", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[273] = { nm="N", id="17490121", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[273] = { nm="N", id="17490121", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[274] = { nm="N", id="17490122", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[275] = { nm="N", id="17490123", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[276] = { nm="N", id="17490124", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[275] = { nm="N", id="17490123", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[276] = { nm="N", id="17490124", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[277] = { nm="N", id="17490125", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[278] = { nm="N", id="17490126", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
-	mb_data[279] = { nm="N", id="17490127", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
-	mb_data[280] = { nm="N", id="17490128", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Lightning", note="" }
+	mb_data[279] = { nm="N", id="17490127", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
+	mb_data[280] = { nm="N", id="17490128", name="Machairodus", mj="1", sj="1", mlvl="81-84", behavior="0", aggro="S,Sc", links="N", spawntype="0", weak="Fire,Ltng.", note="" }
 	mb_data[281] = { nm="N", id="17490129", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
 	mb_data[282] = { nm="N", id="17490150", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[283] = { nm="N", id="17490111", name="Kuftal_Delver", mj="4", sj="5", mlvl="81-84", behavior="0", aggro="H", links="Y", spawntype="0", weak="Wind,Light", note="" }
@@ -330,7 +330,7 @@
 	mb_data[322] = { nm="N", id="17490170", name="Goblin_Bandit", mj="6", sj="6", mlvl="66-69", behavior="0", aggro="S", links="Y", spawntype="0", weak="Light", note="" }
 	mb_data[323] = { nm="N", id="17490152", name="Goblin_s_Spider", mj="1", sj="1", mlvl="53-55", behavior="0", aggro="NA", links="Y", spawntype="128", weak="Ice", note="" }
 	mb_data[324] = { nm="N", id="17489930", name="Sand_Lizard", mj="1", sj="1", mlvl="61-64", behavior="0", aggro="NA", links="Y", spawntype="0", weak="Ice,Wind", note="" }
-	mb_data[325] = { nm="N", id="17489948", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
-	mb_data[326] = { nm="N", id="17489949", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Lightning", note="" }
+	mb_data[325] = { nm="N", id="17489948", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
+	mb_data[326] = { nm="N", id="17489949", name="Robber_Crab", mj="7", sj="7", mlvl="60-63", behavior="0", aggro="H", links="N", spawntype="0", weak="Ice,Ltng.", note="" }
 
 	return mb_data;
